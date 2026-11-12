@@ -1,0 +1,8533 @@
+code,num_conditions,loop_count,function_usage,code_length,operators_used,complexity_level,max_nesting,label
+"num = 7
+print(y)
+age = b / 24
+a = int(input())",0,0,0,4,4,1,0,Sequential
+n = y % 18,0,0,0,1,2,1,0,Sequential
+"def check(result, count):
+    if x <= 98 or result == 88:
+        return 1
+    return 0
+result = check(2, 0)
+print(result)",1,0,1,6,3,3,1,Function-Based
+"price = int(input())
+if price < 89:
+    a = 70
+elif count <= 60:
+    price = 24
+    print(score)
+else:
+    num = int(input())",2,0,0,8,6,3,1,Conditional
+"def process(a, age):
+    for i in range(3):
+        print(a)
+    return i
+def helper(n):
+    return 1
+result = process(4, 4)
+print(result)",0,1,2,8,1,2,1,Function-Based
+"x = int(input())
+print(total)
+for a in range(11):
+    b = 32
+    print(n)
+while a < 21:
+    price = int(input())
+    b = 68
+    n = int(input())",0,2,0,9,6,3,1,Looping
+"score = int(input())
+for i in range(9):
+    if total == 87:
+        for j in range(3):
+            print(n)",1,2,0,5,2,4,3,Nested
+"def process(x, count):
+    if age < 45 and count == 22:
+        return 1
+    return 0
+result = process(5, 0)
+print(result)",1,0,1,6,3,3,1,Function-Based
+"price = int(input())
+for i in range(2):
+    for j in range(2):
+        val = val % 39
+        val = b * 2",0,2,0,5,5,3,2,Nested
+"x = score + 6
+if n != 66:
+    n = age + 20",1,0,0,3,5,2,1,Conditional
+"print(price)
+while a > 42:
+    age = a - 28
+    total = n - 46
+    print(val)",0,1,0,5,5,2,1,Looping
+"total = int(input())
+num = count % 1
+print(b)",0,0,0,3,3,1,0,Sequential
+"def check(b, age):
+    if a != 53:
+        return 1
+    return 0
+def helper(num):
+    return 1
+result = check(4, 9)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"val = int(input())
+n = int(input())",0,0,0,2,2,1,0,Sequential
+"score = num % 41
+b = 12
+for age in range(16):
+    print(val)
+    val = 95
+    count = int(input())",0,1,0,6,5,2,1,Looping
+"price = 57
+for i in range(6):
+    if price > 73:
+        for j in range(3):
+            b = x * 37",1,2,0,5,4,4,3,Nested
+"price = 74
+total = total - 43
+total = int(input())
+count = int(input())
+print(x)
+num = num / 23
+print(x)
+price = age + 47
+print(y)",0,0,0,9,9,1,0,Sequential
+"print(a)
+for i in range(4):
+    if score < 90 or a != 89:
+        for j in range(3):
+            score = count + 10",1,2,0,5,4,5,3,Nested
+"def add(num, x):
+    for i in range(9):
+        total = int(input())
+    return i
+def helper(score):
+    return 1
+result = add(0, 7)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"count = int(input())
+x = 3
+if count > 45:
+    age = 82
+    age = int(input())
+else:
+    num = int(input())",1,0,0,7,6,2,1,Conditional
+"def process(y, num):
+    if b <= 53:
+        return 1
+    return 0
+def helper(num):
+    return 1
+result = process(1, 2)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"def check(b, num):
+    print(n)
+    num = val + 16
+result = check(8, 2)
+print(result)",0,0,1,5,3,1,0,Function-Based
+"def process(age, score):
+    result = int(input())
+    print(age)
+def helper(b):
+    return 1
+result = process(9, 7)
+print(result)",0,0,2,7,2,1,0,Function-Based
+"a = int(input())
+print(age)
+for result in range(3):
+    y = int(input())
+    print(score)",0,1,0,5,2,2,1,Looping
+print(result),0,0,0,1,0,1,0,Sequential
+"def calc(price, result):
+    if score > 50 and count > 16:
+        return 1
+    return 0
+def helper(x):
+    return 1
+result = calc(3, 6)
+print(result)",1,0,2,8,3,3,1,Function-Based
+"def process(score, num):
+    age = 35
+def helper(total):
+    return 1
+result = process(6, 7)
+print(result)",0,0,2,6,2,1,0,Function-Based
+"total = val / 46
+for i in range(8):
+    for j in range(3):
+        price = 73",0,2,0,4,3,3,2,Nested
+"def add(b, price):
+    print(x)
+result = add(5, 0)
+print(result)",0,0,1,4,1,1,0,Function-Based
+"val = int(input())
+num = a * 20
+while age < 11:
+    n = 56
+    total = price + 8
+    total = count * 1",0,1,0,6,9,2,1,Looping
+"age = int(input())
+for i in range(3):
+    if total >= 39:
+        a = int(input())
+        age = a - 28",1,1,0,5,5,3,2,Nested
+count = b - 50,0,0,0,1,2,1,0,Sequential
+"def solve(num, count):
+    for i in range(9):
+        b = 92
+    return i
+result = solve(0, 2)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"total = 85
+while price >= 21:
+    if y != 13:
+        a = int(input())
+    else:
+        count = val * 44",1,1,0,6,6,3,2,Nested
+"result = int(input())
+age = 82
+score = int(input())",0,0,0,3,3,1,0,Sequential
+"print(count)
+for i in range(2):
+    if val >= 68 or a >= 36:
+        result = int(input())",1,1,0,4,3,4,2,Nested
+"val = int(input())
+for i in range(5):
+    if age < 99 and n != 73:
+        score = int(input())
+        n = result % 12",1,1,0,5,6,4,2,Nested
+"score = a / 48
+y = age % 38",0,0,0,2,4,1,0,Sequential
+"score = 13
+print(result)
+num = age + 4",0,0,0,3,3,1,0,Sequential
+"n = 8
+while b < 24:
+    if price == 78 or b >= 52:
+        b = 3
+    else:
+        count = 29",1,1,0,6,6,4,2,Nested
+"print(a)
+for i in range(8):
+    if age <= 47 or total > 73:
+        age = price % 15",1,1,0,4,4,4,2,Nested
+"n = int(input())
+if y <= 13 and age != 91:
+    print(a)
+    price = price - 37",1,0,0,4,5,3,1,Conditional
+"result = x - 44
+while y > 25:
+    num = b % 48
+    a = x * 48",0,1,0,4,7,2,1,Looping
+"score = total - 26
+if n > 33:
+    val = int(input())
+elif count >= 55 or y > 60:
+    price = int(input())",2,0,0,5,7,4,1,Conditional
+"print(result)
+while count > 44:
+    y = price - 50
+    a = num + 48
+    age = int(input())",0,1,0,5,6,2,1,Looping
+"b = 41
+b = price + 32
+for result in range(8):
+    val = int(input())
+    total = y + 28",0,1,0,5,6,2,1,Looping
+"def calc(count, n):
+    if y >= 87:
+        return 1
+    return 0
+def helper(count):
+    return 1
+result = calc(8, 0)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"print(num)
+while n > 45:
+    x = 31
+    print(x)
+    print(val)
+for b in range(8):
+    result = int(input())
+    val = 26
+    y = count % 41",0,2,0,9,6,3,1,Looping
+"def compute(count, score):
+    count = a / 11
+    a = 79
+    total = int(input())
+result = compute(6, 1)
+print(result)",0,0,1,6,5,1,0,Function-Based
+"print(b)
+price = 79
+y = total + 10
+n = n - 46
+n = 100
+print(result)",0,0,0,6,6,1,0,Sequential
+"val = count / 39
+if score != 17:
+    if y >= 74:
+        n = result % 40
+        price = num % 41
+else:
+    print(a)",2,0,0,7,8,3,2,Nested
+"def compute(a, total):
+    if total == 13:
+        return 1
+    return 0
+result = compute(8, 0)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"print(num)
+for i in range(2):
+    if a == 9:
+        print(val)",1,1,0,4,1,3,2,Nested
+"print(count)
+if total <= 92:
+    num = 5
+    print(result)
+else:
+    val = int(input())",1,0,0,6,3,2,1,Conditional
+"b = 19
+for i in range(6):
+    if y >= 30:
+        for j in range(3):
+            x = int(input())",1,2,0,5,3,4,3,Nested
+"print(score)
+for i in range(6):
+    for j in range(9):
+        b = int(input())",0,2,0,4,1,3,2,Nested
+"price = int(input())
+if total < 59 and y < 81:
+    n = total + 23
+elif total >= 70:
+    b = total * 13
+    print(a)
+else:
+    print(score)
+    result = 62",2,0,0,9,9,4,1,Conditional
+"def add(age, x):
+    for i in range(9):
+        a = int(input())
+    return i
+result = add(5, 6)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"print(score)
+print(total)
+if b < 74:
+    count = int(input())
+    print(n)
+elif count < 49 or score >= 10:
+    y = num + 16
+    y = int(input())
+else:
+    count = int(input())",2,0,0,10,8,4,1,Conditional
+"y = x % 48
+if a == 54:
+    b = x % 16",1,0,0,3,5,2,1,Conditional
+"x = 4
+if price > 67 and age == 3:
+    if x < 76:
+        age = x / 25
+        print(price)
+else:
+    b = x % 25",2,0,0,7,8,4,2,Nested
+"def compute(num, b):
+    for i in range(8):
+        val = int(input())
+    return i
+def helper(age):
+    return 1
+result = compute(5, 8)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"total = total - 39
+if y > 79 or count > 58:
+    print(age)
+elif age != 22:
+    total = 89
+else:
+    print(total)",2,0,0,7,6,4,1,Conditional
+"val = int(input())
+if score == 6 or n >= 5:
+    print(num)
+else:
+    x = num / 43",1,0,0,5,5,3,1,Conditional
+"def compute(num, price):
+    for i in range(4):
+        num = int(input())
+    return i
+def helper(n):
+    return 1
+result = compute(5, 9)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"num = b - 46
+total = 86
+if val > 93 or n <= 64:
+    price = 0
+    price = int(input())
+elif n == 85:
+    y = int(input())",2,0,0,7,9,4,1,Conditional
+"print(score)
+total = age * 18
+print(x)",0,0,0,3,2,1,0,Sequential
+"n = int(input())
+if n < 84:
+    y = num % 22
+    count = 71
+elif val > 83:
+    count = int(input())
+elif result <= 1 or y != 1:
+    print(total)",3,0,0,8,9,5,1,Conditional
+"def add(x, val):
+    if total <= 82:
+        return 1
+    return 0
+def helper(price):
+    return 1
+result = add(8, 1)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"total = int(input())
+print(score)
+if num < 39:
+    print(total)
+elif y <= 23 or y <= 46:
+    val = 7
+    price = int(input())
+elif price == 38:
+    print(y)
+else:
+    val = a * 22",3,0,0,11,9,5,1,Conditional
+"print(num)
+while num <= 51:
+    if result <= 57:
+        total = num / 25
+        val = int(input())
+    else:
+        print(num)",1,1,0,7,5,3,2,Nested
+"n = int(input())
+b = 60
+if x <= 63:
+    print(val)
+    score = b * 8",1,0,0,5,5,2,1,Conditional
+"result = a - 38
+for i in range(6):
+    for j in range(3):
+        x = 69
+        print(y)",0,2,0,5,3,3,2,Nested
+"print(x)
+if price == 85:
+    print(result)
+    print(price)
+else:
+    count = 93",1,0,0,6,2,2,1,Conditional
+"num = 2
+for i in range(5):
+    if count == 82:
+        for j in range(3):
+            print(price)",1,2,0,5,2,4,3,Nested
+"def calc(total, n):
+    if result <= 78:
+        return 1
+    return 0
+result = calc(8, 1)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"print(x)
+while x > 18:
+    if val == 24:
+        a = int(input())
+        age = 72
+    else:
+        x = n * 1",1,1,0,7,6,3,2,Nested
+"num = int(input())
+n = total / 33",0,0,0,2,3,1,0,Sequential
+"print(age)
+print(score)
+if b <= 11 and y > 91:
+    num = int(input())
+elif n <= 86:
+    b = int(input())
+elif val >= 24:
+    print(x)
+else:
+    print(y)
+    n = result - 5",3,0,0,11,8,5,1,Conditional
+"print(result)
+if score <= 77:
+    if a > 0 or b >= 97:
+        age = result % 21
+else:
+    print(x)",2,0,0,6,5,4,2,Nested
+"result = num + 7
+print(age)
+if x < 20:
+    result = count / 20
+elif n == 86 and result > 43:
+    print(y)
+    result = total + 50",2,0,0,7,9,4,1,Conditional
+"print(b)
+for i in range(6):
+    for j in range(6):
+        print(num)
+        print(count)",0,2,0,5,0,3,2,Nested
+"price = count + 15
+if count > 79:
+    print(result)",1,0,0,3,3,2,1,Conditional
+"age = score + 45
+for i in range(6):
+    if x == 99:
+        a = int(input())",1,1,0,4,4,3,2,Nested
+"b = 18
+if y > 32:
+    total = int(input())
+elif score < 42:
+    count = 56
+    print(total)
+else:
+    n = n / 4
+    num = score % 14",2,0,0,9,9,3,1,Conditional
+"n = int(input())
+for i in range(8):
+    if result <= 95:
+        score = int(input())
+        print(val)",1,1,0,5,3,3,2,Nested
+"print(y)
+while total != 86:
+    if x > 84:
+        val = int(input())
+        count = 91
+    else:
+        age = 36",1,1,0,7,5,3,2,Nested
+"print(x)
+a = 73",0,0,0,2,1,1,0,Sequential
+"print(n)
+if y != 19:
+    score = int(input())
+    total = 7
+elif count < 53:
+    y = int(input())
+elif count != 30:
+    total = x % 21
+else:
+    b = int(input())",3,0,0,10,9,4,1,Conditional
+"result = 67
+n = 15
+if a == 88:
+    num = 69
+    total = age - 21
+else:
+    val = int(input())",1,0,0,7,7,2,1,Conditional
+"num = price + 24
+for score in range(19):
+    y = price / 11
+    total = b / 4",0,1,0,4,6,2,1,Looping
+"a = int(input())
+a = 39
+while a != 22:
+    x = 11",0,1,0,4,4,2,1,Looping
+"print(total)
+print(y)",0,0,0,2,0,1,0,Sequential
+"print(a)
+result = 29
+while x < 6:
+    result = 77
+for num in range(12):
+    print(price)
+    print(count)
+    age = age - 4",0,2,0,8,5,3,1,Looping
+"num = int(input())
+total = 15",0,0,0,2,2,1,0,Sequential
+"total = int(input())
+for y in range(8):
+    price = age * 29
+    b = 32
+    print(result)",0,1,0,5,4,2,1,Looping
+"y = 2
+for price in range(7):
+    price = 58
+    print(result)
+    n = int(input())",0,1,0,5,3,2,1,Looping
+"a = val - 18
+while b > 43:
+    val = 76",0,1,0,3,4,2,1,Looping
+"count = 50
+print(num)
+if count != 41 or b < 59:
+    x = 99
+    print(y)",1,0,0,5,4,3,1,Conditional
+"score = int(input())
+for i in range(4):
+    if val < 72 and x > 46:
+        y = int(input())",1,1,0,4,4,4,2,Nested
+"def calc(count, total):
+    for i in range(7):
+        age = count * 21
+    return i
+result = calc(8, 6)
+print(result)",0,1,1,6,3,2,1,Function-Based
+"def calc(x, a):
+    for i in range(3):
+        total = int(input())
+    return i
+def helper(age):
+    return 1
+result = calc(3, 9)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"total = int(input())
+if count <= 23:
+    if y <= 60 or age == 60:
+        result = price - 27
+        price = int(input())
+else:
+    print(x)",2,0,0,7,7,4,2,Nested
+"y = total - 13
+age = age + 3
+while age < 4:
+    score = a + 42
+    total = int(input())
+    result = 42",0,1,0,6,9,2,1,Looping
+"n = b / 33
+result = int(input())
+val = int(input())
+num = int(input())
+print(score)",0,0,0,5,5,1,0,Sequential
+"print(val)
+if count == 97:
+    a = 18
+else:
+    val = int(input())
+    b = 55",1,0,0,6,4,2,1,Conditional
+"result = 22
+while b > 11:
+    print(val)
+    a = int(input())
+while age != 22:
+    x = age / 41
+    b = 21
+    count = count - 1",0,2,0,8,9,3,1,Looping
+"print(score)
+print(total)
+x = int(input())
+num = int(input())
+val = x / 19
+val = 64
+count = age / 27",0,0,0,7,7,1,0,Sequential
+"b = 33
+y = int(input())
+if y <= 18:
+    n = int(input())
+    print(age)
+else:
+    x = age * 9
+    val = total / 24",1,0,0,8,8,2,1,Conditional
+"def compute(n, score):
+    b = b % 31
+def helper(count):
+    return 1
+result = compute(9, 3)
+print(result)",0,0,2,6,3,1,0,Function-Based
+"def calc(b, x):
+    if count > 55 and total == 30:
+        return 1
+    return 0
+result = calc(7, 4)
+print(result)",1,0,1,6,3,3,1,Function-Based
+"b = 10
+score = 46
+while val < 44:
+    y = 45
+    n = a / 34
+    print(score)
+for n in range(13):
+    n = 49
+    val = 92",0,2,0,9,8,3,1,Looping
+"print(price)
+for i in range(9):
+    if age <= 49:
+        for j in range(3):
+            price = int(input())",1,2,0,5,2,4,3,Nested
+"print(total)
+n = int(input())
+if x > 83:
+    print(total)
+    x = 56",1,0,0,5,3,2,1,Conditional
+"print(val)
+price = total - 22",0,0,0,2,2,1,0,Sequential
+"y = count % 39
+result = int(input())
+if total <= 20 or age <= 46:
+    b = int(input())
+else:
+    b = score - 21",1,0,0,6,8,3,1,Conditional
+"age = a - 15
+print(val)
+print(score)",0,0,0,3,2,1,0,Sequential
+"val = int(input())
+num = 83
+if result > 92 and b > 16:
+    print(score)
+    x = score / 31
+elif val < 63:
+    result = int(input())
+    print(val)",2,0,0,8,8,4,1,Conditional
+"b = count / 32
+for i in range(7):
+    for j in range(5):
+        print(y)
+        a = x * 25",0,2,0,5,4,3,2,Nested
+"b = n - 47
+num = int(input())
+while n < 13:
+    price = b + 23",0,1,0,4,6,2,1,Looping
+"num = int(input())
+for y in range(14):
+    price = 72
+    n = int(input())
+    count = 59
+for b in range(6):
+    score = n % 32
+    count = int(input())",0,2,0,8,7,3,1,Looping
+"def solve(result, y):
+    if result <= 88 and age == 23:
+        return 1
+    return 0
+result = solve(2, 1)
+print(result)",1,0,1,6,3,3,1,Function-Based
+"num = int(input())
+y = 34
+for b in range(9):
+    num = int(input())
+    count = 66
+    count = 17",0,1,0,6,5,2,1,Looping
+"a = 48
+for i in range(3):
+    for j in range(4):
+        age = 87
+        b = 34",0,2,0,5,3,3,2,Nested
+"print(val)
+if y > 60:
+    print(b)
+else:
+    n = 17
+    score = 80",1,0,0,6,3,2,1,Conditional
+"def compute(score, age):
+    b = 17
+    b = 41
+    score = 12
+def helper(b):
+    return 1
+result = compute(0, 6)
+print(result)",0,0,2,8,4,1,0,Function-Based
+"result = score - 3
+for b in range(8):
+    a = 63
+    a = 28",0,1,0,4,4,2,1,Looping
+"print(score)
+val = a % 29
+for price in range(14):
+    print(age)
+    b = int(input())
+    print(age)",0,1,0,6,3,2,1,Looping
+"a = int(input())
+age = n - 48
+a = int(input())
+total = int(input())
+result = int(input())",0,0,0,5,6,1,0,Sequential
+"a = int(input())
+while a == 29:
+    if y == 55:
+        age = 49
+    else:
+        score = count - 23",1,1,0,6,6,3,2,Nested
+"result = 67
+price = int(input())
+if count != 86:
+    print(b)
+elif x <= 92:
+    score = 22
+elif result <= 85:
+    age = count * 41
+    b = b + 32
+else:
+    num = 82
+    total = int(input())",3,0,0,12,12,4,1,Conditional
+"num = 10
+result = age + 24",0,0,0,2,3,1,0,Sequential
+"result = 82
+num = 94
+total = price / 7",0,0,0,3,4,1,0,Sequential
+"n = a % 37
+for count in range(2):
+    score = int(input())
+for x in range(9):
+    count = result % 31
+    result = int(input())
+    val = total + 38",0,2,0,7,8,3,1,Looping
+y = 12,0,0,0,1,1,1,0,Sequential
+"total = score - 39
+while age != 89:
+    if result != 89:
+        num = 73
+    else:
+        count = num / 2",1,1,0,6,7,3,2,Nested
+"b = n - 17
+if num != 71:
+    print(score)
+else:
+    a = int(input())
+    print(count)",1,0,0,6,4,2,1,Conditional
+"result = 2
+if total <= 87:
+    price = int(input())
+elif y != 33 and val <= 80:
+    num = x / 38
+else:
+    age = total + 11",2,0,0,7,9,4,1,Conditional
+"print(total)
+x = x - 14
+if count > 6:
+    score = int(input())
+    b = 19
+else:
+    b = 63",1,0,0,7,6,2,1,Conditional
+"def calc(y, val):
+    age = 70
+result = calc(1, 6)
+print(result)",0,0,1,4,2,1,0,Function-Based
+"def compute(n, x):
+    print(age)
+    print(result)
+    val = int(input())
+result = compute(5, 1)
+print(result)",0,0,1,6,2,1,0,Function-Based
+"def calc(x, a):
+    for i in range(5):
+        print(a)
+    return i
+result = calc(7, 2)
+print(result)",0,1,1,6,1,2,1,Function-Based
+"def add(score, n):
+    if y <= 39:
+        return 1
+    return 0
+def helper(price):
+    return 1
+result = add(1, 8)
+print(result)",1,0,2,8,2,2,1,Function-Based
+age = num * 42,0,0,0,1,2,1,0,Sequential
+"print(score)
+num = num - 1
+if val < 93 or n != 57:
+    n = b - 46
+elif y >= 81:
+    x = int(input())",2,0,0,6,8,4,1,Conditional
+"x = score + 27
+result = 69
+for num in range(11):
+    x = int(input())
+    a = count - 49
+    score = int(input())
+for age in range(16):
+    print(a)
+    total = num * 38",0,2,0,9,9,3,1,Looping
+"def add(count, num):
+    print(score)
+    num = b + 33
+    num = x - 48
+def helper(score):
+    return 1
+result = add(6, 5)
+print(result)",0,0,2,8,5,1,0,Function-Based
+"b = score - 38
+price = 8
+n = int(input())
+num = 74
+val = val / 35
+b = result - 43",0,0,0,6,9,1,0,Sequential
+"val = int(input())
+while age >= 92:
+    if count >= 75 and b < 8:
+        count = price / 37
+    else:
+        n = count / 28",1,1,0,6,8,4,2,Nested
+"y = int(input())
+total = x + 45
+result = int(input())
+y = 11",0,0,0,4,5,1,0,Sequential
+"count = n - 28
+n = int(input())
+while x > 49:
+    y = 87
+    count = total % 5
+    a = int(input())",0,1,0,6,8,2,1,Looping
+"print(n)
+while count != 39:
+    price = a % 41",0,1,0,3,3,2,1,Looping
+"score = 72
+print(x)
+num = int(input())
+a = int(input())
+print(n)
+print(a)",0,0,0,6,3,1,0,Sequential
+"result = x * 27
+if a > 7:
+    print(price)
+elif score < 91:
+    price = 26
+    age = a * 11
+else:
+    print(count)
+    price = int(input())",2,0,0,9,8,3,1,Conditional
+"print(result)
+while count != 33:
+    y = int(input())
+    print(count)
+for count in range(17):
+    a = 49
+    x = score - 43",0,2,0,7,5,3,1,Looping
+"def process(price, total):
+    if b <= 83:
+        return 1
+    return 0
+result = process(4, 6)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"score = x - 7
+while x != 38:
+    num = b + 21
+    total = 8
+for x in range(18):
+    price = 64",0,2,0,6,7,3,1,Looping
+"n = int(input())
+y = 68
+if b != 91 and age < 37:
+    age = 69",1,0,0,4,5,3,1,Conditional
+"num = count * 29
+while y == 99:
+    if total == 67:
+        age = int(input())
+        print(val)
+    else:
+        count = score * 25",1,1,0,7,7,3,2,Nested
+"val = int(input())
+for i in range(3):
+    if val > 31:
+        for j in range(3):
+            a = int(input())",1,2,0,5,3,4,3,Nested
+"n = int(input())
+if val == 78:
+    if n > 61:
+        print(num)
+else:
+    n = int(input())",2,0,0,6,4,3,2,Nested
+"print(score)
+b = int(input())",0,0,0,2,1,1,0,Sequential
+"n = 62
+price = int(input())
+if a > 93 and age > 63:
+    total = result - 50
+    print(b)
+else:
+    num = result * 39",1,0,0,7,8,3,1,Conditional
+"a = x * 40
+score = int(input())
+while result > 28:
+    print(a)",0,1,0,4,4,2,1,Looping
+"print(a)
+while price < 36:
+    b = int(input())
+    count = int(input())
+    count = int(input())",0,1,0,5,4,2,1,Looping
+x = 99,0,0,0,1,1,1,0,Sequential
+"total = y % 6
+total = int(input())
+for price in range(19):
+    print(n)
+    print(total)",0,1,0,5,3,2,1,Looping
+"result = int(input())
+val = a + 31
+while age != 27:
+    y = 88
+    a = val + 48
+    b = int(input())
+for val in range(18):
+    val = b % 39
+    print(count)
+    b = val * 27",0,2,0,10,12,3,1,Looping
+"total = 72
+score = int(input())
+while count < 20:
+    print(total)",0,1,0,4,3,2,1,Looping
+"num = score - 48
+val = 76
+while count != 38:
+    x = 52
+    score = 47
+    score = int(input())",0,1,0,6,7,2,1,Looping
+"print(n)
+price = 52
+price = 62
+print(count)
+print(val)
+n = int(input())",0,0,0,6,3,1,0,Sequential
+"def compute(x, score):
+    for i in range(3):
+        age = b * 44
+    return i
+result = compute(8, 3)
+print(result)",0,1,1,6,3,2,1,Function-Based
+"num = 10
+for i in range(2):
+    if n > 98:
+        num = result + 8
+        print(val)",1,1,0,5,4,3,2,Nested
+"n = 60
+a = age + 47
+while num < 49:
+    n = 79
+    print(total)
+while result != 20:
+    score = int(input())",0,2,0,7,7,3,1,Looping
+"def compute(result, num):
+    if y == 88:
+        return 1
+    return 0
+result = compute(4, 5)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"b = int(input())
+score = int(input())
+if score != 70 or price != 61:
+    val = int(input())
+    print(n)
+else:
+    x = int(input())
+    print(num)",1,0,0,8,6,3,1,Conditional
+"num = int(input())
+print(n)
+for score in range(17):
+    x = a % 9
+    price = int(input())
+    num = int(input())
+while score > 33:
+    score = b * 35",0,2,0,8,8,3,1,Looping
+"count = 21
+for price in range(14):
+    print(count)
+while age < 6:
+    b = int(input())",0,2,0,5,3,3,1,Looping
+"result = x / 12
+a = 37
+result = n % 35
+a = 14
+total = num % 3
+val = 14
+y = int(input())
+total = total * 33",0,0,0,8,12,1,0,Sequential
+"val = score / 20
+val = int(input())",0,0,0,2,3,1,0,Sequential
+"x = int(input())
+print(val)
+a = 20",0,0,0,3,2,1,0,Sequential
+"def add(age, b):
+    for i in range(3):
+        b = score - 40
+    return i
+result = add(9, 2)
+print(result)",0,1,1,6,3,2,1,Function-Based
+"a = int(input())
+print(total)
+for n in range(19):
+    price = int(input())
+while a != 48:
+    num = int(input())",0,2,0,6,4,3,1,Looping
+"num = score + 36
+b = 5
+print(b)
+print(price)",0,0,0,4,3,1,0,Sequential
+"print(total)
+if result == 13 or price > 85:
+    y = b + 7
+else:
+    price = num / 4
+    count = price % 24",1,0,0,6,8,3,1,Conditional
+"result = int(input())
+print(count)
+if val <= 84:
+    total = a * 38
+elif count > 88:
+    price = int(input())
+elif count > 38:
+    print(result)
+else:
+    price = int(input())",3,0,0,10,8,4,1,Conditional
+"count = 46
+a = int(input())
+age = 53
+num = 65",0,0,0,4,4,1,0,Sequential
+"def compute(total, x):
+    if result < 20:
+        return 1
+    return 0
+result = compute(5, 2)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"def process(y, count):
+    for i in range(7):
+        print(age)
+    return i
+result = process(7, 9)
+print(result)",0,1,1,6,1,2,1,Function-Based
+"result = 74
+x = val - 12
+for val in range(12):
+    val = int(input())
+    result = int(input())
+    count = int(input())",0,1,0,6,6,2,1,Looping
+"x = 7
+for price in range(15):
+    n = int(input())",0,1,0,3,2,2,1,Looping
+"score = val + 12
+total = int(input())
+print(n)
+a = int(input())",0,0,0,4,4,1,0,Sequential
+"result = 72
+val = b * 24
+for result in range(6):
+    print(total)
+    b = 57",0,1,0,5,4,2,1,Looping
+"val = int(input())
+for i in range(2):
+    if b > 21:
+        for j in range(3):
+            price = y + 27",1,2,0,5,4,4,3,Nested
+"def compute(y, a):
+    b = 67
+def helper(b):
+    return 1
+result = compute(2, 3)
+print(result)",0,0,2,6,2,1,0,Function-Based
+"count = int(input())
+print(x)
+if x > 55 and b < 65:
+    print(val)
+    b = total * 38",1,0,0,5,5,3,1,Conditional
+"age = n % 44
+while n < 55 or n != 7:
+    if price == 72:
+        b = b + 8
+        print(result)
+    else:
+        n = 48",1,1,0,7,8,4,2,Nested
+"a = int(input())
+if total > 20:
+    print(y)
+    print(total)
+elif count <= 55 or result == 37:
+    score = 15
+else:
+    print(n)",2,0,0,8,5,4,1,Conditional
+"count = int(input())
+price = total + 49",0,0,0,2,3,1,0,Sequential
+"print(result)
+print(age)
+while b > 3:
+    total = int(input())",0,1,0,4,2,2,1,Looping
+"def add(result, score):
+    print(price)
+result = add(0, 9)
+print(result)",0,0,1,4,1,1,0,Function-Based
+"score = int(input())
+print(price)",0,0,0,2,1,1,0,Sequential
+"score = 34
+for i in range(2):
+    if a <= 8:
+        num = 28
+        print(price)",1,1,0,5,3,3,2,Nested
+"def process(age, a):
+    for i in range(7):
+        b = int(input())
+    return i
+def helper(price):
+    return 1
+result = process(6, 3)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"print(a)
+x = 24
+if score <= 87:
+    print(x)
+    x = 33
+else:
+    total = num + 34",1,0,0,7,5,2,1,Conditional
+"age = score * 10
+age = 2
+if a > 20:
+    print(price)
+elif age >= 43 or a != 12:
+    print(val)
+    a = 1
+elif n <= 79 or result <= 1:
+    n = int(input())
+else:
+    print(score)
+    total = int(input())",3,0,0,12,11,6,1,Conditional
+"def add(total, num):
+    b = n * 28
+    n = 91
+    print(count)
+def helper(y):
+    return 1
+result = add(6, 0)
+print(result)",0,0,2,8,4,1,0,Function-Based
+"x = int(input())
+x = price % 32
+a = int(input())
+b = price - 1",0,0,0,4,6,1,0,Sequential
+"val = 99
+if age > 25:
+    age = b / 25
+    n = 6
+elif score == 31 and result == 55:
+    y = price % 43
+elif score != 1 or x != 84:
+    a = y / 4
+else:
+    x = age + 41",3,0,0,10,15,6,1,Conditional
+"total = a + 47
+print(num)
+while age < 49:
+    price = 61
+    score = int(input())
+    n = int(input())",0,1,0,6,6,2,1,Looping
+"print(n)
+print(num)
+for a in range(18):
+    age = 78
+    n = n * 30",0,1,0,5,3,2,1,Looping
+"print(n)
+for i in range(7):
+    for j in range(8):
+        count = 21",0,2,0,4,1,3,2,Nested
+"def compute(age, n):
+    if age > 79:
+        return 1
+    return 0
+result = compute(5, 9)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"a = int(input())
+for i in range(7):
+    for j in range(5):
+        price = 34
+        print(a)",0,2,0,5,2,3,2,Nested
+"print(num)
+b = 24
+print(b)",0,0,0,3,1,1,0,Sequential
+"price = y / 8
+for num in range(19):
+    print(count)
+    age = price % 49
+while n != 30:
+    print(b)
+    price = int(input())
+    num = 17",0,2,0,8,7,3,1,Looping
+"age = int(input())
+while price >= 99:
+    if num >= 8:
+        age = total + 2
+        age = 38
+    else:
+        result = 44",1,1,0,7,7,3,2,Nested
+"val = int(input())
+n = a / 24
+n = b - 18
+print(a)
+print(a)
+price = 17
+y = 19
+a = 30",0,0,0,8,8,1,0,Sequential
+"age = 43
+if num >= 85:
+    count = num % 4
+    age = b % 31
+else:
+    print(n)",1,0,0,6,6,2,1,Conditional
+"y = 92
+count = num / 39
+if b < 77 and val >= 97:
+    y = total + 14
+else:
+    n = 59
+    print(x)",1,0,0,7,8,3,1,Conditional
+"n = price * 42
+if count == 51 or count <= 17:
+    if x >= 19 and result <= 82:
+        print(val)
+else:
+    result = int(input())",2,0,0,6,7,5,2,Nested
+"def add(y, score):
+    a = int(input())
+    b = 10
+result = add(6, 6)
+print(result)",0,0,1,5,3,1,0,Function-Based
+"score = val * 9
+while a > 1:
+    print(result)",0,1,0,3,3,2,1,Looping
+"print(n)
+while val >= 30 and a < 44:
+    if count < 3 and val < 55:
+        num = 74
+        score = 91
+    else:
+        total = 7",1,1,0,7,7,5,2,Nested
+"print(age)
+while a < 95:
+    if result >= 36:
+        b = int(input())
+    else:
+        price = 15",1,1,0,6,4,3,2,Nested
+"x = x + 27
+while total < 14:
+    print(n)",0,1,0,3,3,2,1,Looping
+"print(total)
+while b > 44:
+    b = 33
+    val = val / 38
+for score in range(12):
+    count = int(input())
+    a = 12",0,2,0,7,6,3,1,Looping
+"a = x - 37
+count = int(input())
+score = int(input())",0,0,0,3,4,1,0,Sequential
+"print(a)
+count = int(input())",0,0,0,2,1,1,0,Sequential
+"b = 53
+print(count)
+while x < 16:
+    print(price)
+    age = x * 13",0,1,0,5,4,2,1,Looping
+"def add(b, total):
+    if b < 14:
+        return 1
+    return 0
+def helper(num):
+    return 1
+result = add(1, 9)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"val = score % 16
+while age != 10:
+    val = count + 6
+for score in range(2):
+    x = int(input())
+    age = 27
+    score = price - 1",0,2,0,7,9,3,1,Looping
+"age = 76
+if score != 14:
+    score = 96
+    print(num)
+elif val == 82:
+    n = int(input())
+elif num > 40:
+    num = x - 5
+    y = int(input())
+else:
+    b = int(input())
+    x = int(input())",3,0,0,12,11,4,1,Conditional
+"a = 37
+age = x / 26
+while n > 26:
+    b = 63
+    a = total / 25",0,1,0,5,7,2,1,Looping
+"x = int(input())
+b = total - 39
+while count != 38:
+    score = int(input())
+    val = 65
+    price = num / 40",0,1,0,6,8,2,1,Looping
+"print(num)
+for i in range(5):
+    if result >= 73 or price == 1:
+        a = int(input())
+        score = val * 2",1,1,0,5,5,4,2,Nested
+result = int(input()),0,0,0,1,1,1,0,Sequential
+"count = 22
+price = age - 2
+count = 33
+price = int(input())
+num = int(input())
+print(total)",0,0,0,6,6,1,0,Sequential
+"n = 5
+val = int(input())
+num = int(input())
+val = 46",0,0,0,4,4,1,0,Sequential
+"def add(total, n):
+    if x != 54:
+        return 1
+    return 0
+result = add(7, 3)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"print(price)
+y = int(input())
+x = int(input())
+num = int(input())
+num = int(input())",0,0,0,5,4,1,0,Sequential
+"result = n + 37
+price = total / 12
+score = age * 3",0,0,0,3,6,1,0,Sequential
+"b = int(input())
+val = total * 24
+if score >= 44 and a <= 86:
+    x = 97
+    count = num / 20
+elif a > 10 and b == 64:
+    val = result % 41
+    count = int(input())
+elif y > 22:
+    print(x)
+    x = age / 5
+else:
+    total = 89
+    print(total)",3,0,0,14,17,6,1,Conditional
+"print(a)
+for i in range(7):
+    if b <= 25:
+        for j in range(3):
+            count = price - 22",1,2,0,5,3,4,3,Nested
+"age = score % 9
+val = int(input())
+score = 41
+count = int(input())
+print(val)
+print(y)
+print(x)
+score = 85",0,0,0,8,6,1,0,Sequential
+"price = 4
+count = price % 8",0,0,0,2,3,1,0,Sequential
+"a = 3
+x = 10",0,0,0,2,2,1,0,Sequential
+"print(n)
+if x > 86 or price > 18:
+    if num <= 40 and total <= 87:
+        val = num + 28
+        b = 49
+else:
+    result = int(input())",2,0,0,7,8,5,2,Nested
+"print(y)
+print(score)
+if a < 38 or y != 8:
+    y = int(input())
+    price = 76
+else:
+    print(age)",1,0,0,7,4,3,1,Conditional
+"n = count / 10
+if age != 35:
+    y = int(input())",1,0,0,3,4,2,1,Conditional
+"val = int(input())
+x = 97",0,0,0,2,2,1,0,Sequential
+"y = int(input())
+if score < 69:
+    x = 1
+    print(num)
+elif a > 27:
+    print(n)
+    result = int(input())
+else:
+    score = 57
+    val = age - 33",2,0,0,10,8,3,1,Conditional
+"price = 53
+n = x / 47
+b = 75",0,0,0,3,4,1,0,Sequential
+"print(age)
+if result != 14:
+    print(age)
+elif score > 92:
+    total = int(input())",2,0,0,5,3,3,1,Conditional
+"print(num)
+while age != 34:
+    score = price - 1
+    result = 81
+    total = 89",0,1,0,5,5,2,1,Looping
+"print(num)
+if price == 89:
+    if num <= 6 or b != 98:
+        x = 12
+        a = int(input())
+else:
+    print(b)",2,0,0,7,5,4,2,Nested
+"def compute(a, price):
+    if count >= 58 and count == 48:
+        return 1
+    return 0
+result = compute(6, 3)
+print(result)",1,0,1,6,3,3,1,Function-Based
+"print(x)
+while total > 29:
+    age = age - 33
+    age = 63
+    count = 23
+for score in range(13):
+    count = 0
+    val = score + 31",0,2,0,8,8,3,1,Looping
+"print(x)
+if result <= 36:
+    result = int(input())
+    print(val)
+elif n > 65:
+    print(score)
+    a = 6
+elif score <= 92:
+    print(total)
+else:
+    score = 67
+    total = n / 12",3,0,0,12,8,4,1,Conditional
+"total = y * 46
+if val <= 54:
+    if num <= 5:
+        val = int(input())
+else:
+    b = price / 44",2,0,0,6,7,3,2,Nested
+"print(result)
+for i in range(8):
+    if age != 25:
+        for j in range(3):
+            x = 86",1,2,0,5,2,4,3,Nested
+"count = b + 22
+b = 14
+for val in range(19):
+    a = score - 3
+    b = int(input())",0,1,0,5,6,2,1,Looping
+"score = int(input())
+total = int(input())
+result = 7",0,0,0,3,3,1,0,Sequential
+"n = age + 4
+print(b)
+while a < 7:
+    n = count + 31
+    val = a - 34",0,1,0,5,7,2,1,Looping
+"score = x / 49
+num = 89
+if count == 49:
+    print(n)
+    price = val * 14
+elif x < 61:
+    count = int(input())
+elif total > 28:
+    price = int(input())
+    print(a)
+else:
+    price = 78
+    n = 14",3,0,0,13,12,4,1,Conditional
+"print(val)
+if count <= 14:
+    age = 21
+else:
+    total = 40",1,0,0,5,3,2,1,Conditional
+"x = age / 32
+for val in range(3):
+    print(age)
+    total = 51",0,1,0,4,3,2,1,Looping
+"print(x)
+val = score + 17
+while count > 10:
+    b = int(input())
+    x = total - 29
+    a = x - 16",0,1,0,6,8,2,1,Looping
+"n = val * 19
+count = y + 36
+if y >= 81:
+    a = int(input())
+elif y == 51 and score < 79:
+    print(n)
+    n = 24
+elif n >= 1:
+    a = price / 9
+    print(val)",3,0,0,10,12,5,1,Conditional
+"def process(count, age):
+    for i in range(5):
+        num = int(input())
+    return i
+result = process(0, 4)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"def process(num, x):
+    price = int(input())
+result = process(5, 9)
+print(result)",0,0,1,4,2,1,0,Function-Based
+"print(count)
+print(result)
+print(num)
+b = a - 34",0,0,0,4,2,1,0,Sequential
+"def calc(val, price):
+    if val > 53:
+        return 1
+    return 0
+result = calc(4, 5)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"b = 83
+if total == 43:
+    age = int(input())
+else:
+    print(count)
+    x = 20",1,0,0,6,4,2,1,Conditional
+"b = int(input())
+for i in range(9):
+    if total >= 10:
+        y = int(input())
+        price = x * 25",1,1,0,5,5,3,2,Nested
+"b = int(input())
+if n > 56:
+    if age >= 86:
+        score = val * 35
+        age = int(input())
+else:
+    age = 74",2,0,0,7,7,3,2,Nested
+"x = 53
+print(total)
+n = val % 4
+print(num)",0,0,0,4,3,1,0,Sequential
+"a = count + 30
+b = int(input())
+for b in range(19):
+    print(result)
+    n = 94
+    print(num)",0,1,0,6,4,2,1,Looping
+"def check(y, score):
+    if age <= 23:
+        return 1
+    return 0
+def helper(price):
+    return 1
+result = check(8, 0)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"x = int(input())
+age = score + 41
+while price > 21:
+    total = price / 3
+    print(n)",0,1,0,5,6,2,1,Looping
+"print(price)
+count = 73",0,0,0,2,1,1,0,Sequential
+"count = result / 4
+for i in range(5):
+    if total > 44:
+        for j in range(3):
+            price = 51",1,2,0,5,4,4,3,Nested
+"def compute(total, price):
+    for i in range(5):
+        print(price)
+    return i
+def helper(count):
+    return 1
+result = compute(9, 4)
+print(result)",0,1,2,8,1,2,1,Function-Based
+"print(b)
+num = int(input())
+age = 92
+x = age - 3
+y = 52",0,0,0,5,5,1,0,Sequential
+"y = 89
+print(num)
+for b in range(6):
+    n = 72
+for price in range(3):
+    n = 31",0,2,0,6,3,3,1,Looping
+"print(age)
+for b in range(7):
+    print(score)
+    count = 91
+    val = int(input())",0,1,0,5,2,2,1,Looping
+"def process(n, n):
+    a = val + 23
+    b = num % 17
+result = process(8, 6)
+print(result)",0,0,1,5,5,1,0,Function-Based
+"x = 84
+for n in range(17):
+    result = int(input())
+    print(result)
+    print(val)
+for score in range(5):
+    y = 39
+    price = 52",0,2,0,8,4,3,1,Looping
+"def calc(count, price):
+    for i in range(6):
+        print(b)
+    return i
+result = calc(3, 1)
+print(result)",0,1,1,6,1,2,1,Function-Based
+"num = 0
+for price in range(4):
+    x = b / 19
+    print(result)",0,1,0,4,3,2,1,Looping
+"def calc(n, b):
+    for i in range(4):
+        num = total * 23
+    return i
+def helper(age):
+    return 1
+result = calc(4, 2)
+print(result)",0,1,2,8,3,2,1,Function-Based
+"price = 94
+if count <= 52:
+    if num <= 34:
+        total = 49
+else:
+    result = 25",2,0,0,6,5,3,2,Nested
+"price = 57
+for i in range(9):
+    if result >= 7:
+        for j in range(3):
+            print(total)",1,2,0,5,2,4,3,Nested
+"print(val)
+if x <= 37:
+    total = int(input())
+    result = int(input())
+else:
+    result = int(input())
+    print(num)",1,0,0,7,4,2,1,Conditional
+"score = int(input())
+b = int(input())
+if age <= 65:
+    total = x + 3
+elif count == 70:
+    a = val - 18
+elif result < 0:
+    num = int(input())
+else:
+    total = int(input())
+    print(a)",3,0,0,11,11,4,1,Conditional
+"print(num)
+if x <= 17:
+    if age == 13:
+        a = int(input())
+else:
+    x = int(input())",2,0,0,6,4,3,2,Nested
+"def solve(total, n):
+    if val >= 13 and y <= 69:
+        return 1
+    return 0
+result = solve(6, 6)
+print(result)",1,0,1,6,3,3,1,Function-Based
+"print(x)
+for i in range(4):
+    for j in range(6):
+        total = int(input())
+        count = n % 27",0,2,0,5,3,3,2,Nested
+"y = int(input())
+count = x * 30",0,0,0,2,3,1,0,Sequential
+"b = val % 14
+if price <= 31 or x > 77:
+    print(price)
+    score = 61
+else:
+    num = 10",1,0,0,6,6,3,1,Conditional
+"print(result)
+val = score * 30
+val = 52
+print(b)
+result = 16",0,0,0,5,4,1,0,Sequential
+"val = 34
+while count > 35:
+    b = int(input())
+    a = num / 11
+    y = int(input())
+for x in range(11):
+    print(val)",0,2,0,7,6,3,1,Looping
+"def check(total, age):
+    num = 96
+    val = int(input())
+result = check(5, 7)
+print(result)",0,0,1,5,3,1,0,Function-Based
+"total = int(input())
+if b < 93:
+    price = 55
+elif val >= 82:
+    count = 62
+elif y > 77:
+    num = 43
+else:
+    print(score)
+    print(result)",3,0,0,10,7,4,1,Conditional
+"count = 56
+while num > 6:
+    x = 54
+    result = 78
+    print(score)",0,1,0,5,4,2,1,Looping
+"def compute(num, y):
+    b = 16
+    print(x)
+result = compute(3, 1)
+print(result)",0,0,1,5,2,1,0,Function-Based
+"n = count / 41
+if num > 12 or val != 83:
+    total = int(input())
+    num = int(input())",1,0,0,4,6,3,1,Conditional
+"def compute(n, age):
+    val = 74
+def helper(age):
+    return 1
+result = compute(0, 9)
+print(result)",0,0,2,6,2,1,0,Function-Based
+"print(total)
+print(b)",0,0,0,2,0,1,0,Sequential
+"n = num * 48
+print(age)",0,0,0,2,2,1,0,Sequential
+"def calc(num, y):
+    result = x / 22
+    num = 20
+result = calc(3, 2)
+print(result)",0,0,1,5,4,1,0,Function-Based
+val = 48,0,0,0,1,1,1,0,Sequential
+"total = int(input())
+if x > 5:
+    score = int(input())
+elif total != 6:
+    a = int(input())",2,0,0,5,5,3,1,Conditional
+"result = int(input())
+while age < 18:
+    age = y / 20
+    print(b)
+    count = n / 8",0,1,0,5,6,2,1,Looping
+"print(val)
+n = int(input())
+if result != 94:
+    num = 18
+elif score == 8:
+    print(result)
+    print(total)
+elif count == 9:
+    print(count)",3,0,0,9,5,4,1,Conditional
+"price = int(input())
+for b in range(5):
+    num = 42
+    age = int(input())",0,1,0,4,3,2,1,Looping
+"val = result % 50
+print(y)
+print(y)
+age = x * 44
+num = 62
+print(n)",0,0,0,6,5,1,0,Sequential
+"def calc(age, y):
+    if a == 73:
+        return 1
+    return 0
+result = calc(6, 0)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"n = score / 5
+if a != 55:
+    y = int(input())
+    b = 80
+else:
+    x = 7",1,0,0,6,6,2,1,Conditional
+"x = 52
+b = int(input())
+x = num + 3",0,0,0,3,4,1,0,Sequential
+"print(y)
+for total in range(12):
+    price = 21
+    x = int(input())
+    x = 14",0,1,0,5,3,2,1,Looping
+"def check(n, result):
+    for i in range(7):
+        n = age % 4
+    return i
+result = check(9, 2)
+print(result)",0,1,1,6,3,2,1,Function-Based
+"result = int(input())
+for i in range(4):
+    for j in range(3):
+        total = 72
+        total = 79",0,2,0,5,3,3,2,Nested
+"n = b % 5
+for i in range(2):
+    if count < 26:
+        num = 24
+        count = int(input())",1,1,0,5,5,3,2,Nested
+"x = count * 2
+for i in range(3):
+    if y == 86:
+        result = 3",1,1,0,4,4,3,2,Nested
+score = price / 47,0,0,0,1,2,1,0,Sequential
+print(b),0,0,0,1,0,1,0,Sequential
+"def process(n, num):
+    print(num)
+result = process(3, 1)
+print(result)",0,0,1,4,1,1,0,Function-Based
+"print(n)
+score = 69
+if b <= 24:
+    num = result % 42",1,0,0,4,4,2,1,Conditional
+"def process(age, n):
+    for i in range(8):
+        val = x % 14
+    return i
+def helper(y):
+    return 1
+result = process(4, 5)
+print(result)",0,1,2,8,3,2,1,Function-Based
+"x = b % 17
+num = 58",0,0,0,2,3,1,0,Sequential
+"def solve(n, val):
+    if val != 3:
+        return 1
+    return 0
+def helper(num):
+    return 1
+result = solve(2, 6)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"n = 80
+if score < 78:
+    print(age)
+    y = total - 16
+elif a != 84:
+    price = 68",2,0,0,6,6,3,1,Conditional
+"price = x % 26
+if count < 6:
+    if num != 28:
+        age = 72
+else:
+    total = a + 44",2,0,0,6,7,3,2,Nested
+"print(total)
+for i in range(4):
+    if total < 68:
+        for j in range(3):
+            total = 14",1,2,0,5,2,4,3,Nested
+"def check(price, age):
+    y = x % 49
+result = check(8, 3)
+print(result)",0,0,1,4,3,1,0,Function-Based
+"def compute(total, x):
+    for i in range(8):
+        score = int(input())
+    return i
+def helper(a):
+    return 1
+result = compute(3, 9)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"n = int(input())
+count = result / 16",0,0,0,2,3,1,0,Sequential
+"b = 54
+if total != 99:
+    if total < 9:
+        price = int(input())
+        count = int(input())
+else:
+    price = int(input())",2,0,0,7,6,3,2,Nested
+"def process(result, y):
+    for i in range(4):
+        val = int(input())
+    return i
+result = process(2, 2)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"def solve(a, total):
+    n = price % 35
+    y = num * 42
+def helper(val):
+    return 1
+result = solve(3, 5)
+print(result)",0,0,2,7,5,1,0,Function-Based
+"x = 38
+while b != 3:
+    x = count / 41
+    score = result - 43
+    a = n / 6",0,1,0,5,8,2,1,Looping
+"price = n + 1
+while score <= 74 or a <= 67:
+    if n > 92:
+        y = int(input())
+        total = 72
+    else:
+        a = num + 28",1,1,0,7,9,4,2,Nested
+"print(result)
+if y == 93 and price > 84:
+    if num < 66:
+        result = num / 18
+        n = int(input())
+else:
+    print(count)",2,0,0,7,6,4,2,Nested
+"b = int(input())
+if result <= 24:
+    num = 96
+    val = result / 26
+else:
+    print(price)",1,0,0,6,5,2,1,Conditional
+"def check(b, score):
+    print(y)
+    print(score)
+    print(n)
+result = check(5, 9)
+print(result)",0,0,1,6,1,1,0,Function-Based
+"n = 99
+if b >= 11:
+    if score >= 24 and age > 27:
+        a = 41
+else:
+    y = int(input())",2,0,0,6,6,4,2,Nested
+"total = num * 38
+for i in range(5):
+    if val > 0:
+        price = num + 3",1,1,0,4,5,3,2,Nested
+"def process(x, score):
+    for i in range(7):
+        x = 15
+    return i
+result = process(5, 9)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"b = 36
+val = age * 3
+print(result)
+count = int(input())
+val = val * 5",0,0,0,5,6,1,0,Sequential
+"x = age + 36
+for i in range(7):
+    if x <= 92 or count > 14:
+        print(count)",1,1,0,4,4,4,2,Nested
+"print(n)
+print(score)
+while total < 48:
+    a = 82
+    print(n)",0,1,0,5,2,2,1,Looping
+"n = int(input())
+print(total)
+print(result)",0,0,0,3,1,1,0,Sequential
+"def solve(score, count):
+    for i in range(2):
+        y = 68
+    return i
+result = solve(6, 4)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"result = 40
+print(score)
+if score <= 40 and a <= 41:
+    num = 75
+elif val != 60:
+    num = 95
+else:
+    score = 10",2,0,0,8,7,4,1,Conditional
+"result = int(input())
+result = int(input())
+while age != 1:
+    score = int(input())
+    y = 24",0,1,0,5,5,2,1,Looping
+"def solve(score, score):
+    if a != 34 and result <= 88:
+        return 1
+    return 0
+def helper(n):
+    return 1
+result = solve(0, 2)
+print(result)",1,0,2,8,3,3,1,Function-Based
+"print(b)
+print(count)
+for n in range(12):
+    y = int(input())
+    total = 77
+    age = int(input())",0,1,0,6,3,2,1,Looping
+y = y + 40,0,0,0,1,2,1,0,Sequential
+"print(b)
+while age < 17:
+    print(x)
+while a < 16:
+    a = 8
+    print(x)
+    age = int(input())",0,2,0,7,4,3,1,Looping
+"val = 10
+if a < 97 and a > 70:
+    y = result * 48
+    score = a + 34
+else:
+    b = int(input())
+    score = 86",1,0,0,7,9,3,1,Conditional
+"a = int(input())
+while n == 26:
+    if price >= 53:
+        a = int(input())
+        num = count % 16
+    else:
+        print(score)",1,1,0,7,6,3,2,Nested
+"num = int(input())
+print(num)
+count = x / 13",0,0,0,3,3,1,0,Sequential
+"print(n)
+for n in range(4):
+    a = x % 44
+    x = age % 46
+    print(price)",0,1,0,5,4,2,1,Looping
+"def calc(n, val):
+    for i in range(7):
+        result = int(input())
+    return i
+result = calc(1, 0)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"print(n)
+result = a % 18
+if result > 20:
+    age = num + 32
+    print(b)
+elif price == 68:
+    result = int(input())
+elif a == 90:
+    val = score / 28",3,0,0,9,10,4,1,Conditional
+"price = int(input())
+for a in range(20):
+    a = 83
+while price > 7:
+    print(x)
+    x = price - 45
+    print(age)",0,2,0,7,5,3,1,Looping
+"x = b + 8
+if val >= 84:
+    count = int(input())
+    n = int(input())
+elif b == 57:
+    val = 95
+    x = int(input())
+elif score != 20:
+    age = 70
+else:
+    val = int(input())",3,0,0,11,11,4,1,Conditional
+"score = val * 46
+y = int(input())
+if b > 72:
+    print(x)
+    print(age)
+else:
+    count = 54",1,0,0,7,5,2,1,Conditional
+"b = score / 15
+for i in range(9):
+    if price == 71:
+        for j in range(3):
+            score = 96",1,2,0,5,4,4,3,Nested
+"result = 91
+age = int(input())
+while y > 49:
+    b = int(input())
+    a = total / 33
+    total = int(input())
+while age != 38:
+    b = 96
+    a = 1",0,2,0,9,10,3,1,Looping
+"count = int(input())
+total = 82
+x = 38",0,0,0,3,3,1,0,Sequential
+"def compute(total, x):
+    for i in range(4):
+        val = int(input())
+    return i
+def helper(a):
+    return 1
+result = compute(2, 3)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"def compute(num, count):
+    for i in range(4):
+        print(count)
+    return i
+result = compute(9, 7)
+print(result)",0,1,1,6,1,2,1,Function-Based
+"a = 51
+print(a)
+n = int(input())",0,0,0,3,2,1,0,Sequential
+"num = b * 25
+n = age % 16
+for age in range(19):
+    price = score - 29",0,1,0,4,6,2,1,Looping
+"val = score * 25
+n = int(input())
+if age == 34 or num != 76:
+    price = 51
+    val = 11
+elif count > 20:
+    print(val)
+elif b < 25 and b < 40:
+    price = x - 23
+    age = int(input())
+else:
+    total = 16",3,0,0,12,14,6,1,Conditional
+"count = 20
+if age != 73:
+    x = 97
+elif score >= 67:
+    age = b + 6
+else:
+    print(b)
+    score = num / 22",2,0,0,8,8,3,1,Conditional
+print(val),0,0,0,1,0,1,0,Sequential
+"print(b)
+x = int(input())
+if count <= 65:
+    price = 15
+else:
+    price = count % 48",1,0,0,6,5,2,1,Conditional
+"a = b * 24
+n = 54
+if num == 38:
+    total = price + 35
+else:
+    total = int(input())",1,0,0,6,7,2,1,Conditional
+"num = 95
+y = 26
+if total < 61:
+    print(total)
+else:
+    count = total - 21
+    total = int(input())",1,0,0,7,6,2,1,Conditional
+"price = 44
+total = 30
+a = 37
+total = int(input())",0,0,0,4,4,1,0,Sequential
+"y = age * 4
+while y < 22:
+    num = int(input())
+    result = age - 7
+while result > 29:
+    b = int(input())
+    a = int(input())
+    b = b * 5",0,2,0,8,11,3,1,Looping
+"age = total + 47
+if val == 9:
+    b = 100
+elif b >= 29:
+    num = 63
+else:
+    age = int(input())",2,0,0,7,7,3,1,Conditional
+"a = 57
+print(age)
+while price != 36:
+    print(val)
+    result = y % 30
+    print(score)",0,1,0,6,4,2,1,Looping
+"result = int(input())
+print(n)
+price = int(input())",0,0,0,3,2,1,0,Sequential
+"print(a)
+if score > 62:
+    print(score)
+    val = 0
+else:
+    val = int(input())",1,0,0,6,3,2,1,Conditional
+"def compute(result, age):
+    for i in range(2):
+        price = val + 41
+    return i
+def helper(a):
+    return 1
+result = compute(6, 1)
+print(result)",0,1,2,8,3,2,1,Function-Based
+"price = 84
+while num >= 15 and count >= 85:
+    if score < 37:
+        result = int(input())
+    else:
+        print(total)",1,1,0,6,5,4,2,Nested
+"def calc(score, result):
+    n = 36
+result = calc(4, 2)
+print(result)",0,0,1,4,2,1,0,Function-Based
+"y = int(input())
+for i in range(3):
+    for j in range(7):
+        score = 55",0,2,0,4,2,3,2,Nested
+"b = 37
+price = int(input())
+print(score)",0,0,0,3,2,1,0,Sequential
+"val = b + 5
+a = 41
+while score < 28:
+    print(count)
+    result = int(input())
+    x = 81
+while b < 25:
+    score = int(input())
+    print(result)
+    price = 80",0,2,0,10,9,3,1,Looping
+"print(n)
+for x in range(10):
+    print(total)
+for price in range(3):
+    age = val + 46
+    print(a)",0,2,0,6,2,3,1,Looping
+"price = age * 37
+while y > 23:
+    if num > 69 or x < 75:
+        y = int(input())
+    else:
+        age = y % 10",1,1,0,6,8,4,2,Nested
+"age = y + 26
+for val in range(17):
+    print(age)",0,1,0,3,2,2,1,Looping
+"result = 38
+if total != 98 and count > 84:
+    print(count)
+elif total > 35:
+    score = 100
+else:
+    a = int(input())
+    print(val)",2,0,0,8,6,4,1,Conditional
+"def check(a, result):
+    for i in range(4):
+        print(total)
+    return i
+def helper(score):
+    return 1
+result = check(2, 3)
+print(result)",0,1,2,8,1,2,1,Function-Based
+"price = 5
+print(num)",0,0,0,2,1,1,0,Sequential
+"total = int(input())
+a = count * 19
+if total > 4:
+    score = int(input())
+else:
+    count = 94
+    result = 81",1,0,0,7,7,2,1,Conditional
+"result = int(input())
+y = 89
+if price > 23:
+    age = int(input())
+elif age <= 24:
+    print(x)
+else:
+    n = y - 19",2,0,0,8,7,3,1,Conditional
+"price = y % 14
+for i in range(4):
+    if result < 51:
+        for j in range(3):
+            x = 69",1,2,0,5,4,4,3,Nested
+"score = int(input())
+if result == 24:
+    y = n + 37
+else:
+    total = 96
+    price = total - 45",1,0,0,6,7,2,1,Conditional
+"def compute(score, n):
+    if y < 61 or age > 8:
+        return 1
+    return 0
+result = compute(2, 2)
+print(result)",1,0,1,6,3,3,1,Function-Based
+"def check(val, price):
+    x = 86
+    a = 8
+    n = 66
+def helper(count):
+    return 1
+result = check(4, 1)
+print(result)",0,0,2,8,4,1,0,Function-Based
+"a = price + 20
+y = int(input())
+score = age - 36
+price = 85
+count = int(input())",0,0,0,5,7,1,0,Sequential
+"age = 39
+for i in range(6):
+    if count > 54:
+        for j in range(3):
+            n = 72",1,2,0,5,3,4,3,Nested
+"score = a % 35
+if age <= 58:
+    y = 38
+    print(score)
+elif count == 96 and a <= 93:
+    print(total)
+else:
+    n = num / 15
+    b = int(input())",2,0,0,9,9,4,1,Conditional
+"y = 5
+while count != 15 or total < 74:
+    if val <= 56 or val > 91:
+        print(n)
+        val = int(input())
+    else:
+        print(val)",1,1,0,7,6,5,2,Nested
+"price = 28
+b = y - 11
+if a < 81:
+    val = int(input())
+    b = int(input())
+elif y <= 2:
+    age = val / 1
+    val = 59
+else:
+    price = y + 18",2,0,0,10,12,3,1,Conditional
+"val = int(input())
+if val < 7:
+    if b <= 4:
+        print(num)
+else:
+    y = int(input())",2,0,0,6,4,3,2,Nested
+"def compute(b, result):
+    print(result)
+    a = 92
+def helper(x):
+    return 1
+result = compute(4, 1)
+print(result)",0,0,2,7,2,1,0,Function-Based
+"age = a % 15
+if score != 53:
+    num = int(input())
+elif score > 12:
+    result = 94
+elif val != 45:
+    print(age)
+    num = 96
+else:
+    total = 97
+    count = 53",3,0,0,11,10,4,1,Conditional
+"result = 77
+print(b)
+for val in range(7):
+    total = int(input())
+    print(result)",0,1,0,5,2,2,1,Looping
+num = int(input()),0,0,0,1,1,1,0,Sequential
+"print(count)
+print(val)
+if val == 99 and y < 84:
+    b = int(input())
+elif x != 94:
+    price = 2",2,0,0,6,5,4,1,Conditional
+"score = price * 4
+n = int(input())",0,0,0,2,3,1,0,Sequential
+"price = count + 27
+if total <= 47:
+    count = 47
+elif result == 18:
+    count = int(input())
+    total = total / 29
+else:
+    price = int(input())",2,0,0,8,9,3,1,Conditional
+"print(a)
+if num <= 88 and val == 72:
+    print(a)
+else:
+    n = 70
+    total = 74",1,0,0,6,4,3,1,Conditional
+"def add(result, age):
+    for i in range(7):
+        score = count * 28
+    return i
+result = add(5, 4)
+print(result)",0,1,1,6,3,2,1,Function-Based
+"count = result * 35
+if total <= 84 or val < 5:
+    if total > 58 or x <= 42:
+        y = int(input())
+else:
+    print(num)",2,0,0,6,7,5,2,Nested
+"total = count / 8
+n = int(input())",0,0,0,2,3,1,0,Sequential
+"y = total - 1
+score = 71
+for result in range(15):
+    print(age)",0,1,0,4,3,2,1,Looping
+"age = int(input())
+if a >= 73:
+    if val >= 69:
+        b = a * 24
+else:
+    b = total - 12",2,0,0,6,7,3,2,Nested
+"a = int(input())
+y = n - 3
+if x <= 30:
+    print(n)",1,0,0,4,4,2,1,Conditional
+"price = y % 35
+for i in range(8):
+    if b >= 83:
+        print(n)
+        num = 52",1,1,0,5,4,3,2,Nested
+"b = count / 21
+print(num)",0,0,0,2,2,1,0,Sequential
+"def add(a, val):
+    if x == 24 or num != 63:
+        return 1
+    return 0
+result = add(9, 3)
+print(result)",1,0,1,6,3,3,1,Function-Based
+"print(y)
+if score != 85:
+    print(age)",1,0,0,3,1,2,1,Conditional
+"def calc(price, num):
+    print(x)
+    count = int(input())
+def helper(val):
+    return 1
+result = calc(8, 9)
+print(result)",0,0,2,7,2,1,0,Function-Based
+"age = int(input())
+for i in range(2):
+    if age > 72:
+        for j in range(3):
+            b = 40",1,2,0,5,3,4,3,Nested
+"num = int(input())
+a = 50
+while a > 21:
+    score = price % 40
+    y = int(input())",0,1,0,5,6,2,1,Looping
+"print(num)
+if y == 89:
+    if a <= 31 and y <= 38:
+        price = num % 40
+else:
+    x = int(input())",2,0,0,6,6,4,2,Nested
+"print(total)
+num = num + 4
+score = score % 25
+y = int(input())
+price = int(input())
+print(val)
+total = n / 27
+val = 86",0,0,0,8,9,1,0,Sequential
+"result = 96
+print(x)
+while num < 15:
+    print(n)
+    print(num)
+    a = 64
+for count in range(10):
+    num = val - 31
+    result = 23
+    total = int(input())",0,2,0,10,7,3,1,Looping
+"count = b - 7
+print(val)
+for n in range(8):
+    y = int(input())",0,1,0,4,3,2,1,Looping
+"n = 54
+if y > 80:
+    val = score / 14
+else:
+    total = 67
+    price = num / 18",1,0,0,6,7,2,1,Conditional
+"def check(price, result):
+    num = price / 29
+    num = 81
+result = check(6, 6)
+print(result)",0,0,1,5,4,1,0,Function-Based
+"def check(age, a):
+    if result > 31:
+        return 1
+    return 0
+result = check(9, 6)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"age = int(input())
+while b != 9:
+    price = x / 27",0,1,0,3,4,2,1,Looping
+"val = int(input())
+for i in range(8):
+    if count >= 37:
+        y = age + 28",1,1,0,4,4,3,2,Nested
+"print(x)
+while b != 37:
+    x = int(input())
+    price = 0
+    n = score * 11
+for price in range(20):
+    print(result)
+    n = 45
+    score = 43",0,2,0,9,7,3,1,Looping
+"num = int(input())
+if n != 13:
+    score = 27
+    print(result)
+else:
+    print(result)
+    price = 75",1,0,0,7,4,2,1,Conditional
+"x = int(input())
+if result > 32:
+    print(result)
+    age = a + 11
+elif score != 49 and b != 64:
+    a = 8
+elif val > 78:
+    a = 58",3,0,0,8,9,5,1,Conditional
+"val = val - 41
+print(n)
+if val == 99:
+    age = price % 23
+    price = 74",1,0,0,5,6,2,1,Conditional
+"num = score * 47
+count = int(input())
+score = 61",0,0,0,3,4,1,0,Sequential
+"print(total)
+num = int(input())
+for y in range(2):
+    score = 33
+    age = int(input())
+    age = 0",0,1,0,6,4,2,1,Looping
+"print(result)
+for i in range(8):
+    for j in range(3):
+        val = a * 23
+        x = result + 14",0,2,0,5,4,3,2,Nested
+"def compute(num, x):
+    for i in range(3):
+        b = int(input())
+    return i
+result = compute(9, 1)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"print(a)
+while total <= 64:
+    if val > 82:
+        age = 3
+        n = int(input())
+    else:
+        total = num * 33",1,1,0,7,6,3,2,Nested
+"print(b)
+n = 77
+score = int(input())",0,0,0,3,2,1,0,Sequential
+x = price - 43,0,0,0,1,2,1,0,Sequential
+"def compute(result, price):
+    print(x)
+    print(age)
+def helper(count):
+    return 1
+result = compute(7, 9)
+print(result)",0,0,2,7,1,1,0,Function-Based
+"def solve(score, total):
+    for i in range(3):
+        score = count % 37
+    return i
+def helper(price):
+    return 1
+result = solve(2, 9)
+print(result)",0,1,2,8,3,2,1,Function-Based
+"val = int(input())
+if val < 87:
+    count = 13
+    print(val)
+elif x >= 68:
+    print(num)
+elif score < 93:
+    y = count * 25",3,0,0,8,7,4,1,Conditional
+"n = 57
+print(b)
+print(n)
+result = int(input())
+val = total - 21
+b = int(input())
+price = n * 13",0,0,0,7,7,1,0,Sequential
+"def calc(y, a):
+    if y <= 81:
+        return 1
+    return 0
+result = calc(7, 6)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"result = num + 14
+n = int(input())
+for a in range(4):
+    print(score)
+for result in range(8):
+    print(price)",0,2,0,6,3,3,1,Looping
+"def process(y, val):
+    if a > 3 or total == 33:
+        return 1
+    return 0
+def helper(num):
+    return 1
+result = process(2, 5)
+print(result)",1,0,2,8,3,3,1,Function-Based
+"def add(price, b):
+    if y < 49 and n != 35:
+        return 1
+    return 0
+result = add(4, 8)
+print(result)",1,0,1,6,3,3,1,Function-Based
+"num = 33
+n = result / 42
+if age != 10:
+    age = int(input())
+elif num < 43:
+    y = int(input())
+    print(a)
+else:
+    print(n)",2,0,0,9,7,3,1,Conditional
+n = 43,0,0,0,1,1,1,0,Sequential
+"x = int(input())
+while y <= 26:
+    if x > 5:
+        print(a)
+    else:
+        print(total)",1,1,0,6,3,3,2,Nested
+"count = num + 16
+count = int(input())
+for num in range(2):
+    print(result)
+    count = 77
+    total = int(input())",0,1,0,6,5,2,1,Looping
+"print(num)
+for val in range(6):
+    print(age)
+    score = 72
+while a != 13:
+    print(price)
+    print(age)
+    age = int(input())",0,2,0,8,3,3,1,Looping
+"b = result % 19
+x = 94
+print(n)
+val = 71",0,0,0,4,4,1,0,Sequential
+"price = 67
+print(price)",0,0,0,2,1,1,0,Sequential
+"y = 2
+score = 82
+while num < 20:
+    print(result)
+    y = val - 50",0,1,0,5,5,2,1,Looping
+"result = age + 47
+if b != 92:
+    price = result * 30",1,0,0,3,5,2,1,Conditional
+"def add(b, num):
+    if b < 5 and count <= 98:
+        return 1
+    return 0
+def helper(price):
+    return 1
+result = add(7, 3)
+print(result)",1,0,2,8,3,3,1,Function-Based
+"n = count - 2
+for i in range(2):
+    for j in range(9):
+        total = int(input())",0,2,0,4,3,3,2,Nested
+"age = 52
+score = 52
+for y in range(11):
+    score = 88
+    b = int(input())
+    print(b)",0,1,0,6,4,2,1,Looping
+"def add(b, result):
+    print(num)
+    print(b)
+    val = x - 5
+def helper(val):
+    return 1
+result = add(6, 4)
+print(result)",0,0,2,8,3,1,0,Function-Based
+"print(age)
+score = int(input())
+y = age * 10
+print(total)
+y = int(input())
+val = val * 36",0,0,0,6,6,1,0,Sequential
+"print(result)
+print(val)
+print(num)
+age = 69",0,0,0,4,1,1,0,Sequential
+"count = a - 43
+while b > 34:
+    price = int(input())
+    y = int(input())",0,1,0,4,5,2,1,Looping
+"b = int(input())
+total = result - 49
+count = int(input())
+result = 80
+result = x + 32
+result = 98
+val = 57",0,0,0,7,9,1,0,Sequential
+"price = int(input())
+if n != 91 or x > 31:
+    if total > 80:
+        count = int(input())
+        print(val)
+else:
+    num = int(input())",2,0,0,7,6,4,2,Nested
+"x = age % 47
+result = 73",0,0,0,2,3,1,0,Sequential
+"print(price)
+print(n)
+result = num + 18
+print(val)",0,0,0,4,2,1,0,Sequential
+"x = 58
+if num <= 81 and price > 10:
+    if age > 37 and val == 31:
+        age = 69
+        result = int(input())
+else:
+    score = int(input())",2,0,0,7,8,5,2,Nested
+"y = 23
+y = 14
+for x in range(15):
+    print(x)
+    b = 57
+    result = a - 6",0,1,0,6,5,2,1,Looping
+"val = a % 40
+if total < 8:
+    if total > 88:
+        total = int(input())
+        score = int(input())
+else:
+    age = 61",2,0,0,7,7,3,2,Nested
+"n = int(input())
+for i in range(5):
+    if n <= 91:
+        for j in range(3):
+            x = y - 8",1,2,0,5,4,4,3,Nested
+"total = int(input())
+n = 35
+if x < 6:
+    print(score)
+    a = int(input())
+else:
+    total = int(input())",1,0,0,7,5,2,1,Conditional
+"num = int(input())
+for i in range(7):
+    if total >= 23:
+        for j in range(3):
+            count = int(input())",1,2,0,5,3,4,3,Nested
+"def compute(x, x):
+    total = 48
+    total = int(input())
+    val = 45
+def helper(count):
+    return 1
+result = compute(0, 4)
+print(result)",0,0,2,8,4,1,0,Function-Based
+"result = score / 23
+for i in range(9):
+    if score >= 59:
+        age = y + 45",1,1,0,4,5,3,2,Nested
+"a = int(input())
+for i in range(5):
+    if n <= 19 and price <= 91:
+        for j in range(3):
+            score = int(input())",1,2,0,5,4,5,3,Nested
+"n = int(input())
+if a > 88:
+    age = 76
+    print(b)
+elif result > 36 and val == 40:
+    print(a)
+elif count >= 82 or n != 75:
+    age = result + 3
+    n = 42
+else:
+    print(age)",3,0,0,11,10,6,1,Conditional
+"num = int(input())
+while a < 37:
+    a = int(input())",0,1,0,3,3,2,1,Looping
+"price = price - 32
+if age != 71 or result == 13:
+    score = int(input())
+    total = int(input())
+elif price != 70 or age == 50:
+    total = score + 42",2,0,0,6,10,5,1,Conditional
+"a = 51
+if count > 81 or price <= 35:
+    age = val * 27
+    y = 75
+elif b <= 62:
+    score = val / 3
+    score = 86",2,0,0,7,10,4,1,Conditional
+"n = b - 49
+val = result / 26
+for age in range(9):
+    num = price + 49
+    num = int(input())
+    total = int(input())",0,1,0,6,8,2,1,Looping
+"print(n)
+if total != 5 and a <= 54:
+    if n > 56:
+        print(x)
+        print(y)
+else:
+    result = 82",2,0,0,7,4,4,2,Nested
+"result = y - 29
+for i in range(8):
+    if total <= 24 or count <= 68:
+        num = 3
+        result = a / 3",1,1,0,5,7,4,2,Nested
+"print(y)
+if result != 10:
+    val = 78
+    print(count)
+else:
+    count = 71",1,0,0,6,3,2,1,Conditional
+"print(total)
+price = int(input())
+if result != 6:
+    print(result)
+else:
+    print(result)
+    score = 66",1,0,0,7,3,2,1,Conditional
+"print(b)
+for i in range(7):
+    if n != 56:
+        for j in range(3):
+            y = int(input())",1,2,0,5,2,4,3,Nested
+"result = y - 3
+result = 81
+while y != 20:
+    count = 57
+    a = int(input())
+    total = int(input())
+for count in range(19):
+    val = int(input())
+    b = a * 7
+    x = int(input())",0,2,0,10,11,3,1,Looping
+"count = 14
+print(n)
+for num in range(4):
+    price = int(input())",0,1,0,4,2,2,1,Looping
+"total = 35
+for result in range(19):
+    print(price)
+    count = int(input())",0,1,0,4,2,2,1,Looping
+"def add(a, price):
+    if score == 0 or count >= 49:
+        return 1
+    return 0
+def helper(price):
+    return 1
+result = add(9, 8)
+print(result)",1,0,2,8,3,3,1,Function-Based
+"a = 28
+for i in range(2):
+    if num > 37:
+        for j in range(3):
+            print(count)",1,2,0,5,2,4,3,Nested
+"x = val + 1
+print(num)
+for y in range(15):
+    print(val)
+    a = int(input())
+    result = num % 22
+for x in range(13):
+    n = score / 28
+    count = 16",0,2,0,9,8,3,1,Looping
+"count = age * 8
+x = x + 13
+print(val)",0,0,0,3,4,1,0,Sequential
+"print(total)
+a = y * 11
+if count < 95:
+    age = int(input())",1,0,0,4,4,2,1,Conditional
+"val = 61
+for i in range(7):
+    if count <= 59 and num != 99:
+        for j in range(3):
+            val = 63",1,2,0,5,4,5,3,Nested
+"def process(a, score):
+    age = total + 42
+def helper(age):
+    return 1
+result = process(1, 6)
+print(result)",0,0,2,6,3,1,0,Function-Based
+"num = a + 8
+for i in range(9):
+    if x == 46:
+        for j in range(3):
+            age = int(input())",1,2,0,5,4,4,3,Nested
+"result = 57
+for i in range(8):
+    if y != 75 and age <= 30:
+        for j in range(3):
+            print(score)",1,2,0,5,3,5,3,Nested
+"def add(num, price):
+    num = int(input())
+    print(val)
+result = add(8, 3)
+print(result)",0,0,1,5,2,1,0,Function-Based
+"price = 0
+n = a / 48
+for b in range(7):
+    n = 98
+    print(num)
+    total = 26",0,1,0,6,5,2,1,Looping
+"val = 83
+if score < 29:
+    if y > 16:
+        result = 20
+else:
+    score = age + 34",2,0,0,6,6,3,2,Nested
+"print(score)
+while num > 23:
+    if count != 13:
+        n = 22
+    else:
+        age = int(input())",1,1,0,6,4,3,2,Nested
+"price = y / 49
+print(val)
+for n in range(4):
+    total = 25
+    print(a)",0,1,0,5,3,2,1,Looping
+"count = 82
+if num != 47 and val != 48:
+    age = price / 41
+    count = 13
+else:
+    num = 70",1,0,0,6,7,3,1,Conditional
+"print(x)
+n = 17
+while y != 29:
+    val = y / 32
+    print(x)",0,1,0,5,4,2,1,Looping
+"print(result)
+if val >= 28:
+    print(val)
+    price = 72
+elif a >= 18:
+    b = 100
+    y = 1",2,0,0,7,5,3,1,Conditional
+"print(n)
+age = count / 38",0,0,0,2,2,1,0,Sequential
+"b = x % 50
+print(b)
+result = num + 32
+age = count * 10",0,0,0,4,6,1,0,Sequential
+"def calc(total, age):
+    if a != 80:
+        return 1
+    return 0
+def helper(total):
+    return 1
+result = calc(5, 0)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"n = 18
+b = b * 32
+a = 22
+score = age * 10
+print(result)
+age = num / 33",0,0,0,6,8,1,0,Sequential
+"count = 99
+val = int(input())
+if score > 16:
+    price = 78
+    y = int(input())
+else:
+    num = 54",1,0,0,7,6,2,1,Conditional
+"x = int(input())
+print(b)
+b = 37",0,0,0,3,2,1,0,Sequential
+"score = int(input())
+print(age)",0,0,0,2,1,1,0,Sequential
+"num = num / 22
+score = int(input())",0,0,0,2,3,1,0,Sequential
+"a = result + 42
+print(result)
+total = 36
+x = int(input())
+price = int(input())
+score = int(input())",0,0,0,6,6,1,0,Sequential
+"val = int(input())
+b = int(input())
+age = 48
+num = 11",0,0,0,4,4,1,0,Sequential
+"b = int(input())
+while n > 1:
+    price = x % 13
+    score = n + 12
+    total = price - 23",0,1,0,5,8,2,1,Looping
+"print(a)
+while y != 5:
+    val = 68",0,1,0,3,2,2,1,Looping
+"print(val)
+if num == 91 and price == 39:
+    if val != 55 or n >= 31:
+        score = int(input())
+        print(total)
+else:
+    price = int(input())",2,0,0,7,6,5,2,Nested
+"x = int(input())
+val = int(input())
+if price > 9:
+    print(y)",1,0,0,4,3,2,1,Conditional
+"y = 97
+for result in range(16):
+    x = int(input())",0,1,0,3,2,2,1,Looping
+"num = int(input())
+print(age)
+if b < 72:
+    score = 60
+    print(y)
+else:
+    price = y / 47",1,0,0,7,5,2,1,Conditional
+"def calc(price, count):
+    count = 84
+    print(price)
+def helper(b):
+    return 1
+result = calc(1, 8)
+print(result)",0,0,2,7,2,1,0,Function-Based
+"def process(b, total):
+    for i in range(3):
+        a = total / 30
+    return i
+def helper(n):
+    return 1
+result = process(5, 4)
+print(result)",0,1,2,8,3,2,1,Function-Based
+"b = 18
+a = age - 47
+if age > 73:
+    b = num + 23
+    print(x)
+else:
+    y = 0",1,0,0,7,7,2,1,Conditional
+val = total + 34,0,0,0,1,2,1,0,Sequential
+"def check(x, price):
+    for i in range(4):
+        y = 29
+    return i
+result = check(2, 7)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"x = 27
+while n < 76:
+    if n < 93:
+        print(a)
+        b = n % 27
+    else:
+        age = 65",1,1,0,7,6,3,2,Nested
+"total = int(input())
+while a < 20:
+    print(result)
+    num = int(input())
+while price < 50:
+    count = 37
+    b = 4
+    print(b)",0,2,0,8,6,3,1,Looping
+"print(n)
+b = int(input())
+for price in range(16):
+    total = count / 23
+while b != 47:
+    num = int(input())
+    print(age)
+    total = 100",0,2,0,8,6,3,1,Looping
+"count = score * 39
+while b > 13:
+    x = 95",0,1,0,3,4,2,1,Looping
+"val = 30
+score = int(input())
+if val <= 38 or result > 39:
+    b = age * 18
+    result = 46
+else:
+    b = total - 12",1,0,0,7,9,3,1,Conditional
+"count = int(input())
+for i in range(4):
+    if num != 96:
+        for j in range(3):
+            score = val * 45",1,2,0,5,4,4,3,Nested
+"num = x / 48
+x = int(input())
+if x <= 35:
+    age = 15
+    print(num)
+elif y >= 71:
+    a = int(input())
+elif a >= 39:
+    age = 35
+    score = 3",3,0,0,10,10,4,1,Conditional
+"def compute(x, y):
+    if count <= 89:
+        return 1
+    return 0
+def helper(price):
+    return 1
+result = compute(2, 4)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"count = int(input())
+for i in range(3):
+    if score <= 91:
+        for j in range(3):
+            score = total + 25",1,2,0,5,4,4,3,Nested
+"x = int(input())
+if a == 46:
+    n = num - 36
+else:
+    count = price + 45",1,0,0,5,6,2,1,Conditional
+"y = int(input())
+print(b)
+for b in range(20):
+    print(x)
+    print(num)
+    count = 70",0,1,0,6,2,2,1,Looping
+"result = int(input())
+if age <= 71:
+    result = y - 17
+    price = int(input())
+elif count >= 94 and score >= 24:
+    result = int(input())
+    num = int(input())
+else:
+    x = score * 10
+    n = 90",2,0,0,10,12,4,1,Conditional
+age = 76,0,0,0,1,1,1,0,Sequential
+"print(a)
+while age >= 53:
+    if num != 88 and count >= 30:
+        y = int(input())
+    else:
+        price = int(input())",1,1,0,6,5,4,2,Nested
+"score = int(input())
+num = 66
+total = int(input())
+score = y + 5",0,0,0,4,5,1,0,Sequential
+"count = int(input())
+for i in range(7):
+    for j in range(4):
+        score = score + 8
+        score = int(input())",0,2,0,5,4,3,2,Nested
+"def solve(total, age):
+    if num <= 23:
+        return 1
+    return 0
+def helper(total):
+    return 1
+result = solve(2, 9)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"age = int(input())
+y = int(input())",0,0,0,2,2,1,0,Sequential
+"score = count / 50
+while b > 4:
+    num = num + 4
+    b = int(input())
+    score = result % 10",0,1,0,5,8,2,1,Looping
+"num = int(input())
+age = y + 29
+for num in range(7):
+    a = 60",0,1,0,4,4,2,1,Looping
+"b = 51
+for i in range(7):
+    if x <= 57:
+        b = 12
+        n = int(input())",1,1,0,5,4,3,2,Nested
+"def calc(total, age):
+    for i in range(5):
+        age = num + 32
+    return i
+result = calc(0, 6)
+print(result)",0,1,1,6,3,2,1,Function-Based
+"score = price % 48
+age = age - 41
+score = int(input())
+result = 40",0,0,0,4,6,1,0,Sequential
+"count = int(input())
+for a in range(13):
+    x = int(input())
+while price != 21:
+    val = a / 43
+    count = 61",0,2,0,6,6,3,1,Looping
+"print(num)
+score = age / 43
+if age <= 19:
+    price = a / 40
+    y = 13",1,0,0,5,6,2,1,Conditional
+"print(num)
+x = int(input())
+if total >= 53 or val < 20:
+    result = b - 30
+    total = 89",1,0,0,5,6,3,1,Conditional
+"def add(price, score):
+    if price <= 64:
+        return 1
+    return 0
+def helper(n):
+    return 1
+result = add(8, 3)
+print(result)",1,0,2,8,2,2,1,Function-Based
+a = 48,0,0,0,1,1,1,0,Sequential
+"age = b * 33
+val = int(input())
+if a < 74:
+    val = int(input())
+elif age < 75:
+    age = int(input())
+    b = int(input())
+else:
+    score = result + 42
+    price = result % 15",2,0,0,10,12,3,1,Conditional
+"def compute(n, price):
+    x = result / 8
+result = compute(5, 5)
+print(result)",0,0,1,4,3,1,0,Function-Based
+"def process(n, age):
+    if a <= 46 and val <= 34:
+        return 1
+    return 0
+result = process(0, 4)
+print(result)",1,0,1,6,3,3,1,Function-Based
+"b = 82
+for score in range(7):
+    num = 44
+    a = int(input())",0,1,0,4,3,2,1,Looping
+"y = int(input())
+if price >= 40:
+    price = num - 46
+    num = int(input())
+else:
+    print(x)
+    x = 21",1,0,0,7,6,2,1,Conditional
+"print(n)
+age = int(input())
+val = int(input())
+b = n % 26",0,0,0,4,4,1,0,Sequential
+"a = 37
+age = val - 31
+print(y)",0,0,0,3,3,1,0,Sequential
+"result = 1
+if total == 52:
+    x = int(input())
+    print(n)
+else:
+    n = 26",1,0,0,6,4,2,1,Conditional
+"age = int(input())
+print(b)
+a = val * 33
+n = age - 21
+y = 87
+b = y % 45
+price = age - 2
+print(b)
+total = 2",0,0,0,9,11,1,0,Sequential
+"b = total + 50
+print(total)",0,0,0,2,2,1,0,Sequential
+"n = 92
+while num == 75:
+    if n >= 98:
+        score = price / 29
+    else:
+        total = int(input())",1,1,0,6,6,3,2,Nested
+"age = int(input())
+val = 34",0,0,0,2,2,1,0,Sequential
+"print(num)
+count = 23
+if a == 36 or a > 70:
+    print(n)
+    result = 17
+elif age != 19:
+    count = 29
+    total = val + 43
+elif x <= 3:
+    val = age + 42
+    num = int(input())",3,0,0,11,12,5,1,Conditional
+"a = int(input())
+count = age * 3
+while result < 45:
+    b = 53
+while a > 41:
+    age = n - 44
+    b = count * 50",0,2,0,7,10,3,1,Looping
+"y = 61
+for i in range(6):
+    if y > 31:
+        n = int(input())",1,1,0,4,3,3,2,Nested
+"def check(result, result):
+    for i in range(7):
+        val = int(input())
+    return i
+def helper(total):
+    return 1
+result = check(3, 9)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"age = a * 20
+num = int(input())
+if n != 66:
+    a = 40
+elif a >= 55:
+    print(y)
+elif b == 92:
+    y = int(input())",3,0,0,8,8,4,1,Conditional
+"def compute(age, age):
+    if result >= 24:
+        return 1
+    return 0
+result = compute(1, 4)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"print(val)
+result = int(input())
+while x > 1:
+    price = int(input())
+    val = int(input())",0,1,0,5,4,2,1,Looping
+"num = 62
+for i in range(5):
+    for j in range(2):
+        n = int(input())",0,2,0,4,2,3,2,Nested
+"b = int(input())
+total = int(input())
+if age == 19:
+    y = price + 44
+else:
+    a = int(input())
+    y = total - 13",1,0,0,7,8,2,1,Conditional
+"n = 65
+for i in range(8):
+    if b != 31:
+        for j in range(3):
+            num = int(input())",1,2,0,5,3,4,3,Nested
+"def compute(total, val):
+    print(x)
+    price = int(input())
+    print(count)
+def helper(n):
+    return 1
+result = compute(6, 5)
+print(result)",0,0,2,8,2,1,0,Function-Based
+"b = 1
+val = int(input())
+print(x)",0,0,0,3,2,1,0,Sequential
+"n = y / 11
+for price in range(9):
+    print(score)
+    y = int(input())",0,1,0,4,3,2,1,Looping
+"result = score + 15
+n = 87
+if y < 80 or a != 8:
+    score = val * 36
+else:
+    print(x)
+    a = x + 44",1,0,0,7,9,3,1,Conditional
+"def calc(count, num):
+    for i in range(9):
+        n = int(input())
+    return i
+result = calc(4, 2)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"def process(count, b):
+    if total > 90:
+        return 1
+    return 0
+result = process(8, 6)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"def solve(x, age):
+    for i in range(4):
+        n = int(input())
+    return i
+result = solve(8, 4)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"num = price - 46
+for i in range(9):
+    for j in range(8):
+        print(x)",0,2,0,4,2,3,2,Nested
+"total = int(input())
+for i in range(8):
+    for j in range(6):
+        age = age % 34
+        a = int(input())",0,2,0,5,4,3,2,Nested
+b = 14,0,0,0,1,1,1,0,Sequential
+"score = int(input())
+price = val * 27
+score = int(input())
+price = price % 49
+val = score + 16
+age = age % 38
+print(price)",0,0,0,7,10,1,0,Sequential
+"y = int(input())
+score = 47
+while val != 5:
+    count = age / 20
+    a = int(input())
+    y = 12
+while y > 41:
+    num = a * 46
+    b = 64",0,2,0,9,11,3,1,Looping
+"score = int(input())
+if a < 3 or x == 83:
+    y = age / 44
+    print(score)",1,0,0,4,5,3,1,Conditional
+"total = n / 48
+for i in range(9):
+    if x < 30:
+        a = int(input())
+        y = age % 8",1,1,0,5,6,3,2,Nested
+"def check(x, result):
+    if total == 76:
+        return 1
+    return 0
+result = check(8, 2)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"num = age + 28
+x = score * 45
+if a >= 83:
+    total = 38
+else:
+    print(price)",1,0,0,6,6,2,1,Conditional
+"def process(score, n):
+    score = int(input())
+    a = int(input())
+    print(count)
+result = process(3, 8)
+print(result)",0,0,1,6,3,1,0,Function-Based
+"val = num / 11
+val = 15
+if a != 46 and b <= 20:
+    val = 32
+else:
+    n = int(input())
+    age = int(input())",1,0,0,7,8,3,1,Conditional
+"age = 83
+count = 29",0,0,0,2,2,1,0,Sequential
+"num = score / 15
+if n < 49 or a <= 33:
+    print(n)",1,0,0,3,4,3,1,Conditional
+"price = int(input())
+if y == 72:
+    count = 53
+    a = 62
+elif val >= 92:
+    y = price + 34
+    print(num)
+elif num <= 55 or price < 60:
+    total = 77
+    price = 46",3,0,0,10,11,5,1,Conditional
+"result = int(input())
+num = 91
+if val >= 92:
+    print(price)
+    num = int(input())
+else:
+    n = b % 27
+    a = int(input())",1,0,0,8,7,2,1,Conditional
+"def solve(val, result):
+    n = 56
+    result = num / 28
+result = solve(5, 6)
+print(result)",0,0,1,5,4,1,0,Function-Based
+"total = result % 28
+if price == 74:
+    if total <= 70:
+        score = int(input())
+        total = 73
+else:
+    print(num)",2,0,0,7,6,3,2,Nested
+"def check(score, score):
+    if total >= 44:
+        return 1
+    return 0
+def helper(val):
+    return 1
+result = check(9, 1)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"def solve(total, a):
+    if val == 0:
+        return 1
+    return 0
+def helper(n):
+    return 1
+result = solve(1, 3)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"def add(n, x):
+    age = 79
+    total = 67
+def helper(price):
+    return 1
+result = add(4, 1)
+print(result)",0,0,2,7,3,1,0,Function-Based
+"def calc(val, result):
+    for i in range(6):
+        price = x / 16
+    return i
+def helper(num):
+    return 1
+result = calc(8, 1)
+print(result)",0,1,2,8,3,2,1,Function-Based
+"n = 36
+while y > 7:
+    print(result)
+    result = int(input())
+    print(age)
+while val < 39:
+    print(a)
+    print(y)",0,2,0,8,4,3,1,Looping
+"print(y)
+if y <= 34:
+    if result < 94 and n >= 89:
+        count = 37
+else:
+    n = int(input())",2,0,0,6,5,4,2,Nested
+"age = int(input())
+y = int(input())
+if age >= 11 or total > 4:
+    a = score + 13
+elif score == 78:
+    score = n - 5
+else:
+    x = 88",2,0,0,8,10,4,1,Conditional
+"age = a / 45
+count = int(input())
+for result in range(16):
+    print(price)
+    score = age % 14
+for score in range(20):
+    y = 86
+    count = int(input())",0,2,0,8,7,3,1,Looping
+"age = 51
+a = 58
+if n > 48 and total > 74:
+    num = num + 1
+else:
+    print(num)",1,0,0,6,6,3,1,Conditional
+"age = val - 14
+b = count + 11
+for result in range(14):
+    print(price)
+for count in range(20):
+    age = 52
+    price = n % 30",0,2,0,7,7,3,1,Looping
+"n = 17
+score = y / 27
+while n > 1:
+    a = int(input())
+    num = 25",0,1,0,5,6,2,1,Looping
+"b = int(input())
+for a in range(6):
+    n = int(input())",0,1,0,3,2,2,1,Looping
+"def calc(price, age):
+    if price != 82:
+        return 1
+    return 0
+def helper(num):
+    return 1
+result = calc(8, 0)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"print(price)
+print(result)",0,0,0,2,0,1,0,Sequential
+num = 27,0,0,0,1,1,1,0,Sequential
+"def calc(price, y):
+    for i in range(7):
+        a = 63
+    return i
+result = calc(3, 0)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"def compute(result, result):
+    print(age)
+def helper(score):
+    return 1
+result = compute(6, 3)
+print(result)",0,0,2,6,1,1,0,Function-Based
+"a = score + 38
+if total > 73:
+    if x > 60:
+        age = 20
+        a = result - 41
+else:
+    price = int(input())",2,0,0,7,8,3,2,Nested
+"score = 23
+score = 58
+for age in range(10):
+    n = int(input())
+    val = 32
+    num = 23",0,1,0,6,5,2,1,Looping
+"num = age % 10
+while num <= 66 and num >= 69:
+    if y <= 64:
+        count = int(input())
+    else:
+        print(price)",1,1,0,6,6,4,2,Nested
+"print(b)
+for i in range(3):
+    for j in range(7):
+        b = age + 8
+        y = int(input())",0,2,0,5,3,3,2,Nested
+"print(a)
+x = int(input())
+for x in range(6):
+    age = score % 41
+while num > 15:
+    num = count % 7",0,2,0,6,6,3,1,Looping
+"print(num)
+if total != 37 or y <= 4:
+    price = score / 48
+elif age == 96 or total < 26:
+    total = 23
+elif age > 8:
+    x = int(input())
+else:
+    y = 31",3,0,0,9,10,6,1,Conditional
+"def solve(count, a):
+    for i in range(2):
+        result = 37
+    return i
+def helper(price):
+    return 1
+result = solve(1, 5)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"age = 36
+age = int(input())
+if y < 74:
+    val = int(input())
+    total = 65",1,0,0,5,5,2,1,Conditional
+"def check(b, b):
+    n = age * 32
+def helper(n):
+    return 1
+result = check(3, 1)
+print(result)",0,0,2,6,3,1,0,Function-Based
+"age = 74
+total = 98
+for n in range(17):
+    price = 84",0,1,0,4,3,2,1,Looping
+"print(y)
+b = int(input())
+if age > 96:
+    price = int(input())
+    print(count)
+else:
+    count = y / 16",1,0,0,7,5,2,1,Conditional
+"a = int(input())
+y = total / 38
+val = 4
+val = count / 45",0,0,0,4,6,1,0,Sequential
+"y = int(input())
+x = 33
+if n != 8 and score > 3:
+    y = 93
+elif count == 67:
+    num = 0
+    print(b)
+else:
+    count = int(input())",2,0,0,9,8,4,1,Conditional
+"result = 56
+age = 21
+while price > 6:
+    count = 7
+while result < 7:
+    val = int(input())
+    print(b)",0,2,0,7,6,3,1,Looping
+"n = a % 29
+while price != 18:
+    score = int(input())
+    print(age)
+    print(y)
+while x > 41:
+    print(x)
+    count = total + 17
+    count = 65",0,2,0,9,8,3,1,Looping
+"def compute(score, n):
+    val = 21
+def helper(a):
+    return 1
+result = compute(8, 4)
+print(result)",0,0,2,6,2,1,0,Function-Based
+"n = 90
+y = score * 45
+print(age)
+n = int(input())",0,0,0,4,4,1,0,Sequential
+"b = 2
+age = n - 46",0,0,0,2,3,1,0,Sequential
+"result = 94
+if a > 25:
+    if num <= 51:
+        total = result % 30
+else:
+    x = int(input())",2,0,0,6,6,3,2,Nested
+"x = 89
+b = 11
+a = 93
+print(n)",0,0,0,4,3,1,0,Sequential
+"def compute(result, score):
+    if total >= 57:
+        return 1
+    return 0
+result = compute(0, 7)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"y = 34
+while val != 76 or y == 55:
+    if a > 49:
+        result = 97
+        print(num)
+    else:
+        b = x / 13",1,1,0,7,7,4,2,Nested
+"val = 56
+for total in range(8):
+    score = int(input())
+    num = val + 23
+    result = 91",0,1,0,5,5,2,1,Looping
+"x = total * 33
+print(count)
+if a != 87 and val == 79:
+    n = num * 5
+else:
+    a = num * 1",1,0,0,6,8,3,1,Conditional
+"print(age)
+for i in range(8):
+    if num > 67 and y > 44:
+        for j in range(3):
+            n = int(input())",1,2,0,5,3,5,3,Nested
+"age = num - 42
+for n in range(3):
+    score = 79
+    total = 18
+    print(b)
+while b != 17:
+    val = int(input())
+    score = int(input())",0,2,0,8,7,3,1,Looping
+"val = 18
+if a >= 23:
+    val = int(input())
+else:
+    a = 54",1,0,0,5,4,2,1,Conditional
+"total = 19
+if b == 57 and a == 31:
+    if b >= 16:
+        result = b - 27
+else:
+    y = y / 6",2,0,0,6,8,4,2,Nested
+"a = b * 38
+for x in range(5):
+    x = a - 40",0,1,0,3,4,2,1,Looping
+"def process(num, val):
+    for i in range(7):
+        a = int(input())
+    return i
+result = process(4, 8)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"b = int(input())
+score = 5
+if result > 12:
+    val = 30
+elif x != 3:
+    a = int(input())
+    price = 87
+elif b > 13:
+    print(age)
+    a = total + 3
+else:
+    a = n - 32",3,0,0,12,12,4,1,Conditional
+"print(val)
+print(result)
+count = score + 20
+print(score)
+age = price - 8
+val = int(input())
+a = 42",0,0,0,7,6,1,0,Sequential
+"x = score % 39
+for i in range(2):
+    if price == 22:
+        for j in range(3):
+            score = x - 6",1,2,0,5,5,4,3,Nested
+"print(x)
+y = 17
+x = 87
+score = b / 25",0,0,0,4,4,1,0,Sequential
+"def calc(y, n):
+    if num <= 7 and num == 81:
+        return 1
+    return 0
+def helper(age):
+    return 1
+result = calc(4, 3)
+print(result)",1,0,2,8,3,3,1,Function-Based
+"b = int(input())
+for i in range(3):
+    if result == 42:
+        a = 19
+        print(val)",1,1,0,5,3,3,2,Nested
+"age = int(input())
+for i in range(7):
+    if num >= 91:
+        for j in range(3):
+            price = int(input())",1,2,0,5,3,4,3,Nested
+"print(price)
+for i in range(7):
+    if count >= 24 and y != 76:
+        n = price % 3
+        print(result)",1,1,0,5,4,4,2,Nested
+"def calc(x, age):
+    for i in range(9):
+        print(total)
+    return i
+result = calc(5, 3)
+print(result)",0,1,1,6,1,2,1,Function-Based
+"total = int(input())
+if a <= 34:
+    score = 55",1,0,0,3,3,2,1,Conditional
+"print(val)
+print(n)
+y = n % 4
+b = age * 35
+score = 30
+a = int(input())
+x = int(input())
+print(y)",0,0,0,8,7,1,0,Sequential
+age = count * 28,0,0,0,1,2,1,0,Sequential
+"result = price * 43
+for i in range(3):
+    for j in range(6):
+        result = int(input())
+        result = age * 3",0,2,0,5,5,3,2,Nested
+"total = int(input())
+a = int(input())
+if age > 23:
+    b = int(input())
+else:
+    val = int(input())
+    print(a)",1,0,0,7,5,2,1,Conditional
+"b = int(input())
+for a in range(14):
+    n = 50
+    a = count / 44
+    y = score * 45",0,1,0,5,6,2,1,Looping
+"count = int(input())
+val = 63
+if age <= 70:
+    y = price + 15
+elif score >= 28:
+    b = age + 12
+else:
+    x = 55
+    val = num / 20",2,0,0,9,11,3,1,Conditional
+"print(age)
+while score < 29:
+    if b != 91 and x != 35:
+        price = b + 4
+        total = 57
+    else:
+        print(result)",1,1,0,7,6,4,2,Nested
+"print(result)
+if result >= 10:
+    if y > 16:
+        n = age * 14
+else:
+    a = int(input())",2,0,0,6,5,3,2,Nested
+"def check(n, y):
+    if count <= 2:
+        return 1
+    return 0
+result = check(5, 0)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"print(b)
+count = score % 19
+age = int(input())
+count = num - 27
+x = 87
+print(b)
+result = x % 4
+print(n)",0,0,0,8,8,1,0,Sequential
+"print(result)
+for i in range(5):
+    if n >= 34:
+        for j in range(3):
+            age = 22",1,2,0,5,2,4,3,Nested
+"age = 76
+total = num + 6",0,0,0,2,3,1,0,Sequential
+"print(n)
+print(y)
+b = int(input())
+a = 12
+age = int(input())
+print(y)",0,0,0,6,3,1,0,Sequential
+"score = price + 20
+while count < 2:
+    price = 59",0,1,0,3,4,2,1,Looping
+"def add(b, b):
+    if price < 42:
+        return 1
+    return 0
+def helper(n):
+    return 1
+result = add(3, 9)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"y = int(input())
+y = x - 5
+score = int(input())
+print(num)
+result = 95
+print(result)",0,0,0,6,5,1,0,Sequential
+"def check(result, total):
+    print(price)
+result = check(6, 7)
+print(result)",0,0,1,4,1,1,0,Function-Based
+"a = int(input())
+total = 41
+count = int(input())",0,0,0,3,3,1,0,Sequential
+"print(a)
+price = 96
+for n in range(19):
+    b = 64
+    print(x)
+    result = count * 40",0,1,0,6,4,2,1,Looping
+"a = 38
+price = 17
+result = 13
+y = 45",0,0,0,4,4,1,0,Sequential
+"score = 77
+if count == 20:
+    if val < 96:
+        x = 94
+else:
+    score = 71",2,0,0,6,5,3,2,Nested
+"val = total - 29
+for i in range(8):
+    if num < 8:
+        for j in range(3):
+            val = int(input())",1,2,0,5,4,4,3,Nested
+"val = 31
+price = 13
+if n < 47:
+    val = price - 1
+elif result != 5 or a < 80:
+    print(count)
+elif b > 9:
+    price = 75
+    print(val)
+else:
+    count = int(input())",3,0,0,11,10,5,1,Conditional
+"print(count)
+val = 100
+b = count - 10
+count = 33
+x = 35
+print(count)",0,0,0,6,5,1,0,Sequential
+"y = val / 23
+print(b)
+total = int(input())
+age = 61",0,0,0,4,4,1,0,Sequential
+"print(val)
+for b in range(11):
+    print(total)
+    print(a)
+    n = a / 29",0,1,0,5,2,2,1,Looping
+"score = 15
+if n > 57:
+    count = score % 18
+elif result >= 97 or val < 37:
+    x = 49",2,0,0,5,7,4,1,Conditional
+"print(price)
+count = count - 30
+while price != 42:
+    n = 8",0,1,0,4,4,2,1,Looping
+"a = 63
+if x > 70:
+    x = result / 14
+elif result != 15 or y < 58:
+    age = 39
+else:
+    price = 56
+    print(count)",2,0,0,8,8,4,1,Conditional
+"total = int(input())
+if n == 69:
+    if val <= 1:
+        print(y)
+else:
+    age = age / 33",2,0,0,6,5,3,2,Nested
+"print(age)
+for i in range(2):
+    if score >= 25:
+        for j in range(3):
+            count = int(input())",1,2,0,5,2,4,3,Nested
+"price = int(input())
+x = age - 33
+if num == 49 and a >= 75:
+    price = 31
+    print(b)
+elif total >= 18:
+    x = a - 41
+    total = y * 49
+else:
+    price = 34
+    a = int(input())",2,0,0,11,13,4,1,Conditional
+"def process(result, count):
+    for i in range(6):
+        count = int(input())
+    return i
+result = process(9, 4)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"print(result)
+for i in range(3):
+    if x > 70:
+        total = 4",1,1,0,4,2,3,2,Nested
+"b = score + 15
+if val <= 14:
+    age = a + 22
+    total = int(input())
+elif b >= 78:
+    b = 70
+elif x == 92 and num >= 28:
+    a = int(input())
+    a = 70
+else:
+    x = 14
+    y = int(input())",3,0,0,12,14,5,1,Conditional
+"def calc(a, total):
+    print(b)
+    score = int(input())
+def helper(a):
+    return 1
+result = calc(3, 9)
+print(result)",0,0,2,7,2,1,0,Function-Based
+"x = int(input())
+for i in range(2):
+    if b > 24 or x < 13:
+        for j in range(3):
+            count = val - 16",1,2,0,5,5,5,3,Nested
+"result = int(input())
+for y in range(8):
+    score = y / 39
+    age = 43
+for x in range(7):
+    print(b)
+    price = int(input())",0,2,0,7,5,3,1,Looping
+"result = a % 7
+print(n)
+total = int(input())
+print(val)",0,0,0,4,3,1,0,Sequential
+"def calc(x, count):
+    val = int(input())
+    print(age)
+result = calc(7, 9)
+print(result)",0,0,1,5,2,1,0,Function-Based
+"num = 47
+num = 78
+n = a * 14
+total = int(input())",0,0,0,4,5,1,0,Sequential
+"def compute(x, n):
+    if count != 10 or y > 37:
+        return 1
+    return 0
+result = compute(6, 9)
+print(result)",1,0,1,6,3,3,1,Function-Based
+"n = 27
+for i in range(3):
+    for j in range(8):
+        x = a / 42",0,2,0,4,3,3,2,Nested
+"print(num)
+n = 9
+while count != 36:
+    x = int(input())
+    score = int(input())
+    a = 90",0,1,0,6,5,2,1,Looping
+n = int(input()),0,0,0,1,1,1,0,Sequential
+"print(price)
+print(score)
+result = price % 2",0,0,0,3,2,1,0,Sequential
+"a = int(input())
+while price < 31:
+    print(val)
+    x = price / 42",0,1,0,4,4,2,1,Looping
+"num = 52
+val = int(input())
+if a < 58:
+    val = int(input())
+    price = 24
+else:
+    total = y - 44",1,0,0,7,7,2,1,Conditional
+"val = b % 11
+total = int(input())",0,0,0,2,3,1,0,Sequential
+"result = total / 7
+print(a)
+if age <= 25:
+    count = age * 15",1,0,0,4,5,2,1,Conditional
+"print(num)
+while count != 31:
+    num = b * 27
+    print(count)
+    b = total - 24",0,1,0,5,5,2,1,Looping
+"print(result)
+for i in range(7):
+    for j in range(6):
+        y = 36",0,2,0,4,1,3,2,Nested
+"b = b / 34
+if total != 66:
+    if result != 27:
+        result = int(input())
+        x = 25
+else:
+    x = int(input())",2,0,0,7,7,3,2,Nested
+"result = int(input())
+a = int(input())
+age = age - 32
+result = int(input())
+age = n - 34",0,0,0,5,7,1,0,Sequential
+"n = int(input())
+for i in range(3):
+    if a != 83:
+        price = a + 16
+        num = int(input())",1,1,0,5,5,3,2,Nested
+"print(result)
+if result >= 8:
+    n = 61
+    num = int(input())
+elif count < 70:
+    print(price)
+elif price != 2 and y == 32:
+    val = 23",3,0,0,8,7,5,1,Conditional
+"count = int(input())
+b = int(input())
+for total in range(11):
+    y = int(input())
+    print(b)
+while y != 41:
+    num = int(input())",0,2,0,7,5,3,1,Looping
+"b = score + 42
+count = b * 14
+if num >= 30 and score <= 49:
+    print(score)
+elif y >= 15:
+    print(count)
+    age = int(input())
+else:
+    b = int(input())",2,0,0,9,9,4,1,Conditional
+"n = int(input())
+for i in range(4):
+    for j in range(9):
+        print(y)
+        a = int(input())",0,2,0,5,2,3,2,Nested
+"print(num)
+print(result)
+for n in range(7):
+    n = int(input())
+    n = 56",0,1,0,5,2,2,1,Looping
+"print(n)
+count = 69
+for n in range(7):
+    age = int(input())
+    x = y - 27
+    count = x + 1
+while result > 12:
+    result = 73
+    print(n)",0,2,0,9,8,3,1,Looping
+"y = int(input())
+if n != 2 and count >= 68:
+    if n > 46:
+        print(n)
+else:
+    print(b)",2,0,0,6,4,4,2,Nested
+result = 78,0,0,0,1,1,1,0,Sequential
+"print(y)
+for i in range(3):
+    if val < 69 or score <= 24:
+        age = 26
+        num = score - 41",1,1,0,5,5,4,2,Nested
+"b = 8
+if val != 47 and count < 99:
+    print(count)
+elif result < 23:
+    print(y)
+elif num > 33:
+    age = int(input())
+    print(y)
+else:
+    x = n * 47",3,0,0,10,8,5,1,Conditional
+"def calc(num, age):
+    total = 9
+result = calc(4, 1)
+print(result)",0,0,1,4,2,1,0,Function-Based
+"price = int(input())
+while count < 7:
+    b = 72
+    price = int(input())",0,1,0,4,4,2,1,Looping
+"age = 9
+for i in range(3):
+    if num <= 30:
+        for j in range(3):
+            a = result + 4",1,2,0,5,4,4,3,Nested
+"price = 22
+age = 86
+if age > 3:
+    b = 47",1,0,0,4,4,2,1,Conditional
+"n = 96
+if b == 7:
+    b = num + 27
+    n = 72
+elif b <= 64 and total >= 21:
+    print(a)
+elif age < 0 or n >= 32:
+    total = age - 38
+    print(x)",3,0,0,9,11,6,1,Conditional
+"num = 15
+print(age)
+while n != 45:
+    n = 43
+for b in range(20):
+    x = total * 6
+    print(b)
+    a = total - 47",0,2,0,8,7,3,1,Looping
+"x = int(input())
+for age in range(20):
+    count = 7
+    price = int(input())",0,1,0,4,3,2,1,Looping
+"score = age % 34
+while x < 44:
+    score = int(input())
+    b = age % 2",0,1,0,4,6,2,1,Looping
+"count = int(input())
+for i in range(5):
+    for j in range(9):
+        score = int(input())
+        price = int(input())",0,2,0,5,3,3,2,Nested
+"total = val + 9
+if price == 88:
+    a = 17
+elif count != 21:
+    print(a)
+    score = 38
+elif x > 85 or n <= 10:
+    print(score)
+    val = int(input())
+else:
+    a = 34",3,0,0,11,10,5,1,Conditional
+"x = 71
+if result < 54:
+    val = count % 7
+else:
+    score = 31
+    score = int(input())",1,0,0,6,6,2,1,Conditional
+"def process(val, y):
+    age = 67
+def helper(num):
+    return 1
+result = process(5, 2)
+print(result)",0,0,2,6,2,1,0,Function-Based
+"def compute(count, b):
+    count = int(input())
+result = compute(4, 0)
+print(result)",0,0,1,4,2,1,0,Function-Based
+"val = 81
+if y != 81:
+    if result == 31:
+        price = int(input())
+else:
+    score = x - 45",2,0,0,6,6,3,2,Nested
+"price = int(input())
+y = 75
+while n != 32:
+    total = 67
+    age = 49
+    b = int(input())
+while result > 39:
+    num = a / 1
+    num = y * 30",0,2,0,9,11,3,1,Looping
+"b = val - 30
+print(num)
+if b == 57:
+    n = 43
+    total = y * 28
+elif a != 40:
+    print(result)
+    result = 11
+elif n >= 11 and num != 95:
+    val = 99
+    y = score / 7",3,0,0,11,13,5,1,Conditional
+"print(age)
+for b in range(19):
+    print(age)
+while val != 47:
+    score = 78
+    score = score + 21
+    b = n % 27",0,2,0,7,6,3,1,Looping
+"count = count + 22
+if score <= 23:
+    x = 57
+elif total < 20:
+    total = int(input())
+elif a <= 47:
+    b = int(input())
+else:
+    y = int(input())
+    price = int(input())",3,0,0,10,10,4,1,Conditional
+"count = 15
+print(score)
+while b > 24:
+    total = 19",0,1,0,4,3,2,1,Looping
+"x = int(input())
+for i in range(4):
+    for j in range(8):
+        num = int(input())",0,2,0,4,2,3,2,Nested
+"y = int(input())
+if score >= 24:
+    result = 55
+else:
+    num = 97",1,0,0,5,4,2,1,Conditional
+"print(age)
+print(b)
+if n != 19:
+    y = int(input())
+else:
+    print(a)
+    age = int(input())",1,0,0,7,3,2,1,Conditional
+"n = total + 17
+print(num)
+for age in range(13):
+    total = int(input())
+    val = count / 12
+    print(y)",0,1,0,6,5,2,1,Looping
+"val = x + 47
+total = score * 5
+count = price - 16
+val = int(input())
+score = int(input())
+n = 56",0,0,0,6,9,1,0,Sequential
+"age = n - 28
+for num in range(13):
+    print(score)
+    n = score + 48",0,1,0,4,4,2,1,Looping
+"def process(age, price):
+    b = 15
+    n = y * 49
+    n = int(input())
+def helper(n):
+    return 1
+result = process(5, 9)
+print(result)",0,0,2,8,5,1,0,Function-Based
+"print(age)
+y = int(input())
+if count >= 78:
+    result = a % 50
+    a = n + 8
+elif age <= 33:
+    val = int(input())
+else:
+    x = 89",2,0,0,9,9,3,1,Conditional
+"b = 18
+for i in range(7):
+    for j in range(7):
+        print(y)
+        n = int(input())",0,2,0,5,2,3,2,Nested
+"total = 69
+print(x)
+price = int(input())
+n = val / 20
+val = y / 25",0,0,0,5,6,1,0,Sequential
+"y = int(input())
+print(y)
+if age >= 54:
+    print(result)
+elif b > 57:
+    print(num)
+elif score == 89 and total <= 73:
+    price = score % 16
+else:
+    val = 62",3,0,0,10,8,5,1,Conditional
+"def process(score, total):
+    if result > 51:
+        return 1
+    return 0
+def helper(count):
+    return 1
+result = process(9, 1)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"a = num * 9
+if a >= 89:
+    total = int(input())
+    count = int(input())",1,0,0,4,5,2,1,Conditional
+"def add(count, b):
+    if result > 16:
+        return 1
+    return 0
+result = add(9, 1)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"def compute(a, val):
+    if age <= 2 or y >= 24:
+        return 1
+    return 0
+result = compute(8, 0)
+print(result)",1,0,1,6,3,3,1,Function-Based
+"def check(b, age):
+    if b < 28:
+        return 1
+    return 0
+result = check(3, 5)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"def process(a, x):
+    b = n % 26
+    b = score - 24
+    n = int(input())
+def helper(y):
+    return 1
+result = process(1, 7)
+print(result)",0,0,2,8,6,1,0,Function-Based
+"score = int(input())
+while price < 87:
+    if num != 75:
+        x = int(input())
+    else:
+        b = y / 40",1,1,0,6,6,3,2,Nested
+"total = 58
+while result < 42:
+    a = count / 46
+    num = int(input())
+for score in range(9):
+    n = 77",0,2,0,6,6,3,1,Looping
+"def compute(total, n):
+    if age == 76:
+        return 1
+    return 0
+def helper(num):
+    return 1
+result = compute(0, 2)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"y = int(input())
+for count in range(17):
+    total = int(input())",0,1,0,3,2,2,1,Looping
+"def check(num, b):
+    if price >= 54:
+        return 1
+    return 0
+result = check(1, 8)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"def process(num, total):
+    for i in range(4):
+        val = x - 17
+    return i
+result = process(7, 8)
+print(result)",0,1,1,6,3,2,1,Function-Based
+"price = x % 8
+for val in range(15):
+    total = 48
+while num < 14:
+    val = 28
+    print(y)",0,2,0,6,5,3,1,Looping
+"score = int(input())
+print(count)
+total = num * 15",0,0,0,3,3,1,0,Sequential
+"score = int(input())
+for i in range(7):
+    if val != 85 or y > 85:
+        for j in range(3):
+            price = int(input())",1,2,0,5,4,5,3,Nested
+"result = 8
+while y > 4:
+    print(count)
+    print(result)",0,1,0,4,2,2,1,Looping
+"total = int(input())
+while y < 33:
+    age = age / 14",0,1,0,3,4,2,1,Looping
+print(total),0,0,0,1,0,1,0,Sequential
+"def calc(x, val):
+    for i in range(7):
+        result = 7
+    return i
+result = calc(5, 5)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"x = int(input())
+while score != 7:
+    count = b / 42",0,1,0,3,4,2,1,Looping
+"print(y)
+age = score / 45
+for val in range(14):
+    age = score % 38
+    a = 6
+    b = int(input())
+while total != 20:
+    y = result - 3
+    print(count)
+    print(n)",0,2,0,10,9,3,1,Looping
+"def check(num, a):
+    if result <= 99:
+        return 1
+    return 0
+result = check(1, 4)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"y = 15
+while age != 2:
+    if x > 2:
+        n = int(input())
+        result = int(input())
+    else:
+        score = 18",1,1,0,7,6,3,2,Nested
+"print(result)
+for i in range(8):
+    for j in range(3):
+        n = count * 17",0,2,0,4,2,3,2,Nested
+"age = b / 24
+b = num / 30
+total = int(input())
+price = 9
+b = count * 12
+count = int(input())",0,0,0,6,9,1,0,Sequential
+"def calc(num, score):
+    if count >= 45:
+        return 1
+    return 0
+result = calc(9, 6)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"num = 80
+n = 56
+b = a % 16
+b = int(input())
+count = 61
+count = int(input())
+print(val)",0,0,0,7,7,1,0,Sequential
+"num = 29
+age = int(input())
+print(price)
+print(result)
+print(age)",0,0,0,5,2,1,0,Sequential
+"b = score + 49
+while count > 3:
+    print(y)
+    total = int(input())
+    result = int(input())",0,1,0,5,5,2,1,Looping
+"print(count)
+y = int(input())
+age = b * 33
+result = y * 15",0,0,0,4,5,1,0,Sequential
+"num = 54
+while age != 30:
+    print(count)
+    print(score)",0,1,0,4,2,2,1,Looping
+print(x),0,0,0,1,0,1,0,Sequential
+"print(b)
+for i in range(6):
+    if y == 49:
+        result = score * 17",1,1,0,4,3,3,2,Nested
+"print(b)
+val = int(input())
+if x >= 27:
+    score = int(input())",1,0,0,4,3,2,1,Conditional
+"y = b * 23
+while result < 65:
+    if result != 56:
+        n = count % 11
+    else:
+        val = int(input())",1,1,0,6,7,3,2,Nested
+"def process(y, count):
+    y = 17
+    b = int(input())
+    n = int(input())
+def helper(age):
+    return 1
+result = process(2, 2)
+print(result)",0,0,2,8,4,1,0,Function-Based
+"n = 0
+num = int(input())
+total = 22
+print(y)",0,0,0,4,3,1,0,Sequential
+"a = 9
+if a <= 9 or x != 84:
+    score = 92
+elif count > 40:
+    a = total * 17
+    print(b)
+else:
+    print(count)
+    num = val / 23",2,0,0,9,9,4,1,Conditional
+"num = int(input())
+for i in range(4):
+    if n != 60 and x >= 77:
+        for j in range(3):
+            print(b)",1,2,0,5,3,5,3,Nested
+"def calc(total, val):
+    if result >= 87:
+        return 1
+    return 0
+result = calc(0, 6)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"def process(total, score):
+    if val <= 96:
+        return 1
+    return 0
+result = process(6, 8)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"age = total % 28
+for i in range(5):
+    if y > 23:
+        for j in range(3):
+            score = price - 4",1,2,0,5,5,4,3,Nested
+"def process(count, n):
+    print(a)
+    x = age * 41
+    total = int(input())
+result = process(2, 4)
+print(result)",0,0,1,6,4,1,0,Function-Based
+print(total),0,0,0,1,0,1,0,Sequential
+"score = 59
+price = int(input())
+if age == 30:
+    total = int(input())
+elif val == 34:
+    y = 20
+    n = 73
+else:
+    num = int(input())",2,0,0,9,8,3,1,Conditional
+"def add(total, y):
+    print(y)
+    n = b - 7
+def helper(age):
+    return 1
+result = add(6, 5)
+print(result)",0,0,2,7,3,1,0,Function-Based
+"b = 14
+price = int(input())",0,0,0,2,2,1,0,Sequential
+"def calc(score, total):
+    if result == 11:
+        return 1
+    return 0
+result = calc(5, 0)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"price = a + 42
+for i in range(5):
+    if b >= 76:
+        score = int(input())
+        b = age / 32",1,1,0,5,6,3,2,Nested
+x = int(input()),0,0,0,1,1,1,0,Sequential
+"price = age + 39
+for i in range(2):
+    for j in range(3):
+        n = result * 30",0,2,0,4,4,3,2,Nested
+"x = 74
+for a in range(10):
+    print(b)
+    print(val)",0,1,0,4,1,2,1,Looping
+"score = b - 38
+x = int(input())
+if n != 25:
+    total = 65
+    total = int(input())
+elif n == 10:
+    result = age * 33
+elif y > 22:
+    score = result - 50",3,0,0,9,12,4,1,Conditional
+"print(price)
+price = 11
+count = 27
+n = int(input())
+a = 12
+num = int(input())
+age = n - 18
+count = int(input())",0,0,0,8,8,1,0,Sequential
+"print(x)
+if age <= 58:
+    a = b % 50
+elif count > 16:
+    total = 84
+elif y < 79:
+    a = n % 13
+else:
+    print(b)
+    val = 87",3,0,0,10,9,4,1,Conditional
+"print(val)
+num = int(input())
+total = 95
+age = 19
+num = 12",0,0,0,5,4,1,0,Sequential
+"age = int(input())
+val = 78
+if y >= 67:
+    result = 99
+    count = 96
+elif n == 21 or val == 94:
+    print(count)
+    b = 88
+elif total > 17:
+    total = int(input())
+else:
+    print(b)",3,0,0,12,10,5,1,Conditional
+"val = 87
+n = 63
+score = age * 50
+print(a)
+total = int(input())
+y = y * 38
+num = 84
+score = val / 18",0,0,0,8,10,1,0,Sequential
+"total = 36
+while count > 50:
+    score = n + 9",0,1,0,3,4,2,1,Looping
+"print(total)
+y = score / 6
+if price <= 29 or num > 65:
+    n = 44
+    print(a)
+else:
+    print(num)
+    print(result)",1,0,0,8,5,3,1,Conditional
+"a = int(input())
+for i in range(8):
+    if count != 0:
+        for j in range(3):
+            count = count + 50",1,2,0,5,4,4,3,Nested
+"def compute(price, n):
+    b = n * 1
+    num = 17
+    score = y % 22
+def helper(score):
+    return 1
+result = compute(9, 6)
+print(result)",0,0,2,8,6,1,0,Function-Based
+"def check(x, val):
+    print(price)
+    num = a - 13
+def helper(b):
+    return 1
+result = check(0, 9)
+print(result)",0,0,2,7,3,1,0,Function-Based
+"count = 26
+count = int(input())
+result = 30",0,0,0,3,3,1,0,Sequential
+"val = int(input())
+for y in range(7):
+    n = age - 21
+while result != 35:
+    print(count)
+    print(price)
+    print(b)",0,2,0,7,4,3,1,Looping
+"result = int(input())
+for i in range(5):
+    if score > 70:
+        print(x)
+        y = y * 1",1,1,0,5,4,3,2,Nested
+"print(score)
+total = a - 36
+while price != 27:
+    result = int(input())
+    result = val % 34",0,1,0,5,6,2,1,Looping
+"x = int(input())
+for i in range(2):
+    for j in range(5):
+        val = 44
+        x = price / 17",0,2,0,5,4,3,2,Nested
+"price = age + 12
+for i in range(7):
+    for j in range(9):
+        x = x % 23
+        count = 93",0,2,0,5,5,3,2,Nested
+"total = n % 10
+if age == 53 or y < 73:
+    if b != 68:
+        print(total)
+        y = result % 42
+else:
+    print(price)",2,0,0,7,7,4,2,Nested
+"b = int(input())
+num = 59
+age = score % 21",0,0,0,3,4,1,0,Sequential
+"def process(result, b):
+    for i in range(7):
+        count = 24
+    return i
+def helper(n):
+    return 1
+result = process(8, 4)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"count = a % 31
+if total < 38:
+    n = 89
+    total = 29
+else:
+    result = int(input())",1,0,0,6,6,2,1,Conditional
+"count = int(input())
+while val < 22:
+    age = count - 47",0,1,0,3,4,2,1,Looping
+"total = 67
+x = int(input())
+while a < 24:
+    age = a + 29",0,1,0,4,5,2,1,Looping
+"num = 47
+for i in range(8):
+    if score >= 82 and result <= 75:
+        for j in range(3):
+            total = num * 14",1,2,0,5,5,5,3,Nested
+"y = int(input())
+if age > 39:
+    print(age)
+else:
+    price = a / 6",1,0,0,5,4,2,1,Conditional
+"print(val)
+print(a)
+total = int(input())
+val = int(input())
+print(x)
+a = int(input())",0,0,0,6,3,1,0,Sequential
+"def solve(x, n):
+    for i in range(8):
+        price = int(input())
+    return i
+result = solve(9, 6)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"score = price + 39
+count = int(input())",0,0,0,2,3,1,0,Sequential
+"def add(count, num):
+    for i in range(6):
+        total = 86
+    return i
+def helper(num):
+    return 1
+result = add(4, 0)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"print(x)
+if age > 63:
+    if a <= 71:
+        print(result)
+        num = count % 27
+else:
+    print(b)",2,0,0,7,4,3,2,Nested
+"y = 63
+if a >= 40:
+    b = b % 11
+else:
+    age = x + 40
+    total = 33",1,0,0,6,7,2,1,Conditional
+"print(result)
+num = val + 45
+print(result)
+x = 91
+print(age)",0,0,0,5,3,1,0,Sequential
+"print(result)
+for y in range(10):
+    score = b % 23",0,1,0,3,2,2,1,Looping
+"print(total)
+print(count)
+if age != 66:
+    print(result)
+    n = y + 13",1,0,0,5,3,2,1,Conditional
+a = val * 45,0,0,0,1,2,1,0,Sequential
+"val = int(input())
+while age <= 25:
+    if b <= 25 or price == 16:
+        price = total / 29
+        result = result - 4
+    else:
+        print(count)",1,1,0,7,8,4,2,Nested
+"num = count / 45
+for num in range(7):
+    num = 99
+    a = 53
+    print(num)",0,1,0,5,4,2,1,Looping
+"a = y - 46
+if price != 76:
+    if y < 63:
+        total = int(input())
+else:
+    age = int(input())",2,0,0,6,6,3,2,Nested
+num = 77,0,0,0,1,1,1,0,Sequential
+"score = int(input())
+while x != 2:
+    if total >= 79:
+        result = n - 21
+    else:
+        num = price * 8",1,1,0,6,7,3,2,Nested
+"print(a)
+print(x)
+if b != 76 and n == 23:
+    num = 2
+else:
+    total = int(input())",1,0,0,6,4,3,1,Conditional
+"result = 4
+for i in range(9):
+    if price <= 85:
+        print(result)
+        score = price % 26",1,1,0,5,4,3,2,Nested
+"count = price * 30
+y = count % 23
+age = count * 1
+print(result)
+n = int(input())
+print(num)",0,0,0,6,7,1,0,Sequential
+"def solve(b, total):
+    val = 21
+    print(a)
+result = solve(1, 3)
+print(result)",0,0,1,5,2,1,0,Function-Based
+"print(score)
+if y <= 30:
+    if result >= 73 or score == 17:
+        total = 43
+        y = int(input())
+else:
+    b = 85",2,0,0,7,6,4,2,Nested
+"count = score / 11
+val = age - 44
+while x < 4:
+    num = total * 44
+    count = age / 2
+    x = a + 14",0,1,0,6,11,2,1,Looping
+"a = age / 24
+score = int(input())
+result = 87
+price = num - 9
+n = 65
+print(age)
+total = 55
+print(num)",0,0,0,8,8,1,0,Sequential
+"print(a)
+price = int(input())
+if age == 11 and a <= 77:
+    print(n)
+    a = int(input())
+elif count != 20:
+    b = int(input())
+else:
+    val = 91
+    num = int(input())",2,0,0,10,8,4,1,Conditional
+price = int(input()),0,0,0,1,1,1,0,Sequential
+print(x),0,0,0,1,0,1,0,Sequential
+"b = int(input())
+print(total)
+age = int(input())
+n = n + 20",0,0,0,4,4,1,0,Sequential
+"def solve(price, y):
+    price = int(input())
+    age = 40
+    count = 40
+def helper(y):
+    return 1
+result = solve(0, 0)
+print(result)",0,0,2,8,4,1,0,Function-Based
+"b = int(input())
+print(count)
+print(num)",0,0,0,3,1,1,0,Sequential
+"total = 43
+x = 80
+print(a)
+val = val + 14",0,0,0,4,4,1,0,Sequential
+"count = n * 27
+n = total * 21
+for num in range(14):
+    x = x - 35",0,1,0,4,6,2,1,Looping
+"price = int(input())
+if num <= 17:
+    if y <= 19 or age >= 82:
+        print(num)
+else:
+    print(y)",2,0,0,6,4,4,2,Nested
+"total = int(input())
+if num != 9:
+    if total < 34:
+        b = 57
+else:
+    result = int(input())",2,0,0,6,5,3,2,Nested
+"val = total - 36
+for i in range(2):
+    if score >= 38 or y <= 2:
+        age = a * 13
+        a = age * 2",1,1,0,5,8,4,2,Nested
+"n = y % 45
+if b == 54 or score <= 13:
+    num = b + 16
+elif age >= 57:
+    count = 64
+elif val == 6:
+    n = 24
+    x = score * 34
+else:
+    b = y + 4",3,0,0,10,14,5,1,Conditional
+"price = 26
+if count != 48 and num > 41:
+    score = count * 32
+    n = int(input())
+elif price > 68 or count < 45:
+    age = count % 34",2,0,0,6,10,5,1,Conditional
+"price = 14
+score = 38
+while a < 47:
+    a = int(input())",0,1,0,4,4,2,1,Looping
+"count = result / 37
+if score > 62:
+    age = int(input())
+    price = 42
+elif price == 69:
+    price = 42
+    age = int(input())
+elif age < 45:
+    b = 24
+else:
+    print(x)
+    print(n)",3,0,0,12,10,4,1,Conditional
+price = n - 15,0,0,0,1,2,1,0,Sequential
+"y = 79
+x = x + 17
+while result > 36:
+    x = 47
+for score in range(20):
+    n = int(input())
+    price = 23",0,2,0,7,7,3,1,Looping
+"a = int(input())
+count = a + 4
+for n in range(12):
+    price = int(input())
+    val = int(input())",0,1,0,5,5,2,1,Looping
+"def solve(n, b):
+    for i in range(9):
+        age = int(input())
+    return i
+def helper(b):
+    return 1
+result = solve(7, 6)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"a = int(input())
+total = 30",0,0,0,2,2,1,0,Sequential
+"price = int(input())
+while price < 52:
+    if b >= 35:
+        val = 19
+        print(val)
+    else:
+        y = int(input())",1,1,0,7,5,3,2,Nested
+print(price),0,0,0,1,0,1,0,Sequential
+"n = 53
+while score > 42:
+    y = int(input())
+    val = int(input())
+    age = num / 48
+for score in range(19):
+    num = int(input())
+    a = count - 10",0,2,0,8,9,3,1,Looping
+"print(a)
+while age != 50:
+    score = 78",0,1,0,3,2,2,1,Looping
+"print(num)
+if x > 7:
+    if num == 36:
+        score = b + 31
+else:
+    print(val)",2,0,0,6,4,3,2,Nested
+"price = n * 11
+n = 73
+count = price - 5
+price = result * 44",0,0,0,4,7,1,0,Sequential
+"result = int(input())
+num = 57",0,0,0,2,2,1,0,Sequential
+"def calc(num, age):
+    age = a / 33
+    score = int(input())
+    total = 49
+def helper(total):
+    return 1
+result = calc(7, 3)
+print(result)",0,0,2,8,5,1,0,Function-Based
+count = int(input()),0,0,0,1,1,1,0,Sequential
+"count = 88
+b = score % 23
+print(total)
+print(count)
+num = 10
+y = int(input())
+num = 68
+price = 5",0,0,0,8,7,1,0,Sequential
+"num = int(input())
+y = val - 10
+if y == 51:
+    total = int(input())
+    result = int(input())
+else:
+    num = 53
+    print(num)",1,0,0,8,7,2,1,Conditional
+"print(score)
+print(total)
+while count != 50:
+    b = int(input())
+    y = y * 29
+    total = 59
+while x != 27:
+    price = 5",0,2,0,8,7,3,1,Looping
+"a = int(input())
+print(price)",0,0,0,2,1,1,0,Sequential
+"result = 19
+price = int(input())
+for age in range(17):
+    price = score + 28
+    x = x + 33
+while n < 15:
+    print(a)
+    n = int(input())",0,2,0,8,8,3,1,Looping
+"total = 68
+n = score * 41
+if n > 60 and total <= 52:
+    y = int(input())
+elif score >= 97:
+    print(b)
+    y = int(input())
+else:
+    y = age * 17
+    age = count / 26",2,0,0,10,12,4,1,Conditional
+"print(result)
+for i in range(9):
+    for j in range(6):
+        b = int(input())
+        print(n)",0,2,0,5,1,3,2,Nested
+"count = 81
+total = int(input())
+total = count / 19
+num = b * 17",0,0,0,4,6,1,0,Sequential
+"num = int(input())
+for i in range(4):
+    if a <= 9:
+        for j in range(3):
+            count = int(input())",1,2,0,5,3,4,3,Nested
+"def solve(total, total):
+    score = y % 27
+    price = val / 30
+    print(score)
+def helper(age):
+    return 1
+result = solve(7, 4)
+print(result)",0,0,2,8,5,1,0,Function-Based
+val = int(input()),0,0,0,1,1,1,0,Sequential
+"def add(a, age):
+    if val < 25:
+        return 1
+    return 0
+result = add(3, 5)
+print(result)",1,0,1,6,2,2,1,Function-Based
+a = int(input()),0,0,0,1,1,1,0,Sequential
+"def add(age, price):
+    if n >= 54:
+        return 1
+    return 0
+def helper(x):
+    return 1
+result = add(7, 4)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"print(count)
+num = total + 12
+while n < 25:
+    print(price)
+    val = 34
+    print(age)
+while result > 13:
+    val = y + 40
+    b = 49
+    total = 93",0,2,0,10,9,3,1,Looping
+"def calc(score, y):
+    for i in range(4):
+        print(val)
+    return i
+result = calc(3, 9)
+print(result)",0,1,1,6,1,2,1,Function-Based
+"n = 88
+for i in range(2):
+    for j in range(6):
+        x = int(input())",0,2,0,4,2,3,2,Nested
+"def check(x, b):
+    if b < 98:
+        return 1
+    return 0
+result = check(1, 2)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"b = 95
+print(count)
+print(age)
+print(result)",0,0,0,4,1,1,0,Sequential
+"x = b / 17
+if result == 43:
+    score = int(input())",1,0,0,3,4,2,1,Conditional
+"print(score)
+n = int(input())
+result = 30",0,0,0,3,2,1,0,Sequential
+"n = int(input())
+while result <= 15:
+    if age == 26:
+        print(total)
+        n = score * 31
+    else:
+        x = age * 25",1,1,0,7,7,3,2,Nested
+"y = b - 48
+y = 78",0,0,0,2,3,1,0,Sequential
+"x = 44
+y = age + 26
+if num != 13 and count < 10:
+    y = count % 24",1,0,0,4,7,3,1,Conditional
+"count = 32
+b = int(input())
+if a <= 88:
+    b = score - 11
+    score = int(input())",1,0,0,5,6,2,1,Conditional
+print(b),0,0,0,1,0,1,0,Sequential
+"def add(age, val):
+    score = int(input())
+    a = 40
+result = add(5, 5)
+print(result)",0,0,1,5,3,1,0,Function-Based
+"y = 100
+for i in range(2):
+    for j in range(4):
+        num = int(input())
+        count = 34",0,2,0,5,3,3,2,Nested
+"count = int(input())
+if y >= 3:
+    b = int(input())
+else:
+    count = 78",1,0,0,5,4,2,1,Conditional
+"b = 43
+price = a / 42",0,0,0,2,3,1,0,Sequential
+"result = a % 36
+for i in range(2):
+    if a <= 19 and total < 27:
+        y = y / 41",1,1,0,4,6,4,2,Nested
+"def calc(result, num):
+    if result > 74:
+        return 1
+    return 0
+def helper(price):
+    return 1
+result = calc(2, 3)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"b = 31
+if price > 7 and price < 69:
+    y = val / 13
+    total = result - 18
+elif val <= 20:
+    a = 57
+else:
+    val = 26
+    print(count)",2,0,0,9,10,4,1,Conditional
+"n = int(input())
+print(n)",0,0,0,2,1,1,0,Sequential
+age = int(input()),0,0,0,1,1,1,0,Sequential
+"n = x % 18
+if a >= 89 or b == 4:
+    if result >= 30:
+        print(count)
+        n = 43
+else:
+    score = val - 44",2,0,0,7,8,4,2,Nested
+"x = b % 24
+total = 19
+for b in range(17):
+    print(score)
+    price = age + 11
+    score = int(input())
+while b != 15:
+    val = result % 6
+    count = int(input())",0,2,0,9,10,3,1,Looping
+"total = 4
+if score <= 80:
+    total = int(input())
+else:
+    y = price % 13
+    print(result)",1,0,0,6,5,2,1,Conditional
+"print(val)
+b = x % 26
+val = 54
+y = y / 23
+a = result / 40
+score = int(input())
+price = a / 29
+print(score)",0,0,0,8,10,1,0,Sequential
+"print(age)
+print(b)",0,0,0,2,0,1,0,Sequential
+"def check(age, b):
+    if result != 57:
+        return 1
+    return 0
+def helper(age):
+    return 1
+result = check(8, 2)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"def add(price, n):
+    for i in range(6):
+        y = int(input())
+    return i
+result = add(3, 1)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"total = num % 11
+while age != 36 or x == 56:
+    if price < 41 or total <= 72:
+        print(total)
+    else:
+        n = int(input())",1,1,0,6,7,5,2,Nested
+"print(x)
+if num == 95:
+    val = int(input())
+    total = 51
+elif num < 18:
+    print(age)
+    a = count - 10
+elif count != 19:
+    n = int(input())
+else:
+    count = count - 32
+    y = 66",3,0,0,12,11,4,1,Conditional
+"price = 63
+for i in range(2):
+    if x == 31:
+        a = 57
+        price = 25",1,1,0,5,4,3,2,Nested
+"print(y)
+while n >= 76:
+    if price <= 69:
+        num = 65
+        score = 19
+    else:
+        y = num / 15",1,1,0,7,6,3,2,Nested
+"y = count + 24
+age = age / 18
+while price < 37:
+    count = int(input())
+    a = int(input())
+while b != 35:
+    a = 27
+    y = 5",0,2,0,8,10,3,1,Looping
+"n = price % 30
+if x <= 24:
+    if x != 35:
+        age = 59
+        result = val % 43
+else:
+    print(price)",2,0,0,7,7,3,2,Nested
+val = y * 1,0,0,0,1,2,1,0,Sequential
+"print(num)
+a = num % 11
+score = age + 15
+x = 4
+print(total)",0,0,0,5,5,1,0,Sequential
+"num = 10
+for i in range(3):
+    for j in range(8):
+        total = 36
+        price = 32",0,2,0,5,3,3,2,Nested
+"def calc(a, y):
+    for i in range(7):
+        result = 7
+    return i
+result = calc(0, 4)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"price = int(input())
+if num < 27:
+    print(score)
+    val = int(input())
+elif price != 30 or b != 69:
+    a = num + 4
+    b = b % 24",2,0,0,7,9,4,1,Conditional
+"print(b)
+for price in range(12):
+    n = int(input())",0,1,0,3,1,2,1,Looping
+"print(val)
+for n in range(6):
+    age = b % 29
+    b = int(input())
+while num < 30:
+    y = 81
+    count = int(input())",0,2,0,7,6,3,1,Looping
+"print(total)
+for i in range(4):
+    for j in range(5):
+        val = score - 40",0,2,0,4,2,3,2,Nested
+"n = 18
+while price >= 46:
+    if count == 52 and price < 57:
+        price = int(input())
+        print(x)
+    else:
+        total = int(input())",1,1,0,7,6,4,2,Nested
+"y = 9
+if b < 57:
+    if price <= 88:
+        count = int(input())
+        print(score)
+else:
+    price = int(input())",2,0,0,7,5,3,2,Nested
+"price = int(input())
+for i in range(3):
+    for j in range(4):
+        age = 50",0,2,0,4,2,3,2,Nested
+"print(total)
+for count in range(4):
+    b = int(input())
+while b < 34:
+    print(total)
+    val = 31
+    print(num)",0,2,0,7,3,3,1,Looping
+"print(num)
+if num != 32:
+    if n >= 49:
+        a = n / 19
+else:
+    count = int(input())",2,0,0,6,5,3,2,Nested
+"a = int(input())
+print(n)
+b = num + 48",0,0,0,3,3,1,0,Sequential
+"total = int(input())
+for num in range(20):
+    a = result - 50
+    num = 27",0,1,0,4,4,2,1,Looping
+num = 36,0,0,0,1,1,1,0,Sequential
+"count = price % 22
+print(x)
+if score >= 55:
+    print(num)
+else:
+    print(price)",1,0,0,6,3,2,1,Conditional
+"y = int(input())
+n = a - 47
+while result != 42:
+    age = int(input())
+    n = int(input())
+    age = 17",0,1,0,6,7,2,1,Looping
+print(num),0,0,0,1,0,1,0,Sequential
+"print(total)
+if score > 76:
+    y = 2
+elif n <= 22 and n != 10:
+    price = num / 34
+    y = 44
+else:
+    score = int(input())",2,0,0,8,8,4,1,Conditional
+"def calc(val, score):
+    for i in range(2):
+        num = 40
+    return i
+def helper(val):
+    return 1
+result = calc(6, 6)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"def compute(b, price):
+    print(total)
+result = compute(6, 2)
+print(result)",0,0,1,4,1,1,0,Function-Based
+"result = int(input())
+while count < 84:
+    if num > 17 and y > 99:
+        price = 47
+        score = int(input())
+    else:
+        print(val)",1,1,0,7,6,4,2,Nested
+"age = price * 6
+while num < 35:
+    y = int(input())
+    score = int(input())
+    price = b % 34
+while count > 50:
+    print(b)",0,2,0,7,8,3,1,Looping
+"score = val / 36
+for count in range(10):
+    print(a)",0,1,0,3,2,2,1,Looping
+"x = 1
+age = b / 29
+x = count / 45
+b = 29
+print(result)",0,0,0,5,6,1,0,Sequential
+"score = y * 47
+if count >= 84:
+    if a <= 80:
+        print(price)
+        age = 20
+else:
+    num = 25",2,0,0,7,6,3,2,Nested
+"val = int(input())
+for val in range(15):
+    b = 70",0,1,0,3,2,2,1,Looping
+"a = int(input())
+for i in range(3):
+    if age < 20:
+        for j in range(3):
+            y = 87",1,2,0,5,3,4,3,Nested
+"age = count + 22
+if n <= 4:
+    y = int(input())
+    result = 35
+else:
+    print(y)
+    val = int(input())",1,0,0,7,6,2,1,Conditional
+"def check(n, count):
+    age = 98
+result = check(9, 6)
+print(result)",0,0,1,4,2,1,0,Function-Based
+"def check(b, n):
+    for i in range(4):
+        print(price)
+    return i
+result = check(9, 9)
+print(result)",0,1,1,6,1,2,1,Function-Based
+"print(score)
+for price in range(11):
+    age = 55
+    x = int(input())
+    a = 31
+for val in range(13):
+    b = 36
+    age = int(input())
+    print(price)",0,2,0,9,5,3,1,Looping
+"score = int(input())
+while a < 32:
+    if y >= 94:
+        count = 48
+        print(val)
+    else:
+        b = price - 4",1,1,0,7,6,3,2,Nested
+"a = a + 19
+if score > 32:
+    price = 47
+elif y >= 44:
+    y = age / 10
+elif result >= 13:
+    price = n - 49",3,0,0,7,10,4,1,Conditional
+"price = total % 38
+if x < 95:
+    val = price % 13
+elif total <= 35:
+    num = 15
+elif a >= 38 or a == 17:
+    x = int(input())
+    val = int(input())
+else:
+    age = 38
+    print(score)",3,0,0,11,12,5,1,Conditional
+"print(price)
+if a < 15:
+    n = 36
+    a = 17
+elif count == 39:
+    num = count * 37
+    print(price)
+elif a > 52 or price < 60:
+    score = 23
+else:
+    print(price)",3,0,0,11,9,5,1,Conditional
+"n = int(input())
+a = 90
+while age < 39:
+    print(total)
+    num = int(input())",0,1,0,5,4,2,1,Looping
+"age = num * 21
+while count <= 23 and count == 54:
+    if count < 80:
+        x = int(input())
+    else:
+        val = int(input())",1,1,0,6,7,4,2,Nested
+"val = result % 16
+val = y - 19",0,0,0,2,4,1,0,Sequential
+"print(result)
+for age in range(18):
+    price = int(input())
+    score = x * 35",0,1,0,4,3,2,1,Looping
+"n = age * 31
+if x > 37:
+    b = age - 5
+    count = int(input())
+elif age >= 63 or result <= 14:
+    a = 56
+else:
+    val = 13
+    num = a * 28",2,0,0,9,12,4,1,Conditional
+"def compute(result, count):
+    print(num)
+result = compute(7, 5)
+print(result)",0,0,1,4,1,1,0,Function-Based
+"print(age)
+if count != 70 or b != 34:
+    count = 80
+    score = 31
+elif n >= 48:
+    total = total % 17
+elif b >= 17:
+    a = age / 24
+else:
+    y = 76",3,0,0,10,11,5,1,Conditional
+"result = int(input())
+n = int(input())
+b = 88
+total = 23
+num = num - 11
+n = count - 48
+num = 31",0,0,0,7,9,1,0,Sequential
+"n = int(input())
+if price > 77 or a > 1:
+    x = y + 18
+else:
+    num = int(input())
+    print(a)",1,0,0,6,6,3,1,Conditional
+"count = 4
+val = 51
+for result in range(16):
+    y = b % 3
+    print(score)",0,1,0,5,4,2,1,Looping
+"def solve(x, val):
+    for i in range(3):
+        total = count / 49
+    return i
+result = solve(2, 4)
+print(result)",0,1,1,6,3,2,1,Function-Based
+print(b),0,0,0,1,0,1,0,Sequential
+"def calc(x, x):
+    for i in range(2):
+        print(num)
+    return i
+def helper(result):
+    return 1
+result = calc(0, 1)
+print(result)",0,1,2,8,1,2,1,Function-Based
+"result = int(input())
+if count != 4:
+    if count < 93:
+        score = 78
+        n = int(input())
+else:
+    count = int(input())",2,0,0,7,6,3,2,Nested
+"a = 81
+for val in range(9):
+    price = int(input())
+    a = 69",0,1,0,4,3,2,1,Looping
+"score = int(input())
+y = result - 14
+if val > 68 and score != 78:
+    print(num)
+else:
+    n = 0
+    print(x)",1,0,0,7,6,3,1,Conditional
+"n = 23
+num = int(input())
+for x in range(13):
+    print(y)",0,1,0,4,2,2,1,Looping
+"def add(b, num):
+    for i in range(9):
+        val = 82
+    return i
+result = add(3, 2)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"print(count)
+for val in range(10):
+    print(price)
+    x = int(input())
+    x = val - 46",0,1,0,5,3,2,1,Looping
+"x = n + 35
+n = int(input())
+if n > 81 or x == 6:
+    print(total)
+elif b <= 70:
+    a = int(input())",2,0,0,6,7,4,1,Conditional
+"a = 46
+while score >= 1 or b != 99:
+    if n != 90:
+        age = result % 37
+        age = 29
+    else:
+        count = int(input())",1,1,0,7,8,4,2,Nested
+"y = a * 18
+y = 71
+for age in range(16):
+    x = 72
+    num = a / 42",0,1,0,5,6,2,1,Looping
+"y = int(input())
+print(x)
+print(age)
+x = 28
+print(score)",0,0,0,5,2,1,0,Sequential
+"n = score % 16
+num = 19
+while x > 28:
+    price = 24
+    age = count + 26",0,1,0,5,7,2,1,Looping
+"print(num)
+if val != 54:
+    print(x)
+    print(score)
+elif n <= 32:
+    x = 56
+else:
+    num = a * 31",2,0,0,8,5,3,1,Conditional
+"print(result)
+for i in range(5):
+    for j in range(4):
+        print(price)
+        n = 19",0,2,0,5,1,3,2,Nested
+"total = 83
+for n in range(10):
+    count = 83
+    print(y)",0,1,0,4,2,2,1,Looping
+"print(b)
+x = 100
+if score >= 66:
+    price = int(input())
+    x = val - 32
+else:
+    price = x % 24",1,0,0,7,7,2,1,Conditional
+"a = int(input())
+count = int(input())
+if age < 94:
+    n = int(input())
+else:
+    b = int(input())
+    total = 6",1,0,0,7,6,2,1,Conditional
+"val = count % 11
+if result != 86:
+    if score == 25:
+        val = y * 49
+        count = 55
+else:
+    print(age)",2,0,0,7,7,3,2,Nested
+"print(x)
+a = int(input())
+x = 94",0,0,0,3,2,1,0,Sequential
+"b = int(input())
+print(total)",0,0,0,2,1,1,0,Sequential
+"y = 10
+score = int(input())
+a = 51",0,0,0,3,3,1,0,Sequential
+count = int(input()),0,0,0,1,1,1,0,Sequential
+"print(y)
+if n == 25:
+    if num > 84:
+        total = 61
+        total = 64
+else:
+    print(val)",2,0,0,7,4,3,2,Nested
+"a = 84
+while age >= 68 or x <= 53:
+    if age >= 73:
+        total = 94
+    else:
+        total = 58",1,1,0,6,6,4,2,Nested
+"a = 13
+score = int(input())
+val = int(input())
+total = count + 43
+print(count)
+age = int(input())",0,0,0,6,6,1,0,Sequential
+"print(b)
+for i in range(7):
+    for j in range(8):
+        y = a + 42
+        n = 7",0,2,0,5,3,3,2,Nested
+print(a),0,0,0,1,0,1,0,Sequential
+"n = 90
+for i in range(2):
+    if total > 63:
+        for j in range(3):
+            score = int(input())",1,2,0,5,3,4,3,Nested
+"print(num)
+score = int(input())
+if n <= 68 and num != 92:
+    total = 51
+elif result > 13 or result >= 96:
+    x = 31
+elif y == 12:
+    print(result)
+else:
+    n = int(input())
+    print(total)",3,0,0,11,9,6,1,Conditional
+"print(total)
+num = score + 26
+if score <= 53:
+    total = total - 13
+    score = 41
+else:
+    a = age % 1
+    val = val + 22",1,0,0,8,10,2,1,Conditional
+"print(a)
+val = n + 33
+print(score)
+total = int(input())
+price = y * 44
+b = count / 25
+price = x + 32
+val = a - 14",0,0,0,8,11,1,0,Sequential
+"def add(age, age):
+    if a == 13:
+        return 1
+    return 0
+def helper(result):
+    return 1
+result = add(9, 7)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"price = 67
+result = int(input())
+total = 36
+val = int(input())
+print(score)
+print(a)",0,0,0,6,4,1,0,Sequential
+"def check(age, b):
+    for i in range(7):
+        result = num * 38
+    return i
+def helper(age):
+    return 1
+result = check(6, 1)
+print(result)",0,1,2,8,3,2,1,Function-Based
+"a = price / 26
+print(y)
+val = int(input())",0,0,0,3,3,1,0,Sequential
+"print(n)
+while x != 4:
+    count = 62
+    count = int(input())
+    y = int(input())",0,1,0,5,4,2,1,Looping
+"def calc(x, a):
+    for i in range(8):
+        print(y)
+    return i
+result = calc(3, 1)
+print(result)",0,1,1,6,1,2,1,Function-Based
+"print(x)
+result = 54
+result = 22
+total = int(input())
+print(score)",0,0,0,5,3,1,0,Sequential
+"result = int(input())
+if x <= 93:
+    print(y)
+    b = result * 20",1,0,0,4,4,2,1,Conditional
+"total = b - 6
+if y <= 98:
+    if val <= 97:
+        price = 63
+else:
+    b = int(input())",2,0,0,6,6,3,2,Nested
+"num = a * 40
+val = int(input())
+a = x % 44
+count = int(input())
+num = int(input())
+val = total / 21",0,0,0,6,9,1,0,Sequential
+"num = 88
+while a != 40 or age <= 34:
+    if num > 92 and age != 34:
+        result = num % 28
+        x = result * 4
+    else:
+        age = n % 44",1,1,0,7,11,5,2,Nested
+"total = a - 2
+if age <= 38:
+    total = b * 32
+    total = 18
+elif price != 8 or price == 18:
+    total = 63
+elif num <= 52:
+    num = 68
+    b = int(input())",3,0,0,9,12,5,1,Conditional
+"total = 1
+price = 19
+result = 68
+b = 35
+y = result / 37",0,0,0,5,6,1,0,Sequential
+"result = int(input())
+for n in range(9):
+    result = 93
+    num = result + 45",0,1,0,4,4,2,1,Looping
+"b = num + 7
+age = int(input())
+print(a)
+age = 46
+print(total)
+price = 95",0,0,0,6,5,1,0,Sequential
+"result = 49
+while score == 58:
+    if age != 55 and age <= 68:
+        b = int(input())
+        val = 80
+    else:
+        a = 17",1,1,0,7,7,4,2,Nested
+"count = 58
+for x in range(17):
+    result = age - 14",0,1,0,3,3,2,1,Looping
+"def compute(price, x):
+    if y < 7 or a > 47:
+        return 1
+    return 0
+result = compute(4, 8)
+print(result)",1,0,1,6,3,3,1,Function-Based
+"print(val)
+num = int(input())
+if b != 15 and total > 69:
+    a = int(input())
+    score = price * 34
+else:
+    num = int(input())",1,0,0,7,7,3,1,Conditional
+"print(count)
+while count > 62:
+    if age == 76:
+        y = 47
+    else:
+        price = int(input())",1,1,0,6,4,3,2,Nested
+"def solve(count, price):
+    if age > 5:
+        return 1
+    return 0
+def helper(b):
+    return 1
+result = solve(1, 0)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"def calc(age, num):
+    for i in range(3):
+        val = 30
+    return i
+result = calc(0, 2)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"n = 34
+if a < 95:
+    n = int(input())
+else:
+    print(price)
+    print(x)",1,0,0,6,3,2,1,Conditional
+"print(score)
+for i in range(8):
+    if age != 24:
+        for j in range(3):
+            n = 65",1,2,0,5,2,4,3,Nested
+"num = int(input())
+print(score)
+for b in range(18):
+    print(x)
+    print(y)
+for price in range(13):
+    val = total * 35",0,2,0,7,3,3,1,Looping
+"x = 37
+for total in range(10):
+    y = score - 20
+    print(age)
+    price = int(input())
+for result in range(18):
+    y = int(input())",0,2,0,7,5,3,1,Looping
+"a = int(input())
+while val >= 36:
+    if b <= 41:
+        print(n)
+    else:
+        total = int(input())",1,1,0,6,4,3,2,Nested
+"a = int(input())
+while age < 19:
+    a = y * 6",0,1,0,3,4,2,1,Looping
+"a = 62
+while age <= 43:
+    if x >= 91:
+        result = int(input())
+        result = int(input())
+    else:
+        score = int(input())",1,1,0,7,6,3,2,Nested
+"def solve(a, n):
+    for i in range(8):
+        print(age)
+    return i
+def helper(a):
+    return 1
+result = solve(3, 1)
+print(result)",0,1,2,8,1,2,1,Function-Based
+"b = 76
+if x > 84:
+    if num == 91:
+        b = 1
+else:
+    print(result)",2,0,0,6,4,3,2,Nested
+"print(x)
+for score in range(15):
+    print(price)",0,1,0,3,0,2,1,Looping
+"def compute(b, a):
+    if x == 45:
+        return 1
+    return 0
+def helper(x):
+    return 1
+result = compute(9, 5)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"age = 77
+print(result)
+if n > 68 or b == 81:
+    total = total * 10
+elif y != 13:
+    print(num)
+elif price >= 36:
+    total = 94
+else:
+    x = 18",3,0,0,10,9,5,1,Conditional
+"print(val)
+while count != 37:
+    score = num / 35
+    print(b)
+    score = 92",0,1,0,5,4,2,1,Looping
+"print(score)
+score = price * 31
+for x in range(10):
+    result = count / 22
+    print(val)
+    price = num - 8",0,1,0,6,6,2,1,Looping
+b = int(input()),0,0,0,1,1,1,0,Sequential
+"print(result)
+val = val - 37
+if x > 10:
+    price = val % 41",1,0,0,4,5,2,1,Conditional
+"print(b)
+result = age + 4
+print(result)",0,0,0,3,2,1,0,Sequential
+print(age),0,0,0,1,0,1,0,Sequential
+"def process(score, age):
+    for i in range(5):
+        b = 55
+    return i
+result = process(7, 4)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"def check(val, num):
+    if price >= 18:
+        return 1
+    return 0
+def helper(n):
+    return 1
+result = check(3, 5)
+print(result)",1,0,2,8,2,2,1,Function-Based
+count = int(input()),0,0,0,1,1,1,0,Sequential
+"num = int(input())
+if n != 16 and x >= 83:
+    print(val)
+else:
+    a = price * 17",1,0,0,5,5,3,1,Conditional
+"score = 86
+for i in range(6):
+    if result > 42:
+        for j in range(3):
+            print(total)",1,2,0,5,2,4,3,Nested
+"def calc(num, total):
+    if val != 92 and val > 47:
+        return 1
+    return 0
+def helper(y):
+    return 1
+result = calc(0, 1)
+print(result)",1,0,2,8,3,3,1,Function-Based
+"result = int(input())
+if num < 53:
+    if num != 39:
+        print(val)
+        result = price * 13
+else:
+    y = int(input())",2,0,0,7,6,3,2,Nested
+"n = num - 44
+print(n)",0,0,0,2,2,1,0,Sequential
+b = y / 9,0,0,0,1,2,1,0,Sequential
+"print(count)
+count = int(input())
+if a > 63 and age <= 3:
+    num = 16
+    count = age * 27
+elif a <= 5:
+    x = num % 5
+    a = a - 31
+else:
+    count = int(input())
+    score = price + 50",2,0,0,11,14,4,1,Conditional
+"age = total - 24
+x = 59
+n = age % 15
+print(b)",0,0,0,4,5,1,0,Sequential
+"print(score)
+for i in range(7):
+    if x == 18:
+        total = int(input())
+        print(age)",1,1,0,5,2,3,2,Nested
+"age = 47
+if x >= 7:
+    if y > 57:
+        b = 54
+else:
+    print(n)",2,0,0,6,4,3,2,Nested
+"def compute(result, price):
+    y = 35
+def helper(x):
+    return 1
+result = compute(3, 9)
+print(result)",0,0,2,6,2,1,0,Function-Based
+"count = int(input())
+for n in range(7):
+    result = int(input())
+    x = int(input())
+for x in range(7):
+    num = 47
+    print(count)
+    n = 70",0,2,0,8,5,3,1,Looping
+"y = int(input())
+n = 30
+b = 1
+count = 90
+print(val)
+y = num * 39",0,0,0,6,6,1,0,Sequential
+"price = price - 16
+for i in range(4):
+    if y <= 51:
+        print(num)",1,1,0,4,3,3,2,Nested
+"def check(price, total):
+    for i in range(7):
+        total = int(input())
+    return i
+result = check(9, 0)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"price = int(input())
+for i in range(9):
+    for j in range(3):
+        n = val + 36
+        num = 57",0,2,0,5,4,3,2,Nested
+"a = int(input())
+if age == 44 or num < 30:
+    if a >= 91:
+        result = int(input())
+        print(x)
+else:
+    b = int(input())",2,0,0,7,6,4,2,Nested
+"price = count - 7
+if a >= 21:
+    print(x)
+    print(total)
+elif x != 19:
+    age = 94
+elif count <= 70 and count > 70:
+    num = int(input())
+else:
+    a = int(input())",3,0,0,10,9,5,1,Conditional
+"count = 6
+x = int(input())
+if a == 28:
+    age = n * 27
+    print(price)",1,0,0,5,5,2,1,Conditional
+"print(price)
+print(x)
+if total == 51:
+    b = 87
+elif n <= 5:
+    print(a)
+elif count < 72:
+    num = 59
+else:
+    price = b / 50",3,0,0,10,7,4,1,Conditional
+"age = age - 2
+while val > 43:
+    price = 71
+    print(b)
+while num != 30:
+    total = int(input())
+    x = int(input())
+    b = 61",0,2,0,8,8,3,1,Looping
+"count = int(input())
+result = x / 21
+for b in range(16):
+    val = 46
+    print(count)
+    age = val / 34",0,1,0,6,6,2,1,Looping
+"x = price - 27
+if n >= 9:
+    if y >= 3:
+        x = count / 9
+        age = result / 26
+else:
+    print(n)",2,0,0,7,8,3,2,Nested
+"y = 45
+score = 41
+while total > 3:
+    print(y)
+    val = int(input())
+    a = int(input())
+for score in range(10):
+    score = 98
+    score = int(input())
+    y = 46",0,2,0,10,8,3,1,Looping
+"print(b)
+x = price * 9
+while total != 28:
+    n = 45
+    print(total)
+    total = age - 45",0,1,0,6,6,2,1,Looping
+"def process(score, x):
+    if x == 62 or score > 75:
+        return 1
+    return 0
+def helper(score):
+    return 1
+result = process(5, 0)
+print(result)",1,0,2,8,3,3,1,Function-Based
+"count = x * 28
+if x >= 70 or n < 93:
+    x = 51
+    print(val)",1,0,0,4,5,3,1,Conditional
+"n = 33
+print(total)
+result = int(input())",0,0,0,3,2,1,0,Sequential
+"val = int(input())
+for val in range(10):
+    score = 21
+    print(age)
+    print(age)",0,1,0,5,2,2,1,Looping
+"y = val + 36
+if total == 32 or num >= 50:
+    x = int(input())
+elif result != 28:
+    print(x)
+else:
+    score = 21
+    print(score)",2,0,0,8,7,4,1,Conditional
+"age = int(input())
+for total in range(19):
+    print(price)",0,1,0,3,1,2,1,Looping
+"val = score - 34
+if b >= 3:
+    y = a - 1
+elif x <= 93:
+    val = int(input())
+    result = b / 28
+else:
+    b = b / 15
+    print(total)",2,0,0,9,11,3,1,Conditional
+"result = int(input())
+if score == 25:
+    a = total / 31
+elif y < 42:
+    a = result / 14
+elif age != 21 and y >= 48:
+    age = int(input())
+else:
+    total = price * 48
+    print(a)",3,0,0,10,12,5,1,Conditional
+"count = int(input())
+if n != 51 or y >= 84:
+    num = count / 28
+elif val == 75 and a >= 91:
+    print(age)
+elif count != 92:
+    print(n)
+else:
+    total = int(input())",3,0,0,9,9,6,1,Conditional
+"age = val / 21
+score = b - 41",0,0,0,2,4,1,0,Sequential
+"print(score)
+while a <= 79:
+    if num < 11:
+        num = 55
+    else:
+        print(price)",1,1,0,6,3,3,2,Nested
+"num = price - 43
+for num in range(8):
+    print(x)
+for num in range(11):
+    num = 95
+    price = 60
+    print(num)",0,2,0,7,4,3,1,Looping
+"def solve(x, result):
+    if result <= 13:
+        return 1
+    return 0
+result = solve(3, 3)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"print(score)
+for i in range(3):
+    if age <= 70:
+        for j in range(3):
+            n = score % 11",1,2,0,5,3,4,3,Nested
+"def calc(count, price):
+    price = int(input())
+result = calc(4, 5)
+print(result)",0,0,1,4,2,1,0,Function-Based
+"print(result)
+score = val % 49
+if total < 31 or total >= 65:
+    result = 38
+else:
+    n = 3",1,0,0,6,6,3,1,Conditional
+"def compute(score, score):
+    x = int(input())
+    y = int(input())
+def helper(count):
+    return 1
+result = compute(7, 5)
+print(result)",0,0,2,7,3,1,0,Function-Based
+"result = int(input())
+while a != 12:
+    print(y)
+    score = int(input())
+for count in range(14):
+    print(result)
+    y = y % 25",0,2,0,7,5,3,1,Looping
+"def calc(age, y):
+    for i in range(8):
+        print(num)
+    return i
+result = calc(7, 5)
+print(result)",0,1,1,6,1,2,1,Function-Based
+"print(count)
+for i in range(3):
+    for j in range(7):
+        print(x)
+        print(a)",0,2,0,5,0,3,2,Nested
+"n = int(input())
+for price in range(3):
+    print(num)
+    num = a + 26",0,1,0,4,3,2,1,Looping
+"def add(num, price):
+    total = int(input())
+    print(n)
+    num = 49
+result = add(7, 2)
+print(result)",0,0,1,6,3,1,0,Function-Based
+"def process(val, n):
+    print(score)
+    score = 6
+def helper(num):
+    return 1
+result = process(5, 3)
+print(result)",0,0,2,7,2,1,0,Function-Based
+"val = price - 25
+if count <= 50 or val == 29:
+    if b < 25:
+        y = total % 47
+        total = int(input())
+else:
+    a = count - 30",2,0,0,7,10,4,2,Nested
+"count = int(input())
+x = y % 17",0,0,0,2,3,1,0,Sequential
+"val = y + 36
+if score != 54 or total <= 8:
+    print(count)
+    print(total)
+else:
+    print(total)
+    print(val)",1,0,0,7,4,3,1,Conditional
+"print(y)
+for i in range(5):
+    if result < 74 and age >= 40:
+        for j in range(3):
+            total = int(input())",1,2,0,5,3,5,3,Nested
+"def add(result, age):
+    for i in range(7):
+        total = 65
+    return i
+def helper(price):
+    return 1
+result = add(9, 2)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"total = int(input())
+while b != 28:
+    b = 55",0,1,0,3,3,2,1,Looping
+"price = num * 45
+x = total / 28
+print(val)
+price = n % 47
+price = int(input())",0,0,0,5,7,1,0,Sequential
+"a = n / 33
+count = int(input())
+if num == 86:
+    num = 74
+else:
+    print(count)",1,0,0,6,5,2,1,Conditional
+"num = b * 48
+score = age / 1
+while age < 28:
+    num = int(input())",0,1,0,4,6,2,1,Looping
+"print(age)
+while num < 31:
+    count = int(input())
+    x = int(input())",0,1,0,4,3,2,1,Looping
+"print(b)
+while num > 19:
+    val = y % 24",0,1,0,3,3,2,1,Looping
+"def solve(result, a):
+    for i in range(9):
+        print(b)
+    return i
+result = solve(5, 6)
+print(result)",0,1,1,6,1,2,1,Function-Based
+"def add(price, count):
+    y = total - 36
+result = add(0, 3)
+print(result)",0,0,1,4,3,1,0,Function-Based
+"price = age % 7
+for i in range(8):
+    for j in range(6):
+        result = int(input())
+        n = 99",0,2,0,5,4,3,2,Nested
+"def compute(n, a):
+    if n >= 90 and b == 32:
+        return 1
+    return 0
+result = compute(4, 0)
+print(result)",1,0,1,6,3,3,1,Function-Based
+"total = 34
+if y != 20:
+    if y <= 56 or val < 48:
+        count = num + 30
+        y = 75
+else:
+    count = int(input())",2,0,0,7,8,4,2,Nested
+"a = int(input())
+print(score)
+a = int(input())
+price = 84",0,0,0,4,3,1,0,Sequential
+"count = val + 39
+for i in range(8):
+    for j in range(5):
+        result = int(input())
+        num = 43",0,2,0,5,4,3,2,Nested
+"def check(price, y):
+    if age <= 95:
+        return 1
+    return 0
+result = check(7, 4)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"b = int(input())
+if x > 87 and score > 53:
+    a = int(input())",1,0,0,3,4,3,1,Conditional
+"count = score + 43
+if y == 73:
+    print(a)
+    print(score)
+else:
+    print(result)",1,0,0,6,3,2,1,Conditional
+"print(result)
+print(count)
+total = num / 26
+val = x * 1
+val = int(input())
+x = int(input())",0,0,0,6,6,1,0,Sequential
+"count = int(input())
+if num < 41:
+    total = 18
+    y = 72
+else:
+    age = int(input())",1,0,0,6,5,2,1,Conditional
+"def compute(y, val):
+    print(age)
+    total = val / 26
+result = compute(2, 7)
+print(result)",0,0,1,5,3,1,0,Function-Based
+"def compute(val, b):
+    for i in range(5):
+        print(n)
+    return i
+result = compute(0, 6)
+print(result)",0,1,1,6,1,2,1,Function-Based
+"n = 11
+num = int(input())
+if val < 7:
+    total = int(input())
+    y = count % 6
+else:
+    score = int(input())
+    num = price / 38",1,0,0,8,9,2,1,Conditional
+"y = num / 28
+b = price - 28
+if b >= 37 or val != 43:
+    x = int(input())
+else:
+    print(n)
+    x = val % 27",1,0,0,7,9,3,1,Conditional
+"def solve(age, n):
+    num = int(input())
+result = solve(2, 4)
+print(result)",0,0,1,4,2,1,0,Function-Based
+"n = int(input())
+for i in range(3):
+    for j in range(3):
+        score = a * 36",0,2,0,4,3,3,2,Nested
+"b = 44
+num = x * 50
+b = 38
+val = 20
+count = 100
+score = result * 35
+print(score)",0,0,0,7,8,1,0,Sequential
+"price = a / 30
+print(x)
+while total != 50:
+    a = b / 2
+    b = num * 40",0,1,0,5,7,2,1,Looping
+"def calc(total, age):
+    for i in range(8):
+        price = int(input())
+    return i
+def helper(age):
+    return 1
+result = calc(6, 5)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"total = 34
+for i in range(9):
+    if price < 91:
+        for j in range(3):
+            b = int(input())",1,2,0,5,3,4,3,Nested
+"n = 25
+if result <= 85:
+    price = 7
+else:
+    print(num)",1,0,0,5,3,2,1,Conditional
+"def compute(age, a):
+    for i in range(5):
+        num = result / 37
+    return i
+def helper(age):
+    return 1
+result = compute(9, 0)
+print(result)",0,1,2,8,3,2,1,Function-Based
+"b = 29
+print(total)
+if count < 2:
+    price = total * 47",1,0,0,4,4,2,1,Conditional
+"print(result)
+result = int(input())
+print(age)
+price = y - 27",0,0,0,4,3,1,0,Sequential
+"def solve(x, score):
+    if count != 11:
+        return 1
+    return 0
+result = solve(8, 0)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"x = 59
+x = int(input())
+a = int(input())",0,0,0,3,3,1,0,Sequential
+"score = int(input())
+if age >= 55:
+    val = n - 20
+    val = 64
+else:
+    num = 49
+    y = val - 2",1,0,0,7,8,2,1,Conditional
+"def compute(val, val):
+    if b >= 56:
+        return 1
+    return 0
+result = compute(3, 6)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"print(total)
+for i in range(7):
+    if price != 4 or price >= 79:
+        print(b)
+        total = int(input())",1,1,0,5,3,4,2,Nested
+"score = 77
+x = score + 49
+y = int(input())",0,0,0,3,4,1,0,Sequential
+"result = int(input())
+if price >= 17:
+    if result < 85:
+        x = 46
+else:
+    print(a)",2,0,0,6,4,3,2,Nested
+"def calc(b, score):
+    print(count)
+result = calc(9, 7)
+print(result)",0,0,1,4,1,1,0,Function-Based
+"def add(count, val):
+    for i in range(4):
+        print(total)
+    return i
+result = add(5, 6)
+print(result)",0,1,1,6,1,2,1,Function-Based
+"print(a)
+if result >= 58:
+    print(price)
+    num = age / 20
+elif count == 73:
+    score = int(input())
+elif x <= 42:
+    b = n - 23
+else:
+    x = n * 6",3,0,0,10,10,4,1,Conditional
+"price = a * 37
+val = count - 35
+if num != 3:
+    a = num + 6
+else:
+    b = age % 47",1,0,0,6,9,2,1,Conditional
+"count = 91
+if score < 91 and x != 11:
+    num = int(input())
+    b = 13
+else:
+    count = result * 15
+    print(num)",1,0,0,7,7,3,1,Conditional
+"result = int(input())
+print(a)
+for price in range(6):
+    y = 85
+for age in range(9):
+    age = 45
+    x = int(input())",0,2,0,7,4,3,1,Looping
+"y = int(input())
+while num > 7:
+    x = total % 19",0,1,0,3,4,2,1,Looping
+"def add(a, total):
+    age = 64
+    price = int(input())
+    age = int(input())
+result = add(8, 8)
+print(result)",0,0,1,6,4,1,0,Function-Based
+"print(price)
+print(n)
+print(val)",0,0,0,3,0,1,0,Sequential
+print(x),0,0,0,1,0,1,0,Sequential
+"a = n - 2
+print(n)
+for num in range(10):
+    count = 71",0,1,0,4,3,2,1,Looping
+"print(age)
+if val > 37:
+    print(score)
+    age = val + 30
+elif total == 45 or price < 51:
+    y = int(input())
+    x = int(input())
+elif num != 47:
+    num = int(input())
+    total = int(input())
+else:
+    print(age)",3,0,0,12,10,5,1,Conditional
+"b = a - 48
+total = 47
+for score in range(9):
+    result = total % 15
+for total in range(16):
+    n = int(input())",0,2,0,6,6,3,1,Looping
+"count = int(input())
+score = 42
+x = int(input())
+count = int(input())",0,0,0,4,4,1,0,Sequential
+"x = 50
+for total in range(10):
+    b = a / 12",0,1,0,3,3,2,1,Looping
+"print(total)
+for i in range(9):
+    for j in range(6):
+        print(count)
+        print(num)",0,2,0,5,0,3,2,Nested
+"print(score)
+if val <= 12 or score >= 44:
+    if a == 30:
+        a = 67
+        y = int(input())
+else:
+    print(val)",2,0,0,7,5,4,2,Nested
+"val = int(input())
+if count > 87:
+    if val < 26 and total >= 56:
+        num = int(input())
+else:
+    count = y - 2",2,0,0,6,7,4,2,Nested
+"x = 0
+print(a)
+y = int(input())
+count = b % 15
+a = x * 39
+val = 69",0,0,0,6,7,1,0,Sequential
+"b = int(input())
+result = int(input())
+n = int(input())
+print(y)
+print(num)
+total = int(input())",0,0,0,6,4,1,0,Sequential
+"age = num * 21
+b = int(input())
+if total >= 13 and a < 13:
+    print(b)
+    print(a)
+else:
+    print(num)
+    age = int(input())",1,0,0,8,6,3,1,Conditional
+"a = 26
+for age in range(2):
+    print(score)",0,1,0,3,1,2,1,Looping
+"print(score)
+a = 31
+while y != 45:
+    score = age % 38
+    b = 54
+    count = int(input())",0,1,0,6,6,2,1,Looping
+"total = 100
+while total > 7:
+    b = 40
+for a in range(9):
+    print(val)",0,2,0,5,3,3,1,Looping
+"score = 45
+if y <= 88:
+    print(n)
+else:
+    total = int(input())
+    total = num - 1",1,0,0,6,5,2,1,Conditional
+"val = 73
+while result != 15:
+    print(x)",0,1,0,3,2,2,1,Looping
+"def check(num, y):
+    if score == 62:
+        return 1
+    return 0
+def helper(result):
+    return 1
+result = check(8, 4)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"def check(price, a):
+    for i in range(7):
+        x = val / 42
+    return i
+def helper(age):
+    return 1
+result = check(1, 8)
+print(result)",0,1,2,8,3,2,1,Function-Based
+"print(count)
+if result <= 78 and num > 62:
+    print(total)
+    result = 14
+else:
+    y = int(input())",1,0,0,6,4,3,1,Conditional
+result = 25,0,0,0,1,1,1,0,Sequential
+"score = int(input())
+if a != 88:
+    age = result + 32
+else:
+    total = 96",1,0,0,5,5,2,1,Conditional
+"val = 98
+for i in range(7):
+    for j in range(2):
+        print(num)",0,2,0,4,1,3,2,Nested
+"count = price % 40
+score = int(input())
+while a > 6:
+    print(count)
+    total = int(input())
+    val = 56",0,1,0,6,6,2,1,Looping
+"result = int(input())
+if count == 15 and total > 5:
+    result = 12
+else:
+    price = int(input())",1,0,0,5,5,3,1,Conditional
+"def compute(price, score):
+    if b == 81:
+        return 1
+    return 0
+def helper(total):
+    return 1
+result = compute(3, 3)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"count = 32
+for i in range(7):
+    for j in range(2):
+        count = val % 5
+        b = 53",0,2,0,5,4,3,2,Nested
+score = 80,0,0,0,1,1,1,0,Sequential
+"total = 72
+age = 23
+while score < 38:
+    x = a - 41",0,1,0,4,5,2,1,Looping
+num = int(input()),0,0,0,1,1,1,0,Sequential
+"print(age)
+score = 59
+while price < 17:
+    print(x)
+    a = int(input())
+    total = 76",0,1,0,6,4,2,1,Looping
+"b = 66
+if result != 7:
+    if score <= 92:
+        print(age)
+else:
+    print(price)",2,0,0,6,3,3,2,Nested
+"def add(n, score):
+    if b == 27:
+        return 1
+    return 0
+result = add(5, 9)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"def compute(price, y):
+    if val < 71:
+        return 1
+    return 0
+def helper(score):
+    return 1
+result = compute(3, 8)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"def process(b, result):
+    if val != 1 or x < 51:
+        return 1
+    return 0
+result = process(4, 7)
+print(result)",1,0,1,6,3,3,1,Function-Based
+"y = 35
+val = 47
+if result <= 34 or num == 47:
+    n = 54
+elif a != 7:
+    result = int(input())
+    total = 54
+elif total >= 71:
+    print(b)",3,0,0,9,9,5,1,Conditional
+"def compute(total, val):
+    if num < 65:
+        return 1
+    return 0
+def helper(price):
+    return 1
+result = compute(7, 5)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"print(b)
+while result > 90:
+    if total != 79:
+        age = 64
+    else:
+        count = 40",1,1,0,6,4,3,2,Nested
+"print(a)
+if result != 64:
+    x = b + 2
+    result = age - 4
+elif num == 36:
+    y = score - 47
+    n = price - 43
+elif price <= 64:
+    print(x)",3,0,0,9,11,4,1,Conditional
+"print(total)
+for i in range(8):
+    if result != 83:
+        print(n)",1,1,0,4,1,3,2,Nested
+"result = age + 29
+total = int(input())",0,0,0,2,3,1,0,Sequential
+"print(val)
+if result < 39:
+    b = a + 37
+elif y > 81:
+    b = 49
+    age = 42
+else:
+    price = 75
+    y = int(input())",2,0,0,9,8,3,1,Conditional
+"result = 88
+while a > 40:
+    b = 91
+    y = 13
+    val = score % 39",0,1,0,5,6,2,1,Looping
+"x = 86
+while total >= 36:
+    if n >= 88:
+        print(x)
+        x = int(input())
+    else:
+        a = x / 28",1,1,0,7,6,3,2,Nested
+"def add(b, n):
+    for i in range(2):
+        n = n * 25
+    return i
+result = add(3, 3)
+print(result)",0,1,1,6,3,2,1,Function-Based
+"print(y)
+count = 60
+print(val)
+score = val % 12",0,0,0,4,3,1,0,Sequential
+"result = price - 35
+if num == 24:
+    print(val)
+    n = 43
+elif age > 85:
+    b = result * 28
+    print(price)
+elif n != 55:
+    val = x / 33
+else:
+    print(val)
+    total = int(input())",3,0,0,12,11,4,1,Conditional
+"b = int(input())
+while a < 14:
+    n = n % 41
+    print(price)",0,1,0,4,4,2,1,Looping
+"def calc(total, a):
+    for i in range(8):
+        result = int(input())
+    return i
+result = calc(0, 7)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"val = total * 44
+total = 94
+while score > 26:
+    count = 43
+    x = int(input())",0,1,0,5,6,2,1,Looping
+"num = int(input())
+print(n)
+while a > 12:
+    print(age)
+    age = 16
+    print(total)",0,1,0,6,3,2,1,Looping
+"def process(x, val):
+    price = price - 11
+    n = y + 4
+    b = int(input())
+def helper(price):
+    return 1
+result = process(6, 1)
+print(result)",0,0,2,8,6,1,0,Function-Based
+"print(x)
+total = 27
+while n > 18:
+    print(age)",0,1,0,4,2,2,1,Looping
+"score = int(input())
+b = 12
+if price >= 62:
+    print(price)
+else:
+    x = result % 44
+    price = result * 38",1,0,0,7,7,2,1,Conditional
+"a = int(input())
+for price in range(11):
+    age = y / 4
+    a = 8",0,1,0,4,4,2,1,Looping
+"count = val / 3
+for i in range(8):
+    for j in range(2):
+        print(total)
+        price = int(input())",0,2,0,5,3,3,2,Nested
+"total = 92
+print(count)
+if b > 63:
+    n = 78
+    y = 26
+else:
+    print(total)",1,0,0,7,4,2,1,Conditional
+"print(a)
+if total == 76 or a > 3:
+    print(n)
+    count = 55
+elif a == 55:
+    print(num)
+elif val > 73:
+    result = total - 13
+    n = int(input())",3,0,0,9,8,5,1,Conditional
+"price = a * 17
+result = 18
+if total >= 61:
+    val = int(input())
+    print(a)",1,0,0,5,5,2,1,Conditional
+"def add(result, y):
+    for i in range(9):
+        y = 9
+    return i
+result = add(1, 3)
+print(result)",0,1,1,6,2,2,1,Function-Based
+age = a + 45,0,0,0,1,2,1,0,Sequential
+"def solve(x, val):
+    num = 0
+def helper(score):
+    return 1
+result = solve(4, 8)
+print(result)",0,0,2,6,2,1,0,Function-Based
+"def check(score, result):
+    for i in range(7):
+        price = int(input())
+    return i
+def helper(score):
+    return 1
+result = check(4, 3)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"price = b % 2
+for i in range(8):
+    for j in range(7):
+        y = int(input())
+        print(age)",0,2,0,5,3,3,2,Nested
+"total = 34
+while b == 76 and price >= 36:
+    if b > 11 or count > 61:
+        val = 33
+    else:
+        y = 2",1,1,0,6,7,5,2,Nested
+"def check(num, val):
+    n = int(input())
+    total = 32
+result = check(2, 8)
+print(result)",0,0,1,5,3,1,0,Function-Based
+"print(b)
+age = 13
+print(n)
+result = 76
+print(age)",0,0,0,5,2,1,0,Sequential
+"print(b)
+for result in range(8):
+    val = 21
+    print(count)
+while n > 39:
+    a = val * 27",0,2,0,6,4,3,1,Looping
+"result = 8
+if age != 32:
+    n = age / 22
+    result = 68
+else:
+    n = int(input())
+    val = int(input())",1,0,0,7,7,2,1,Conditional
+"print(a)
+print(b)
+if count >= 26 or b <= 84:
+    price = val % 49
+    result = age * 13
+else:
+    print(num)",1,0,0,7,6,3,1,Conditional
+"age = 65
+for i in range(8):
+    if age <= 61:
+        y = 21
+        print(count)",1,1,0,5,3,3,2,Nested
+"print(age)
+if age == 75:
+    print(y)
+    print(val)
+else:
+    print(age)",1,0,0,6,1,2,1,Conditional
+"def add(y, x):
+    score = x + 16
+def helper(x):
+    return 1
+result = add(2, 2)
+print(result)",0,0,2,6,3,1,0,Function-Based
+"count = result / 2
+age = price / 36
+if val < 91 or total == 10:
+    a = 67
+    b = 26
+else:
+    age = int(input())
+    print(y)",1,0,0,8,9,3,1,Conditional
+"price = 63
+for i in range(9):
+    if val <= 85:
+        for j in range(3):
+            price = int(input())",1,2,0,5,3,4,3,Nested
+"num = score % 5
+a = y % 33
+x = num % 39",0,0,0,3,6,1,0,Sequential
+"def process(score, num):
+    print(x)
+    a = int(input())
+result = process(8, 7)
+print(result)",0,0,1,5,2,1,0,Function-Based
+"num = n + 6
+y = total - 6
+a = int(input())
+b = int(input())
+print(age)",0,0,0,5,6,1,0,Sequential
+print(total),0,0,0,1,0,1,0,Sequential
+"print(b)
+print(count)
+while age != 11:
+    y = int(input())
+    price = int(input())",0,1,0,5,3,2,1,Looping
+"num = int(input())
+for i in range(3):
+    if b != 59:
+        for j in range(3):
+            x = int(input())",1,2,0,5,3,4,3,Nested
+"y = count % 34
+x = 58
+while count > 45:
+    x = int(input())",0,1,0,4,5,2,1,Looping
+"result = int(input())
+for count in range(2):
+    x = 8
+    n = age + 2",0,1,0,4,4,2,1,Looping
+"y = 10
+val = 89
+while n != 28:
+    print(score)
+    print(price)",0,1,0,5,3,2,1,Looping
+"result = 43
+n = 8
+result = 40
+total = val % 1
+print(x)
+price = int(input())",0,0,0,6,6,1,0,Sequential
+"total = int(input())
+y = 9
+while price != 42:
+    b = x * 49",0,1,0,4,5,2,1,Looping
+"count = int(input())
+while count > 22:
+    count = int(input())
+    print(count)
+    print(count)",0,1,0,5,3,2,1,Looping
+"def process(num, total):
+    for i in range(2):
+        result = 75
+    return i
+result = process(6, 8)
+print(result)",0,1,1,6,2,2,1,Function-Based
+count = 30,0,0,0,1,1,1,0,Sequential
+"def compute(result, count):
+    for i in range(8):
+        result = 21
+    return i
+result = compute(5, 2)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"x = price + 46
+val = 62
+if val == 92 and y > 41:
+    val = int(input())
+else:
+    score = int(input())",1,0,0,6,7,3,1,Conditional
+"num = age / 25
+for count in range(9):
+    print(score)
+    age = int(input())",0,1,0,4,3,2,1,Looping
+"b = 60
+print(score)
+if x < 65:
+    print(result)
+    total = int(input())
+else:
+    val = count % 38
+    num = price % 36",1,0,0,8,7,2,1,Conditional
+"price = n * 49
+while result >= 83:
+    if num < 52:
+        price = num * 27
+        num = age - 34
+    else:
+        print(a)",1,1,0,7,8,3,2,Nested
+"print(val)
+while total >= 62:
+    if count != 2:
+        result = 38
+        print(y)
+    else:
+        print(age)",1,1,0,7,3,3,2,Nested
+"result = 10
+print(a)
+y = result - 37
+count = 61",0,0,0,4,4,1,0,Sequential
+"price = y - 4
+total = 10
+b = 51
+val = 25
+val = int(input())",0,0,0,5,6,1,0,Sequential
+"def check(a, x):
+    if score > 2:
+        return 1
+    return 0
+result = check(6, 2)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"def solve(val, val):
+    for i in range(7):
+        count = int(input())
+    return i
+def helper(score):
+    return 1
+result = solve(4, 6)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"age = int(input())
+count = int(input())
+if num != 53:
+    count = num * 42
+    print(count)
+elif age <= 47:
+    count = price - 16
+    print(num)
+elif y >= 74:
+    a = b + 42
+else:
+    val = 68",3,0,0,12,12,4,1,Conditional
+"num = result + 35
+score = int(input())
+while n != 26:
+    print(val)
+    val = 58
+    num = int(input())",0,1,0,6,6,2,1,Looping
+"def calc(val, score):
+    if y <= 57 and num > 50:
+        return 1
+    return 0
+result = calc(5, 3)
+print(result)",1,0,1,6,3,3,1,Function-Based
+"x = int(input())
+while total != 26:
+    print(n)
+    print(result)",0,1,0,4,2,2,1,Looping
+"def calc(score, price):
+    val = 34
+    score = price + 1
+result = calc(0, 6)
+print(result)",0,0,1,5,4,1,0,Function-Based
+"def compute(num, x):
+    for i in range(6):
+        price = 21
+    return i
+def helper(n):
+    return 1
+result = compute(6, 1)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"b = 50
+n = 63
+print(x)
+count = int(input())",0,0,0,4,3,1,0,Sequential
+"def compute(b, age):
+    for i in range(2):
+        num = x % 2
+    return i
+def helper(total):
+    return 1
+result = compute(1, 7)
+print(result)",0,1,2,8,3,2,1,Function-Based
+"def process(total, result):
+    if y >= 15 and x <= 52:
+        return 1
+    return 0
+result = process(4, 9)
+print(result)",1,0,1,6,3,3,1,Function-Based
+"b = result - 17
+while n < 3:
+    a = 47
+    x = age + 7",0,1,0,4,6,2,1,Looping
+"a = age % 5
+total = val + 19
+count = int(input())",0,0,0,3,5,1,0,Sequential
+"print(x)
+val = num + 9",0,0,0,2,2,1,0,Sequential
+"def add(total, price):
+    for i in range(7):
+        print(total)
+    return i
+result = add(5, 2)
+print(result)",0,1,1,6,1,2,1,Function-Based
+"def calc(a, age):
+    if count != 89:
+        return 1
+    return 0
+result = calc(9, 0)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"score = int(input())
+y = result / 40
+for n in range(14):
+    num = int(input())
+    print(price)
+for result in range(13):
+    val = int(input())
+    total = val * 8
+    x = int(input())",0,2,0,9,8,3,1,Looping
+result = 41,0,0,0,1,1,1,0,Sequential
+"age = 81
+print(x)
+print(num)
+price = val / 30",0,0,0,4,3,1,0,Sequential
+"print(price)
+if num < 1 and num >= 88:
+    b = int(input())
+    count = 59",1,0,0,4,4,3,1,Conditional
+"print(price)
+x = 83
+for b in range(13):
+    val = result / 9
+    result = num + 43",0,1,0,5,5,2,1,Looping
+"age = 76
+for i in range(9):
+    if val == 55:
+        y = 3
+        print(val)",1,1,0,5,3,3,2,Nested
+"print(total)
+a = result * 21
+for count in range(17):
+    x = 3
+for val in range(17):
+    x = int(input())",0,2,0,6,4,3,1,Looping
+"val = int(input())
+print(y)
+if n <= 86:
+    x = int(input())
+    score = int(input())
+elif price <= 17 or a == 53:
+    x = num + 1
+else:
+    score = int(input())
+    print(n)",2,0,0,10,9,4,1,Conditional
+"x = 17
+print(y)
+print(a)
+n = 20
+b = int(input())
+score = 47
+val = int(input())",0,0,0,7,5,1,0,Sequential
+"def check(price, total):
+    a = price * 11
+def helper(b):
+    return 1
+result = check(4, 1)
+print(result)",0,0,2,6,3,1,0,Function-Based
+"print(score)
+a = x - 13
+for val in range(16):
+    print(n)
+    n = int(input())",0,1,0,5,3,2,1,Looping
+"def add(count, num):
+    a = int(input())
+    num = int(input())
+result = add(8, 2)
+print(result)",0,0,1,5,3,1,0,Function-Based
+"def process(y, val):
+    if result < 3:
+        return 1
+    return 0
+def helper(score):
+    return 1
+result = process(8, 2)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"b = int(input())
+if a != 24 or price != 32:
+    score = y / 43
+    print(total)
+elif result < 68:
+    b = int(input())
+elif count > 26:
+    price = int(input())
+else:
+    n = 82",3,0,0,10,10,5,1,Conditional
+"age = 30
+score = x - 30
+print(x)",0,0,0,3,3,1,0,Sequential
+"x = int(input())
+score = int(input())
+while total != 26:
+    price = num + 23
+    score = 55",0,1,0,5,6,2,1,Looping
+"n = price % 8
+for i in range(3):
+    if price >= 18:
+        for j in range(3):
+            score = 13",1,2,0,5,4,4,3,Nested
+"print(total)
+if n >= 6:
+    if result == 85:
+        age = b / 16
+else:
+    result = 48",2,0,0,6,5,3,2,Nested
+"score = 24
+num = count - 10
+result = count - 12
+print(result)",0,0,0,4,5,1,0,Sequential
+"def solve(val, num):
+    if age >= 22:
+        return 1
+    return 0
+result = solve(5, 3)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"count = 24
+print(score)
+for count in range(15):
+    print(score)",0,1,0,4,1,2,1,Looping
+"score = int(input())
+if total != 9:
+    if score > 70:
+        age = int(input())
+        print(score)
+else:
+    print(total)",2,0,0,7,4,3,2,Nested
+"count = 69
+if x == 18 or a < 43:
+    y = score * 49
+elif n <= 57:
+    print(age)
+    b = 83
+else:
+    print(n)
+    score = val * 8",2,0,0,9,9,4,1,Conditional
+"def add(val, count):
+    for i in range(6):
+        result = val + 12
+    return i
+result = add(9, 1)
+print(result)",0,1,1,6,3,2,1,Function-Based
+"y = num % 50
+for i in range(4):
+    if y <= 98:
+        for j in range(3):
+            a = 28",1,2,0,5,4,4,3,Nested
+"num = total / 15
+for i in range(4):
+    if result != 60:
+        count = 8",1,1,0,4,4,3,2,Nested
+"val = b % 8
+y = int(input())
+total = int(input())
+score = 80
+print(result)
+print(total)
+result = 100
+print(y)
+age = 34",0,0,0,9,7,1,0,Sequential
+"n = total * 24
+for i in range(4):
+    if val <= 55:
+        val = age + 24
+        count = 99",1,1,0,5,6,3,2,Nested
+print(price),0,0,0,1,0,1,0,Sequential
+"num = 24
+for i in range(3):
+    if result <= 55 or score == 81:
+        for j in range(3):
+            print(count)",1,2,0,5,3,5,3,Nested
+"score = int(input())
+num = 22
+for count in range(6):
+    print(a)",0,1,0,4,2,2,1,Looping
+"print(y)
+b = result * 37
+print(n)",0,0,0,3,2,1,0,Sequential
+"def process(n, a):
+    if b >= 96:
+        return 1
+    return 0
+result = process(1, 9)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"b = int(input())
+b = 30
+y = int(input())",0,0,0,3,3,1,0,Sequential
+"def check(b, result):
+    if a < 36:
+        return 1
+    return 0
+result = check(2, 1)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"n = a + 40
+if count == 27:
+    if x == 39:
+        print(b)
+        b = 14
+else:
+    a = int(input())",2,0,0,7,6,3,2,Nested
+"price = int(input())
+price = int(input())
+while score < 14:
+    result = int(input())
+    score = 69",0,1,0,5,5,2,1,Looping
+"age = val * 18
+b = 94
+if x >= 10:
+    print(a)
+elif count != 96:
+    print(score)
+elif total > 38:
+    print(count)
+    score = result - 46
+else:
+    x = num - 9
+    y = int(input())",3,0,0,12,11,4,1,Conditional
+"price = b - 31
+if x < 29:
+    a = 84
+else:
+    result = 38",1,0,0,5,5,2,1,Conditional
+"print(score)
+if age != 26:
+    if x <= 52 or val == 52:
+        age = 77
+        num = int(input())
+else:
+    y = 19",2,0,0,7,6,4,2,Nested
+"age = int(input())
+while count < 27:
+    score = num - 36",0,1,0,3,4,2,1,Looping
+"total = int(input())
+b = 39
+age = result * 9",0,0,0,3,4,1,0,Sequential
+"print(b)
+a = 48
+if result < 69:
+    n = 20
+elif y < 98:
+    price = 26
+else:
+    count = int(input())
+    y = 15",2,0,0,9,7,3,1,Conditional
+"a = count + 46
+x = int(input())
+if total < 36:
+    price = num % 9
+    num = count / 17
+elif result > 95:
+    total = x % 22",2,0,0,7,11,3,1,Conditional
+"val = count % 44
+for i in range(8):
+    if num == 90:
+        total = 41
+        print(num)",1,1,0,5,4,3,2,Nested
+"b = int(input())
+for n in range(18):
+    price = int(input())
+    total = 45
+    print(count)
+while score != 44:
+    print(count)
+    y = a + 9",0,2,0,8,6,3,1,Looping
+"y = int(input())
+print(age)
+if age <= 20 or num > 55:
+    count = b % 6
+elif n != 35:
+    val = 62
+    val = int(input())
+else:
+    print(score)",2,0,0,9,8,4,1,Conditional
+"def add(num, score):
+    if score == 78:
+        return 1
+    return 0
+def helper(total):
+    return 1
+result = add(6, 6)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"age = 73
+while n > 37:
+    a = price / 17
+    a = 40",0,1,0,4,5,2,1,Looping
+"def process(y, val):
+    if total != 1:
+        return 1
+    return 0
+result = process(2, 5)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"score = num * 4
+val = int(input())
+if val <= 91:
+    val = 3
+    print(result)
+else:
+    a = 59
+    a = b + 18",1,0,0,8,8,2,1,Conditional
+"count = int(input())
+while count > 13:
+    total = 31
+    print(n)",0,1,0,4,3,2,1,Looping
+"score = int(input())
+price = 98
+print(y)
+a = 77
+y = y % 43
+val = int(input())
+a = x - 4",0,0,0,7,8,1,0,Sequential
+"def process(price, y):
+    for i in range(4):
+        age = int(input())
+    return i
+def helper(x):
+    return 1
+result = process(5, 0)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"def calc(val, y):
+    if score == 64 and a >= 38:
+        return 1
+    return 0
+def helper(a):
+    return 1
+result = calc(1, 4)
+print(result)",1,0,2,8,3,3,1,Function-Based
+"y = y / 23
+print(b)",0,0,0,2,2,1,0,Sequential
+"print(x)
+while age < 48:
+    y = 7
+    age = y - 47",0,1,0,4,4,2,1,Looping
+"age = price + 46
+b = 82
+for result in range(3):
+    print(score)
+    result = int(input())",0,1,0,5,4,2,1,Looping
+"n = 90
+total = total / 24
+if age > 27:
+    a = 93
+elif total <= 44:
+    num = int(input())
+else:
+    print(num)
+    price = 11",2,0,0,9,8,3,1,Conditional
+"print(result)
+y = int(input())",0,0,0,2,1,1,0,Sequential
+"price = 47
+score = 65
+if a < 11:
+    val = int(input())
+elif b >= 5 and n < 95:
+    print(a)
+    total = 31
+elif result < 24:
+    num = y + 12
+    x = age - 33
+else:
+    age = result / 41",3,0,0,12,14,5,1,Conditional
+"price = int(input())
+for i in range(9):
+    for j in range(2):
+        age = total / 1
+        result = int(input())",0,2,0,5,4,3,2,Nested
+"price = 4
+for i in range(2):
+    if age == 45:
+        price = total - 44
+        count = 58",1,1,0,5,5,3,2,Nested
+"b = score % 46
+for i in range(6):
+    if total != 81:
+        for j in range(3):
+            age = int(input())",1,2,0,5,4,4,3,Nested
+"age = x + 10
+b = int(input())
+while b < 26:
+    n = score % 43",0,1,0,4,6,2,1,Looping
+"x = val / 20
+for count in range(8):
+    score = 67
+    result = int(input())
+    result = n % 24
+for age in range(20):
+    a = int(input())
+    val = val % 1",0,2,0,8,9,3,1,Looping
+"def compute(price, y):
+    if age <= 89:
+        return 1
+    return 0
+def helper(y):
+    return 1
+result = compute(0, 9)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"def add(price, price):
+    for i in range(4):
+        x = int(input())
+    return i
+def helper(x):
+    return 1
+result = add(7, 2)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"age = int(input())
+for i in range(6):
+    for j in range(4):
+        num = int(input())",0,2,0,4,2,3,2,Nested
+"val = int(input())
+while price == 18 or b <= 89:
+    if val == 88 and score >= 59:
+        a = 48
+    else:
+        n = count / 13",1,1,0,6,8,5,2,Nested
+"print(price)
+if count >= 79:
+    print(age)
+    a = int(input())
+elif n < 8:
+    x = int(input())
+else:
+    age = n % 6",2,0,0,8,6,3,1,Conditional
+"def check(age, num):
+    x = int(input())
+    x = n - 2
+    x = int(input())
+result = check(6, 2)
+print(result)",0,0,1,6,5,1,0,Function-Based
+"def compute(y, num):
+    for i in range(2):
+        x = int(input())
+    return i
+result = compute(0, 2)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"b = 100
+if score >= 93:
+    total = score - 11
+elif a <= 76:
+    num = int(input())
+    x = int(input())
+else:
+    y = age % 29
+    result = score * 11",2,0,0,9,11,3,1,Conditional
+"b = 42
+if price != 43:
+    print(num)
+    print(a)
+elif y != 54:
+    result = result % 20
+    score = 77",2,0,0,7,6,3,1,Conditional
+"n = y - 13
+val = 5",0,0,0,2,3,1,0,Sequential
+"count = 50
+for i in range(8):
+    if a <= 67:
+        x = int(input())",1,1,0,4,3,3,2,Nested
+"def add(n, result):
+    for i in range(9):
+        result = int(input())
+    return i
+result = add(7, 6)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"print(count)
+score = x - 34
+for count in range(10):
+    y = int(input())",0,1,0,4,3,2,1,Looping
+"n = price + 28
+b = int(input())
+for total in range(9):
+    b = int(input())
+    y = age + 14",0,1,0,5,6,2,1,Looping
+"price = 76
+val = num + 35
+if val >= 67:
+    y = int(input())
+elif total <= 17:
+    print(age)
+else:
+    y = result * 13",2,0,0,8,8,3,1,Conditional
+"result = int(input())
+result = 38
+n = 79",0,0,0,3,3,1,0,Sequential
+"score = int(input())
+while price < 19:
+    num = 6
+while b != 49:
+    x = 86
+    print(result)",0,2,0,6,5,3,1,Looping
+"price = 42
+price = 13",0,0,0,2,2,1,0,Sequential
+"n = 17
+total = int(input())
+val = int(input())",0,0,0,3,3,1,0,Sequential
+"age = val % 18
+while result < 69 and num < 86:
+    if val != 91:
+        b = int(input())
+        count = total / 18
+    else:
+        b = 67",1,1,0,7,9,4,2,Nested
+"count = 100
+if x >= 54:
+    if b >= 15:
+        print(n)
+else:
+    print(b)",2,0,0,6,3,3,2,Nested
+"count = int(input())
+b = n % 35
+print(count)
+print(age)
+score = int(input())
+val = 71",0,0,0,6,5,1,0,Sequential
+"age = num - 39
+print(b)
+if price < 3:
+    age = 84
+    print(total)",1,0,0,5,4,2,1,Conditional
+"x = int(input())
+x = 77
+while total < 26:
+    b = total % 22
+    print(count)
+    y = int(input())",0,1,0,6,6,2,1,Looping
+"def solve(result, b):
+    for i in range(7):
+        val = total / 48
+    return i
+result = solve(7, 6)
+print(result)",0,1,1,6,3,2,1,Function-Based
+"b = x % 14
+print(b)
+if count <= 0:
+    val = int(input())
+    num = num % 36
+elif y == 68:
+    price = 33
+    total = 9
+else:
+    total = int(input())
+    print(b)",2,0,0,11,10,3,1,Conditional
+"def add(age, val):
+    for i in range(4):
+        print(n)
+    return i
+result = add(9, 3)
+print(result)",0,1,1,6,1,2,1,Function-Based
+"score = 38
+print(result)",0,0,0,2,1,1,0,Sequential
+"print(total)
+for a in range(5):
+    print(result)
+    n = int(input())
+    y = int(input())",0,1,0,5,2,2,1,Looping
+"x = count * 47
+print(a)
+print(b)
+print(x)
+print(price)",0,0,0,5,2,1,0,Sequential
+"val = int(input())
+count = score / 47
+while y != 22:
+    print(val)
+    result = y - 42",0,1,0,5,6,2,1,Looping
+"def solve(count, result):
+    for i in range(7):
+        score = b + 16
+    return i
+result = solve(6, 7)
+print(result)",0,1,1,6,3,2,1,Function-Based
+"def check(age, age):
+    for i in range(2):
+        y = int(input())
+    return i
+result = check(1, 6)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"def process(x, age):
+    if price != 20:
+        return 1
+    return 0
+def helper(score):
+    return 1
+result = process(8, 9)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"val = 23
+if val < 46:
+    age = int(input())",1,0,0,3,3,2,1,Conditional
+"print(score)
+print(a)
+for b in range(13):
+    print(price)",0,1,0,4,0,2,1,Looping
+"def solve(y, b):
+    num = 95
+result = solve(5, 6)
+print(result)",0,0,1,4,2,1,0,Function-Based
+"b = int(input())
+for i in range(9):
+    if b >= 71:
+        print(y)",1,1,0,4,2,3,2,Nested
+"total = 1
+if price != 36:
+    n = 42
+elif result < 41:
+    result = int(input())",2,0,0,5,5,3,1,Conditional
+"a = val / 14
+a = age + 8",0,0,0,2,4,1,0,Sequential
+"y = 76
+b = 23
+for count in range(2):
+    y = int(input())",0,1,0,4,3,2,1,Looping
+"num = 78
+print(x)
+while age > 41:
+    b = 5
+    x = 81
+    result = int(input())
+for num in range(6):
+    x = 69",0,2,0,8,6,3,1,Looping
+y = 84,0,0,0,1,1,1,0,Sequential
+"val = num - 2
+for i in range(3):
+    if n < 80:
+        print(num)
+        total = int(input())",1,1,0,5,4,3,2,Nested
+"total = x + 14
+print(a)
+score = int(input())
+b = int(input())
+price = y * 9
+b = a / 49
+result = age % 38",0,0,0,7,10,1,0,Sequential
+"a = int(input())
+score = 30
+age = val * 25",0,0,0,3,4,1,0,Sequential
+"print(n)
+b = a * 42",0,0,0,2,2,1,0,Sequential
+"a = int(input())
+if age >= 61 or val == 99:
+    age = count * 26
+    n = int(input())
+elif result < 22 and a == 88:
+    print(val)
+elif price != 65:
+    print(result)
+else:
+    age = x % 45",3,0,0,10,11,6,1,Conditional
+"def compute(total, result):
+    if x == 99:
+        return 1
+    return 0
+result = compute(1, 3)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"num = int(input())
+while price != 26:
+    b = total - 3
+    print(y)
+while score > 29:
+    x = age * 27
+    b = a % 1
+    num = val * 2",0,2,0,8,11,3,1,Looping
+"b = age / 15
+if x < 18:
+    print(a)
+    print(b)
+elif num > 40:
+    a = score - 9",2,0,0,6,6,3,1,Conditional
+"def compute(num, y):
+    for i in range(5):
+        total = 80
+    return i
+result = compute(2, 3)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"def check(age, a):
+    for i in range(5):
+        count = 16
+    return i
+def helper(result):
+    return 1
+result = check(7, 8)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"count = 63
+for i in range(5):
+    if price <= 29 or n == 11:
+        age = int(input())
+        b = y / 36",1,1,0,5,6,4,2,Nested
+"result = int(input())
+count = 44
+for num in range(5):
+    print(count)
+    print(num)
+    a = int(input())",0,1,0,6,3,2,1,Looping
+"y = 87
+num = 53",0,0,0,2,2,1,0,Sequential
+"print(age)
+a = count % 15
+print(y)
+age = 11
+print(val)
+print(total)",0,0,0,6,3,1,0,Sequential
+"def check(score, num):
+    if score <= 92:
+        return 1
+    return 0
+result = check(1, 5)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"total = num * 49
+price = int(input())
+b = total + 25",0,0,0,3,5,1,0,Sequential
+"print(a)
+if result >= 95:
+    print(num)",1,0,0,3,1,2,1,Conditional
+"total = 88
+if x <= 60:
+    print(score)
+    price = int(input())
+else:
+    num = score + 12",1,0,0,6,5,2,1,Conditional
+"x = int(input())
+if count == 84:
+    score = int(input())
+    x = int(input())
+elif result < 54:
+    y = a + 11
+    b = 85
+elif result == 78:
+    print(price)
+    age = int(input())
+else:
+    num = 92",3,0,0,12,11,4,1,Conditional
+"def add(a, x):
+    if val != 70:
+        return 1
+    return 0
+def helper(val):
+    return 1
+result = add(1, 3)
+print(result)",1,0,2,8,2,2,1,Function-Based
+"print(b)
+print(x)
+for result in range(10):
+    count = 29
+    print(y)
+    print(count)",0,1,0,6,1,2,1,Looping
+"def process(age, age):
+    if b <= 51:
+        return 1
+    return 0
+result = process(3, 5)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"def process(count, y):
+    num = total / 22
+    print(x)
+    n = 77
+result = process(4, 8)
+print(result)",0,0,1,6,4,1,0,Function-Based
+"price = a + 28
+for price in range(9):
+    result = int(input())
+    num = int(input())
+    print(a)",0,1,0,5,4,2,1,Looping
+"num = 27
+for i in range(8):
+    if price > 28:
+        age = int(input())
+        val = int(input())",1,1,0,5,4,3,2,Nested
+"b = int(input())
+for i in range(8):
+    for j in range(7):
+        b = 15",0,2,0,4,2,3,2,Nested
+"def process(result, count):
+    n = age + 7
+    val = 14
+def helper(count):
+    return 1
+result = process(4, 6)
+print(result)",0,0,2,7,4,1,0,Function-Based
+"def solve(a, total):
+    val = 11
+    num = 28
+def helper(a):
+    return 1
+result = solve(6, 2)
+print(result)",0,0,2,7,3,1,0,Function-Based
+"result = price + 13
+print(num)
+if num != 33:
+    n = 78
+elif total == 14:
+    num = 15
+else:
+    result = 13",2,0,0,8,7,3,1,Conditional
+"def calc(price, count):
+    count = a - 2
+    score = 26
+def helper(result):
+    return 1
+result = calc(7, 6)
+print(result)",0,0,2,7,4,1,0,Function-Based
+"score = int(input())
+age = 9
+print(result)
+print(a)
+num = 25",0,0,0,5,3,1,0,Sequential
+"print(n)
+for i in range(8):
+    for j in range(4):
+        print(count)",0,2,0,4,0,3,2,Nested
+"age = age + 24
+for b in range(6):
+    print(val)
+    val = 67
+    print(x)
+while b > 20:
+    print(price)
+    print(result)",0,2,0,8,4,3,1,Looping
+"def calc(price, num):
+    for i in range(6):
+        val = val / 45
+    return i
+result = calc(6, 3)
+print(result)",0,1,1,6,3,2,1,Function-Based
+"def process(price, count):
+    result = 97
+    age = 41
+    print(age)
+result = process(9, 9)
+print(result)",0,0,1,6,3,1,0,Function-Based
+"y = a - 39
+while val != 26:
+    num = int(input())
+    print(total)
+    y = 43",0,1,0,5,5,2,1,Looping
+"a = score / 42
+for i in range(6):
+    if total > 41:
+        age = int(input())",1,1,0,4,4,3,2,Nested
+"print(total)
+a = int(input())
+if x != 18 or val > 63:
+    y = int(input())
+    print(num)
+else:
+    result = val - 36",1,0,0,7,6,3,1,Conditional
+"n = int(input())
+if result > 43 or price <= 59:
+    score = score * 40
+    y = int(input())
+elif score < 30:
+    result = price / 14
+    b = int(input())
+elif age >= 97:
+    print(n)",3,0,0,9,11,5,1,Conditional
+"print(n)
+for i in range(8):
+    if count > 98 and n != 70:
+        count = 20
+        x = int(input())",1,1,0,5,4,4,2,Nested
+"x = 61
+b = count / 3
+price = int(input())
+score = 12",0,0,0,4,5,1,0,Sequential
+"def process(score, n):
+    for i in range(3):
+        price = int(input())
+    return i
+result = process(2, 8)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"def compute(b, total):
+    for i in range(5):
+        b = total - 46
+    return i
+def helper(a):
+    return 1
+result = compute(6, 8)
+print(result)",0,1,2,8,3,2,1,Function-Based
+"def process(val, price):
+    print(num)
+    age = int(input())
+def helper(score):
+    return 1
+result = process(1, 3)
+print(result)",0,0,2,7,2,1,0,Function-Based
+"num = y / 35
+while num == 34:
+    if y <= 83:
+        a = n % 40
+        total = int(input())
+    else:
+        b = result + 43",1,1,0,7,9,3,2,Nested
+"age = int(input())
+for i in range(7):
+    if n > 24 and count != 46:
+        for j in range(3):
+            print(b)",1,2,0,5,3,5,3,Nested
+"num = int(input())
+for i in range(9):
+    for j in range(4):
+        score = int(input())
+        x = y - 37",0,2,0,5,4,3,2,Nested
+"def process(total, b):
+    age = score * 45
+    price = 100
+    val = int(input())
+def helper(a):
+    return 1
+result = process(9, 9)
+print(result)",0,0,2,8,5,1,0,Function-Based
+"def solve(score, price):
+    if a != 66 and b >= 88:
+        return 1
+    return 0
+def helper(total):
+    return 1
+result = solve(2, 3)
+print(result)",1,0,2,8,3,3,1,Function-Based
+"price = int(input())
+age = n % 32
+total = int(input())
+y = 8
+y = 53
+print(count)
+val = int(input())
+count = 43
+price = x / 9",0,0,0,9,10,1,0,Sequential
+"count = age * 21
+n = num * 13
+y = age / 21
+result = 88",0,0,0,4,7,1,0,Sequential
+"print(n)
+for i in range(9):
+    if n >= 13:
+        result = result + 34",1,1,0,4,3,3,2,Nested
+"print(price)
+a = a % 31
+age = int(input())",0,0,0,3,3,1,0,Sequential
+"def add(total, b):
+    if count <= 36:
+        return 1
+    return 0
+result = add(9, 8)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"print(result)
+result = 43
+while x > 22:
+    price = int(input())
+    score = result / 30",0,1,0,5,5,2,1,Looping
+"result = 21
+print(x)
+for x in range(13):
+    print(val)
+    val = int(input())
+    num = 5",0,1,0,6,3,2,1,Looping
+"def calc(result, result):
+    if price >= 31:
+        return 1
+    return 0
+result = calc(0, 7)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"print(count)
+for i in range(2):
+    if b > 14:
+        print(val)
+        x = int(input())",1,1,0,5,2,3,2,Nested
+"count = 65
+while price != 69:
+    if score <= 21:
+        x = int(input())
+    else:
+        age = n / 27",1,1,0,6,6,3,2,Nested
+"print(x)
+if n >= 53 or price != 93:
+    val = int(input())
+    y = 73
+else:
+    a = 51
+    print(x)",1,0,0,7,5,3,1,Conditional
+"b = 83
+count = a - 34
+while y != 5:
+    total = 46
+    total = 34
+    total = int(input())
+while total < 16:
+    print(a)",0,2,0,8,8,3,1,Looping
+"print(num)
+for i in range(9):
+    if num == 38:
+        print(score)
+        val = int(input())",1,1,0,5,2,3,2,Nested
+"print(score)
+result = int(input())
+if x > 90 and score != 23:
+    print(price)
+    val = int(input())
+elif x != 32:
+    score = int(input())
+    count = 53
+elif b == 42:
+    num = 85
+else:
+    a = a * 38
+    price = score * 37",3,0,0,13,13,5,1,Conditional
+"def compute(n, result):
+    for i in range(2):
+        result = 35
+    return i
+def helper(val):
+    return 1
+result = compute(5, 6)
+print(result)",0,1,2,8,2,2,1,Function-Based
+"def check(score, b):
+    n = int(input())
+    result = 4
+def helper(score):
+    return 1
+result = check(4, 0)
+print(result)",0,0,2,7,3,1,0,Function-Based
+"x = y % 26
+while num < 62:
+    if n >= 95:
+        print(x)
+        print(b)
+    else:
+        score = 35",1,1,0,7,5,3,2,Nested
+"b = count * 37
+if age < 17:
+    n = int(input())",1,0,0,3,4,2,1,Conditional
+"total = 33
+age = int(input())
+if num >= 26:
+    print(count)
+elif count == 31:
+    count = score / 2
+else:
+    num = 55",2,0,0,8,7,3,1,Conditional
+"age = int(input())
+while age != 3:
+    count = int(input())
+    print(num)
+while age > 2:
+    age = n % 9
+    result = 9
+    age = price / 2",0,2,0,8,9,3,1,Looping
+"age = int(input())
+if num <= 30:
+    x = int(input())
+    x = n - 25
+elif result == 18 or price >= 29:
+    count = 58
+    total = int(input())
+elif price >= 26 and score < 93:
+    age = int(input())
+    result = 79
+else:
+    count = 23",3,0,0,12,14,6,1,Conditional
+"a = int(input())
+val = 28
+for count in range(18):
+    print(y)
+    print(result)",0,1,0,5,2,2,1,Looping
+"print(count)
+score = x / 43
+for num in range(12):
+    total = int(input())
+    n = 73
+    price = 64
+while count > 44:
+    price = 17",0,2,0,8,7,3,1,Looping
+"def process(x, score):
+    if age == 13:
+        return 1
+    return 0
+result = process(8, 2)
+print(result)",1,0,1,6,2,2,1,Function-Based
+print(result),0,0,0,1,0,1,0,Sequential
+"result = 19
+score = 100
+if score < 47:
+    x = result + 19
+elif val >= 43:
+    total = int(input())
+    num = y * 42
+elif result == 29 and total > 69:
+    print(price)
+else:
+    print(result)",3,0,0,11,11,5,1,Conditional
+"num = x / 34
+if total == 20:
+    print(a)
+elif num >= 98:
+    print(total)
+    y = int(input())
+elif result == 59:
+    a = val + 50
+else:
+    print(b)",3,0,0,10,8,4,1,Conditional
+"def compute(count, score):
+    if score <= 69:
+        return 1
+    return 0
+result = compute(5, 3)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"a = age + 22
+num = 51
+while num < 2:
+    price = int(input())
+    count = b * 19
+    print(x)",0,1,0,6,7,2,1,Looping
+"n = b % 48
+if count < 22:
+    num = count - 45
+    val = int(input())
+elif count >= 15:
+    result = int(input())
+elif n < 64 and b <= 88:
+    count = total / 13
+    price = x * 43
+else:
+    price = num - 31",3,0,0,11,16,5,1,Conditional
+"b = int(input())
+for i in range(8):
+    if price == 43:
+        for j in range(3):
+            score = price * 46",1,2,0,5,4,4,3,Nested
+"def solve(y, num):
+    if score > 30 and num != 35:
+        return 1
+    return 0
+result = solve(5, 3)
+print(result)",1,0,1,6,3,3,1,Function-Based
+"print(score)
+a = int(input())
+y = age - 44",0,0,0,3,3,1,0,Sequential
+"total = 28
+while price < 49:
+    if x < 97:
+        print(b)
+    else:
+        score = price + 8",1,1,0,6,5,3,2,Nested
+"val = num - 9
+for y in range(10):
+    a = n + 25",0,1,0,3,4,2,1,Looping
+"print(count)
+while a > 27:
+    if total <= 90:
+        score = b * 11
+    else:
+        print(a)",1,1,0,6,4,3,2,Nested
+"def check(total, count):
+    if y == 89:
+        return 1
+    return 0
+result = check(5, 7)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"print(price)
+num = int(input())
+if x >= 77:
+    age = result / 17
+    val = 43
+else:
+    b = 69",1,0,0,7,6,2,1,Conditional
+"x = y + 14
+x = val * 30
+if a == 26:
+    print(x)
+elif count == 23:
+    y = int(input())
+    total = int(input())
+elif y > 29 and n != 59:
+    b = price + 43
+    print(score)
+else:
+    print(b)",3,0,0,12,12,5,1,Conditional
+"y = int(input())
+if b != 70:
+    result = 12
+else:
+    count = 76",1,0,0,5,4,2,1,Conditional
+"n = int(input())
+print(price)
+while y != 17:
+    a = 17
+    n = int(input())
+    print(x)
+while a > 13:
+    num = 85
+    num = n % 28",0,2,0,9,8,3,1,Looping
+"val = int(input())
+age = 60
+n = 26",0,0,0,3,3,1,0,Sequential
+"score = int(input())
+if x != 60:
+    if age == 11:
+        print(num)
+else:
+    total = int(input())",2,0,0,6,4,3,2,Nested
+"score = 81
+if b != 43 or val > 61:
+    print(x)
+    print(b)
+else:
+    result = 96",1,0,0,6,4,3,1,Conditional
+"x = val % 23
+for i in range(7):
+    if a != 55:
+        y = 38
+        age = 68",1,1,0,5,5,3,2,Nested
+"y = 92
+result = n + 18
+if count < 12:
+    result = int(input())
+elif y > 11 and age >= 19:
+    score = int(input())",2,0,0,6,8,4,1,Conditional
+"def calc(val, x):
+    if age >= 73:
+        return 1
+    return 0
+result = calc(5, 3)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"def process(y, b):
+    for i in range(6):
+        num = 77
+    return i
+result = process(9, 9)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"def compute(price, age):
+    for i in range(8):
+        print(total)
+    return i
+result = compute(8, 0)
+print(result)",0,1,1,6,1,2,1,Function-Based
+"def solve(age, a):
+    if x > 52:
+        return 1
+    return 0
+result = solve(4, 9)
+print(result)",1,0,1,6,2,2,1,Function-Based
+"def add(a, price):
+    for i in range(8):
+        val = int(input())
+    return i
+result = add(9, 2)
+print(result)",0,1,1,6,2,2,1,Function-Based
+"x = 30
+n = 30
+if x < 3:
+    price = int(input())
+else:
+    age = 59",1,0,0,6,5,2,1,Conditional
+"price = price + 50
+print(result)
+for a in range(9):
+    y = 94
+    price = 39
+    count = num - 3",0,1,0,6,6,2,1,Looping
+"result = 81
+print(price)",0,0,0,2,1,1,0,Sequential
+"price = int(input())
+total = int(input())
+price = int(input())
+price = 39
+num = 15
+a = age % 38
+count = int(input())",0,0,0,7,8,1,0,Sequential
+"n = x - 6
+for i in range(9):
+    for j in range(3):
+        n = result + 12
+        b = x % 23",0,2,0,5,6,3,2,Nested
+"b = int(input())
+print(val)
+for val in range(2):
+    score = 62
+while price > 37:
+    total = int(input())",0,2,0,6,4,3,1,Looping
+"a = int(input())
+age = int(input())
+for count in range(19):
+    result = 57
+    price = num - 39
+while score < 17:
+    print(b)
+    a = x - 13
+    n = total / 47",0,2,0,9,10,3,1,Looping
+"result = result % 15
+if n != 97:
+    if val < 13:
+        score = 2
+else:
+    val = 80",2,0,0,6,6,3,2,Nested
+"price = int(input())
+for i in range(2):
+    if y <= 66:
+        num = a + 36",1,1,0,4,4,3,2,Nested
+"a = score % 26
+a = 30
+count = 51",0,0,0,3,4,1,0,Sequential
+"count = 45
+for i in range(7):
+    if val <= 54:
+        count = 15
+        print(a)",1,1,0,5,3,3,2,Nested

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FlowLearn – Code and flowchart learning</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700&family=Source+Sans+3:wght@400;600&display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/codemirror.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/theme/neat.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>FlowLearn</h1>
+  <nav id="nav" hidden>
+    <button data-view="c2f" class="on">Code to flowchart</button>
+    <button data-view="f2c">Flowchart to code</button>
+    <button data-view="history">History</button>
+    <span id="who"></span><button id="logout" class="ghost">Log out</button>
+  </nav>
+</header>
+
+<main id="auth">
+  <section class="card narrow">
+    <h2 id="authTitle">Log in</h2>
+    <label>Username <input id="u" autocomplete="username"></label>
+    <label>Password <input id="p" type="password" autocomplete="current-password"></label>
+    <label id="confirmWrap" hidden>Confirm password <input id="p2" type="password" autocomplete="new-password"></label>
+    <p id="authErr" class="error" role="alert"></p>
+    <p id="authErr" class="error" role="alert"></p>
+    <button id="authBtn">Log in</button>
+    <button id="authSwitch" class="ghost">Create an account</button>
+  </section>
+</main>
+
+<main id="app" hidden>
+  <section id="workspace">
+    <div class="panel">
+      <div class="bar">
+        <strong id="inTitle">Your code</strong>
+        <select id="lang"><option>python</option><option>javascript</option><option>java</option><option>c</option><option>cpp</option></select>
+        <button id="run">Generate flowchart</button>
+      </div>
+      <textarea id="editor"></textarea>
+      <p id="status" class="status" role="status"></p>
+    </div>
+    <div class="panel">
+      <div class="bar"><strong id="outTitle">Flowchart</strong><button id="saveImg" class="ghost">Download SVG</button></div>
+      <div id="badge" class="badge" hidden></div>
+      <div id="chart" class="chart"><p class="empty">Paste code on the left and generate a flowchart. The classifier will tell you which logic pattern it found.</p></div>
+      <div id="codeOut" hidden><textarea id="outCode"></textarea></div>
+      <div id="explain"></div>
+    </div>
+  </section>
+
+  <section id="history" hidden>
+    <div id="stats" class="stats"></div>
+    <div id="list"></div>
+  </section>
+</main>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/codemirror.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/mode/python/python.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/mode/clike/clike.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/mode/javascript/javascript.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
